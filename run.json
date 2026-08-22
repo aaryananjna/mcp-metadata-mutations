@@ -1,0 +1,10 @@
+{
+  "snapshot": "2026-08-22",
+  "pages": 807,
+  "version_records": 80662,
+  "distinct_servers": 24797,
+  "new_blobs": 26,
+  "states_opened": 80662,
+  "states_closed": 0,
+  "duplicate_keys": 0
+}
