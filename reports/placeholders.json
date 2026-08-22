@@ -1,0 +1,32 @@
+[
+  {
+    "server": "com.nursinghomedatabase/mcp",
+    "version": "1.0.0",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/nhd-mcp-public-documentation",
+    "status": "active"
+  },
+  {
+    "server": "io.github.SpearmanMODE/nexus-alpha-geometry",
+    "version": "0.1.0",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/flynn-nexus-dashboard",
+    "status": "active"
+  },
+  {
+    "server": "io.github.SpearmanMODE/nexus-alpha-geometry",
+    "version": "0.1.1",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/flynn-nexus-dashboard",
+    "status": "active"
+  },
+  {
+    "server": "io.github.poojaBjAcharya/cdgcsearchmetadata",
+    "version": "1.0.0",
+    "url": "https://github.com/example/remote-fs",
+    "status": "active"
+  },
+  {
+    "server": "so.pharaoh/pharaoh",
+    "version": "1.0.0",
+    "url": "https://github.com/YOUR_ORG/pharaoh-mcp",
+    "status": "active"
+  }
+]

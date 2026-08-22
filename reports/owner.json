@@ -1,0 +1,1361 @@
+{
+  "transition": "repo_owner_changed",
+  "total": 192,
+  "buckets": {
+    "converged_to_namespace": 72,
+    "diverged_from_namespace": 39,
+    "substring_related": 2,
+    "both_match_namespace": 49,
+    "unrelated": 14,
+    "forge_changed": 5,
+    "placeholder_replaced": 3,
+    "homoglyph_confusable": 1,
+    "case_or_punctuation_only": 7
+  },
+  "events": [
+    {
+      "server": "ai.auxen/auxen",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'auxen'"
+    },
+    {
+      "server": "ai.bloopo/bloopo",
+      "from_version": "0.1.0",
+      "to_version": "0.1.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'bloopo'"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "from_version": "3.22.1",
+      "to_version": "3.22.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'bowmark'"
+    },
+    {
+      "server": "ai.canaryusers/canaryusers",
+      "from_version": "1.2.1",
+      "to_version": "1.2.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'canaryusers'"
+    },
+    {
+      "server": "ai.compeller/compel",
+      "from_version": "0.5.0",
+      "to_version": "0.5.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'compeller'"
+    },
+    {
+      "server": "ai.dinglebear/labby",
+      "from_version": "1.3.0",
+      "to_version": "1.8.8",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'dinglebear'"
+    },
+    {
+      "server": "ai.everway/everway-mcp-server",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'everway'"
+    },
+    {
+      "server": "ai.fodda/mcp-server",
+      "from_version": "1.3.0",
+      "to_version": "1.30.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'fodda'"
+    },
+    {
+      "server": "ai.inflowpay.app/inflow",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "substring_related",
+      "note": "inflowpay -> inflowpayai"
+    },
+    {
+      "server": "ai.kawacode/mcp",
+      "from_version": "6.1.2",
+      "to_version": "6.1.5",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'kawacode'"
+    },
+    {
+      "server": "ai.nefesh/human-state",
+      "from_version": "1.0.0",
+      "to_version": "4.0.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'nefesh'"
+    },
+    {
+      "server": "ai.nullary/nullary",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'nullary'"
+    },
+    {
+      "server": "ai.proxyllm/proxyllm-mcp",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'proxyllm'"
+    },
+    {
+      "server": "ai.radmail/radmail-mcp",
+      "from_version": "0.3.2",
+      "to_version": "0.5.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'radmail'"
+    },
+    {
+      "server": "ai.trendsapi/amazon",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/app-store",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/competitor-tracking",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/content-strategy",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/crypto",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/ecommerce",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/google-trends",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/market-research",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/news-sentiment",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/news-volume",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/npm",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/reddit",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/seo",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/social-media",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/spotify",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/steam",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/tiktok",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/trends",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/wikipedia",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/x-twitter",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsapi/youtube",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsapi'"
+    },
+    {
+      "server": "ai.trendsmcp/amazon",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/app-store",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/competitor-tracking",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/content-strategy",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/crypto",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/ecommerce",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/google-trends",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/market-research",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/news-sentiment",
+      "from_version": "1.0.3",
+      "to_version": "1.0.4",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/news-volume",
+      "from_version": "1.0.3",
+      "to_version": "1.0.4",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/npm",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/reddit",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/seo",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/social-media",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/spotify",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/steam",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/tiktok",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/trends",
+      "from_version": "1.0.6",
+      "to_version": "1.0.7",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/wikipedia",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/x-twitter",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trendsmcp/youtube",
+      "from_version": "1.0.5",
+      "to_version": "1.0.6",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'trendsmcp'"
+    },
+    {
+      "server": "ai.trydock/dock",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'trydock'"
+    },
+    {
+      "server": "ai.usestring/web-access",
+      "from_version": "1.2.1",
+      "to_version": "1.2.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'usestring'"
+    },
+    {
+      "server": "ai.vaaya/mcp",
+      "from_version": "0.3.2",
+      "to_version": "0.3.3",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'vaaya'"
+    },
+    {
+      "server": "ai.verlon/mcp",
+      "from_version": "0.3.0",
+      "to_version": "0.3.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'verlon'"
+    },
+    {
+      "server": "app.idiolect/idiolect-ai",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "unrelated",
+      "note": "111mihir -> Moshpit-Labs"
+    },
+    {
+      "server": "app.promptcoin/giveaway-raffle-winner-picker",
+      "from_version": "1.0.3",
+      "to_version": "1.0.4",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'promptcoin'"
+    },
+    {
+      "server": "app.ridedesk/bookings",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'ridedesk'"
+    },
+    {
+      "server": "app.ridedesk/docs",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'ridedesk'"
+    },
+    {
+      "server": "app.sallim/contract-compass",
+      "from_version": "1.1.1",
+      "to_version": "1.1.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'sallim'"
+    },
+    {
+      "server": "app.trysonar/sonar",
+      "from_version": "0.4.0",
+      "to_version": "0.6.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'trysonar'"
+    },
+    {
+      "server": "ar.com.muovi/mcp-server",
+      "from_version": "0.1.1",
+      "to_version": "0.1.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'muovi'"
+    },
+    {
+      "server": "ar.com.muovi/mcp-server",
+      "from_version": "0.1.2",
+      "to_version": "0.1.4",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'muovi'"
+    },
+    {
+      "server": "biz.sri-test/verifier",
+      "from_version": "0.2.0",
+      "to_version": "0.3.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'sri-test'"
+    },
+    {
+      "server": "builders.bridgetown/bridge-town",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'bridgetown'"
+    },
+    {
+      "server": "co.policyforge/mcp",
+      "from_version": "0.4.0",
+      "to_version": "0.6.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'policyforge'"
+    },
+    {
+      "server": "co.tempguru/event-staffing",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'tempguru'"
+    },
+    {
+      "server": "com.agishub/chronosync-mcp",
+      "from_version": "2.0.1",
+      "to_version": "2.0.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'agishub'"
+    },
+    {
+      "server": "com.ainetcafe/ai-netcafe",
+      "from_version": "1.0.0",
+      "to_version": "1.1.0",
+      "bucket": "unrelated",
+      "note": "ChatGPTNextWeb -> mario03690"
+    },
+    {
+      "server": "com.atom/premium-domains",
+      "from_version": "2.0.6",
+      "to_version": "2.0.7",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'atom'"
+    },
+    {
+      "server": "com.cinderfi/retirement-planning",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'cinderfi'"
+    },
+    {
+      "server": "com.compoid/mcp-server",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "forge_changed",
+      "note": "github.com -> gitlab.com"
+    },
+    {
+      "server": "com.compoid/mcp-server",
+      "from_version": "1.0.3",
+      "to_version": "1.0.4",
+      "bucket": "forge_changed",
+      "note": "gitlab.com -> github.com"
+    },
+    {
+      "server": "com.docimprint/api",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "unrelated",
+      "note": "sawftware-labs -> sawftware-apps"
+    },
+    {
+      "server": "com.doomscrollr/mcp",
+      "from_version": "1.0.11",
+      "to_version": "1.0.12",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'doomscrollr'"
+    },
+    {
+      "server": "com.easyonward/mcp-server",
+      "from_version": "0.1.1",
+      "to_version": "0.1.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'easyonward'"
+    },
+    {
+      "server": "com.edgedepth/research",
+      "from_version": "0.2.5",
+      "to_version": "0.2.6",
+      "bucket": "forge_changed",
+      "note": "gitlab.com -> github.com"
+    },
+    {
+      "server": "com.enconvert/mcp",
+      "from_version": "0.2.0",
+      "to_version": "0.3.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'enconvert'"
+    },
+    {
+      "server": "com.fahaliai/fahali",
+      "from_version": "1.4.0",
+      "to_version": "1.5.2",
+      "bucket": "unrelated",
+      "note": "BobMain-2025 -> Future-Legends-Inc"
+    },
+    {
+      "server": "com.faireplace/public-tools",
+      "from_version": "0.2.0",
+      "to_version": "0.3.0",
+      "bucket": "forge_changed",
+      "note": "gitlab.com -> github.com"
+    },
+    {
+      "server": "com.fiatdock/fiatdock-mcp",
+      "from_version": "1.1.0",
+      "to_version": "1.1.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'fiatdock'"
+    },
+    {
+      "server": "com.giveradar/charity-registry",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'giveradar'"
+    },
+    {
+      "server": "com.healthai/clarity",
+      "from_version": "0.5.1",
+      "to_version": "0.5.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'healthai'"
+    },
+    {
+      "server": "com.healthai/clarity",
+      "from_version": "0.7.6",
+      "to_version": "0.7.8",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'healthai'"
+    },
+    {
+      "server": "com.healthai/radar",
+      "from_version": "0.4.4",
+      "to_version": "0.5.0",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'healthai'"
+    },
+    {
+      "server": "com.healthai/radar",
+      "from_version": "0.5.0",
+      "to_version": "0.5.1",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'healthai'"
+    },
+    {
+      "server": "com.healthai/radar",
+      "from_version": "0.5.1",
+      "to_version": "0.5.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'healthai'"
+    },
+    {
+      "server": "com.instavar/mcp-server",
+      "from_version": "0.1.2",
+      "to_version": "0.1.3",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'instavar'"
+    },
+    {
+      "server": "com.lightbringer/connector",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'lightbringer'"
+    },
+    {
+      "server": "com.linkonda/mcp",
+      "from_version": "0.1.2",
+      "to_version": "0.1.3",
+      "bucket": "unrelated",
+      "note": "mahmoudhalimeh -> Verano-DE"
+    },
+    {
+      "server": "com.moltarch/moltarch",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'moltarch'"
+    },
+    {
+      "server": "com.nannykeeper.www/mcp-server",
+      "from_version": "1.6.0",
+      "to_version": "1.7.0",
+      "bucket": "unrelated",
+      "note": "imaznation -> nannykeeper"
+    },
+    {
+      "server": "com.negativeev/bet-checker",
+      "from_version": "1.4.1",
+      "to_version": "1.4.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'negativeev'"
+    },
+    {
+      "server": "com.nursinghomedatabase/mcp",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "placeholder_replaced",
+      "note": "template value 'YOUR_GITHUB_USERNAME' published live"
+    },
+    {
+      "server": "com.offnadir-delta/mcp",
+      "from_version": "1.3.1",
+      "to_version": "1.3.2",
+      "bucket": "unrelated",
+      "note": "kazushi-fa -> Off-Nadir-Lab"
+    },
+    {
+      "server": "com.provision-stack/provision-stack",
+      "from_version": "0.4.0",
+      "to_version": "0.4.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'provision-stack'"
+    },
+    {
+      "server": "com.sherweb/platform",
+      "from_version": "1.46.3",
+      "to_version": "1.47.27",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'sherweb'"
+    },
+    {
+      "server": "com.ssemble/mcp-server",
+      "from_version": "1.0.3",
+      "to_version": "1.0.4",
+      "bucket": "forge_changed",
+      "note": "gitlab.com -> github.com"
+    },
+    {
+      "server": "com.storydoc/mcp",
+      "from_version": "0.4.0",
+      "to_version": "0.4.1",
+      "bucket": "unrelated",
+      "note": "VladZh97 -> DoTell-org"
+    },
+    {
+      "server": "com.supabase/mcp",
+      "from_version": "0.8.1",
+      "to_version": "0.8.2",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'supabase'"
+    },
+    {
+      "server": "com.unifapi/mcp",
+      "from_version": "0.1.0",
+      "to_version": "0.1.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'unifapi'"
+    },
+    {
+      "server": "com.uptimemonitoring/mcp",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'uptimemonitoring'"
+    },
+    {
+      "server": "com.useallowance/allowance-mcp",
+      "from_version": "0.1.0",
+      "to_version": "0.1.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'useallowance'"
+    },
+    {
+      "server": "com.wildrunai/mcp-validator",
+      "from_version": "1.2.0",
+      "to_version": "1.3.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'wildrunai'"
+    },
+    {
+      "server": "com.worldcitisim/mcp-esim",
+      "from_version": "0.2.1",
+      "to_version": "0.2.2",
+      "bucket": "unrelated",
+      "note": "easyname889 -> isabellaliebgott"
+    },
+    {
+      "server": "com.xcodebuildmcp/XcodeBuildMCP",
+      "from_version": "2.0.5",
+      "to_version": "2.0.6",
+      "bucket": "unrelated",
+      "note": "cameroncooke -> getsentry"
+    },
+    {
+      "server": "dev.agentsim/mcp",
+      "from_version": "0.3.1",
+      "to_version": "0.10.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'agentsim'"
+    },
+    {
+      "server": "dev.gvnr/gvnr",
+      "from_version": "1.7.0",
+      "to_version": "1.8.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'gvnr'"
+    },
+    {
+      "server": "dev.mcpfinder/server",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'mcpfinder'"
+    },
+    {
+      "server": "dev.metamesh-uga/metamesh-uga",
+      "from_version": "2.0.0",
+      "to_version": "2.0.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'metamesh-uga'"
+    },
+    {
+      "server": "dev.nexbid/discovery",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'nexbid'"
+    },
+    {
+      "server": "dev.sexai/sexai-mcp",
+      "from_version": "0.11.8",
+      "to_version": "0.11.9",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'sexai'"
+    },
+    {
+      "server": "film.martini/mcp",
+      "from_version": "0.1.0",
+      "to_version": "0.1.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'martini'"
+    },
+    {
+      "server": "io.clueso/video",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'clueso'"
+    },
+    {
+      "server": "io.getcoherence/mcp",
+      "from_version": "0.2.1",
+      "to_version": "0.2.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'getcoherence'"
+    },
+    {
+      "server": "io.github.609NFT/vibekit-mcp",
+      "from_version": "0.7.2",
+      "to_version": "0.7.4",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace '609NFT'"
+    },
+    {
+      "server": "io.github.7figures007/highstory-mcp",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace '7figures007'"
+    },
+    {
+      "server": "io.github.AIweather-Anurag/ottasia",
+      "from_version": "0.1.2",
+      "to_version": "0.1.3",
+      "bucket": "homoglyph_confusable",
+      "note": "Alweather-Anurag vs AIweather-Anurag collapse to the same glyphs"
+    },
+    {
+      "server": "io.github.Dewars30/fulcrum",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'Dewars30'"
+    },
+    {
+      "server": "io.github.Dewars30/fulcrum",
+      "from_version": "1.0.1",
+      "to_version": "1.1.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'Dewars30'"
+    },
+    {
+      "server": "io.github.MkTurner74/botverse",
+      "from_version": "1.0.2",
+      "to_version": "1.2.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'MkTurner74'"
+    },
+    {
+      "server": "io.github.Nicodemus941/health-api",
+      "from_version": "1.0.4",
+      "to_version": "1.0.5",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'Nicodemus941'"
+    },
+    {
+      "server": "io.github.OrbiAds/gam",
+      "from_version": "1.0.0",
+      "to_version": "1.9.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'OrbiAds'"
+    },
+    {
+      "server": "io.github.Pangolin-spg/pangolinfo-mcp",
+      "from_version": "0.7.2",
+      "to_version": "0.1.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'Pangolin-spg'"
+    },
+    {
+      "server": "io.github.Pattyboi101/indiestack",
+      "from_version": "0.1.2",
+      "to_version": "0.3.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'Pattyboi101'"
+    },
+    {
+      "server": "io.github.PedramMadani/legalithm-mcp-server",
+      "from_version": "0.1.1",
+      "to_version": "0.2.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'PedramMadani'"
+    },
+    {
+      "server": "io.github.PetriLahdelma/vertaaux-mcp",
+      "from_version": "1.2.1",
+      "to_version": "1.2.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'PetriLahdelma'"
+    },
+    {
+      "server": "io.github.Pink707Legendary/stock-moves-explained",
+      "from_version": "1.1.0",
+      "to_version": "1.2.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'Pink707Legendary'"
+    },
+    {
+      "server": "io.github.Shuangshuang007/workopia",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'Shuangshuang007'"
+    },
+    {
+      "server": "io.github.SpearmanMODE/nexus-alpha-geometry",
+      "from_version": "0.1.1",
+      "to_version": "0.1.2",
+      "bucket": "placeholder_replaced",
+      "note": "template value 'YOUR_GITHUB_USERNAME' published live"
+    },
+    {
+      "server": "io.github.YarnSh39/wavestreamer",
+      "from_version": "0.1.3",
+      "to_version": "0.1.4",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'YarnSh39'"
+    },
+    {
+      "server": "io.github.ZebpayRajesh/zebpay-mcp-server",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'ZebpayRajesh'"
+    },
+    {
+      "server": "io.github.berthelius/frihet",
+      "from_version": "1.1.0",
+      "to_version": "1.2.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'berthelius'"
+    },
+    {
+      "server": "io.github.cerebrixos/tuning-engines",
+      "from_version": "0.3.2",
+      "to_version": "0.3.4",
+      "bucket": "unrelated",
+      "note": "ockhamlabs -> cerebrixos-org"
+    },
+    {
+      "server": "io.github.clawdbotworker/coinopai-mcp",
+      "from_version": "1.0.5",
+      "to_version": "1.2.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'clawdbotworker'"
+    },
+    {
+      "server": "io.github.ebeirne/lians",
+      "from_version": "0.4.0",
+      "to_version": "0.4.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'ebeirne'"
+    },
+    {
+      "server": "io.github.elestirelbilinc-sketch/vap-e",
+      "from_version": "1.6.0",
+      "to_version": "1.12.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'elestirelbilinc-sketch'"
+    },
+    {
+      "server": "io.github.elestirelbilinc-sketch/vap-e",
+      "from_version": "1.12.3",
+      "to_version": "1.12.4",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'elestirelbilinc-sketch'"
+    },
+    {
+      "server": "io.github.elestirelbilinc-sketch/vap-e",
+      "from_version": "1.13.1",
+      "to_version": "1.14.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'elestirelbilinc-sketch'"
+    },
+    {
+      "server": "io.github.fahassan00/bounceprotect",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'fahassan00'"
+    },
+    {
+      "server": "io.github.flat-cash/flatcash",
+      "from_version": "0.1.1",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'flat-cash'"
+    },
+    {
+      "server": "io.github.focusgts/eds-mcp-server",
+      "from_version": "0.2.2",
+      "to_version": "0.2.3",
+      "bucket": "case_or_punctuation_only",
+      "note": "focusgts -> Focus-GTS"
+    },
+    {
+      "server": "io.github.hshintelligence/data-on-demand",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "case_or_punctuation_only",
+      "note": "hshintelligence -> HSH-Intelligence"
+    },
+    {
+      "server": "io.github.hshintelligence/data-on-demand",
+      "from_version": "1.0.1",
+      "to_version": "1.2.0",
+      "bucket": "case_or_punctuation_only",
+      "note": "HSH-Intelligence -> hshintelligence"
+    },
+    {
+      "server": "io.github.hshintelligence/data-on-demand",
+      "from_version": "1.2.0",
+      "to_version": "1.0.2",
+      "bucket": "case_or_punctuation_only",
+      "note": "hshintelligence -> HSH-Intelligence"
+    },
+    {
+      "server": "io.github.hshintelligence/data-on-demand",
+      "from_version": "1.0.2",
+      "to_version": "2.0.0",
+      "bucket": "case_or_punctuation_only",
+      "note": "HSH-Intelligence -> hshintelligence"
+    },
+    {
+      "server": "io.github.ilo415/research",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'ilo415'"
+    },
+    {
+      "server": "io.github.jarekpiot/provenonce",
+      "from_version": "1.1.3",
+      "to_version": "1.1.4",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'jarekpiot'"
+    },
+    {
+      "server": "io.github.jasonwagao-bit/xuanxue-bazi-matching",
+      "from_version": "0.1.0",
+      "to_version": "0.2.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'jasonwagao-bit'"
+    },
+    {
+      "server": "io.github.joegra2003/metamodel",
+      "from_version": "1.1.2",
+      "to_version": "1.2.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'joegra2003'"
+    },
+    {
+      "server": "io.github.kiki830621/che-word-mcp",
+      "from_version": "1.8.0",
+      "to_version": "1.17.0",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'kiki830621'"
+    },
+    {
+      "server": "io.github.kmalakoff/mcp-pdf",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'kmalakoff'"
+    },
+    {
+      "server": "io.github.lordbasilaiassistant-sudo/obsd-launchpad",
+      "from_version": "1.0.4",
+      "to_version": "1.0.5",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'lordbasilaiassistant-sudo'"
+    },
+    {
+      "server": "io.github.meob/euclid-mcp",
+      "from_version": "0.1.2",
+      "to_version": "0.4.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'meob'"
+    },
+    {
+      "server": "io.github.minia2a/minia2a-mcp",
+      "from_version": "1.0.1",
+      "to_version": "1.1.20",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'minia2a'"
+    },
+    {
+      "server": "io.github.naeem-jtr/jtr-holidays",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'naeem-jtr'"
+    },
+    {
+      "server": "io.github.ned-del/fairseal-mcp-server",
+      "from_version": "0.1.2",
+      "to_version": "0.1.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'ned-del'"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "from_version": "2.1.1",
+      "to_version": "2.2.6",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'oaslananka'"
+    },
+    {
+      "server": "io.github.pboddupalli1/composio-test",
+      "from_version": "1.0.0",
+      "to_version": "1.0.2",
+      "bucket": "substring_related",
+      "note": "composio -> ComposioHQ"
+    },
+    {
+      "server": "io.github.rhel-lightspeed/linux-mcp-server",
+      "from_version": "1.2.0",
+      "to_version": "1.2.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'rhel-lightspeed'"
+    },
+    {
+      "server": "io.github.rodrgds/openpost",
+      "from_version": "1.32.1",
+      "to_version": "1.32.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'rodrgds'"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "from_version": "1.1.8",
+      "to_version": "1.1.9",
+      "bucket": "unrelated",
+      "note": "aislon -> uizze"
+    },
+    {
+      "server": "io.github.sarveshsea/memi",
+      "from_version": "2.6.3",
+      "to_version": "2.7.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'sarveshsea'"
+    },
+    {
+      "server": "io.github.sumanaddanki/suma-memory",
+      "from_version": "1.4.0",
+      "to_version": "1.5.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'sumanaddanki'"
+    },
+    {
+      "server": "io.github.tambo-ai/charming",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'tambo-ai'"
+    },
+    {
+      "server": "io.github.tomjwxf/protect-mcp",
+      "from_version": "0.4.0",
+      "to_version": "0.4.5",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'tomjwxf'"
+    },
+    {
+      "server": "io.github.tomjwxf/scopeblind-passport",
+      "from_version": "0.4.1",
+      "to_version": "0.4.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'tomjwxf'"
+    },
+    {
+      "server": "io.github.tomjwxf/verify-mcp",
+      "from_version": "0.1.0",
+      "to_version": "0.1.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'tomjwxf'"
+    },
+    {
+      "server": "io.github.tomjwxf/veritasacta-verify",
+      "from_version": "0.2.1",
+      "to_version": "0.9.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'tomjwxf'"
+    },
+    {
+      "server": "io.github.toofikz2/mcp-impersonation-poc",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'toofikz2'"
+    },
+    {
+      "server": "io.github.topvisor/mcp-notifications",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'topvisor'"
+    },
+    {
+      "server": "io.github.webmyc/respira-wordpress",
+      "from_version": "6.11.4",
+      "to_version": "6.11.5",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'webmyc'"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "from_version": "0.1.2",
+      "to_version": "0.1.4",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'wnsod'"
+    },
+    {
+      "server": "io.kaitoi/studio",
+      "from_version": "0.1.0",
+      "to_version": "0.1.1",
+      "bucket": "case_or_punctuation_only",
+      "note": "kaitoilabs -> kaitoi-labs"
+    },
+    {
+      "server": "io.plantrip/plantrip",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "diverged_from_namespace",
+      "note": "left verified namespace 'plantrip'"
+    },
+    {
+      "server": "io.productsource/product-source",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "unrelated",
+      "note": "MarcPelberg -> skutrue"
+    },
+    {
+      "server": "io.rtkmotion/data",
+      "from_version": "1.2.0",
+      "to_version": "1.3.0",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'rtkmotion'"
+    },
+    {
+      "server": "io.stablebaseline/sb",
+      "from_version": "1.0.1",
+      "to_version": "1.0.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'stablebaseline'"
+    },
+    {
+      "server": "me.identik/electronica",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'identik'"
+    },
+    {
+      "server": "me.identik/firma",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'identik'"
+    },
+    {
+      "server": "money.barker/stablecoin-yield",
+      "from_version": "1.0.2",
+      "to_version": "1.0.3",
+      "bucket": "both_match_namespace",
+      "note": "both carry verified stem 'barker'"
+    },
+    {
+      "server": "org.virtualflybrain/vfb3-mcp",
+      "from_version": "1.11.0",
+      "to_version": "1.11.1",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'virtualflybrain'"
+    },
+    {
+      "server": "so.pharaoh/pharaoh",
+      "from_version": "1.0.0",
+      "to_version": "1.0.1",
+      "bucket": "placeholder_replaced",
+      "note": "template value 'YOUR_ORG' published live"
+    },
+    {
+      "server": "tech.skeletonarmy/marrow",
+      "from_version": "0.2.1",
+      "to_version": "0.2.2",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'skeletonarmy'"
+    },
+    {
+      "server": "to.agentcentral/amazon-seller-central",
+      "from_version": "1.0.1",
+      "to_version": "1.0.3",
+      "bucket": "converged_to_namespace",
+      "note": "now matches verified namespace 'agentcentral'"
+    },
+    {
+      "server": "xyz.558686.gpt55/token-gateway",
+      "from_version": "2026.7.20",
+      "to_version": "2026.8.5",
+      "bucket": "unrelated",
+      "note": "go165 -> wangletiand"
+    },
+    {
+      "server": "xyz.spiralstake/leverage",
+      "from_version": "0.1.0",
+      "to_version": "0.1.1",
+      "bucket": "case_or_punctuation_only",
+      "note": "spiralstake -> spiral-stake"
+    }
+  ]
+}
