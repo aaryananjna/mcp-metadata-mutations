@@ -1,5 +1,7 @@
-# SQLite temp files. These are scratch state, not data. The index can always
-# be rebuilt from data/objects, which is the actual evidence.
+# Derived data. Rebuildable at any time with `python3 store.py data`.
+# This is a binary that changes every day, so committing it would make git
+# store a fresh 60MB+ copy daily and balloon the repo into gigabytes.
+data/index.sqlite
 data/index.sqlite-wal
 data/index.sqlite-shm
 
@@ -9,7 +11,8 @@ __pycache__/
 .venv/
 venv/
 
-# NOTE: data/ and reports/ are deliberately NOT ignored. Committing every
-# snapshot is the point. The git history is the timestamped, third-party
-# witnessed record of what the registry served on each date, which is what
-# lets someone else trust your "before" when you report a mutation.
+# NOTE: data/objects/ and data/snapshots/ are deliberately NOT ignored.
+# Those two directories ARE the dataset. Committing every snapshot is the
+# point: the git history is the timestamped, third-party witnessed record of
+# what the registry served on each date, which is what lets someone else trust
+# your "before" when you report a mutation.

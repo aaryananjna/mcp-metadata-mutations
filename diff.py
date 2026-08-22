@@ -162,14 +162,7 @@ def transitions(a, b):
 
 
 def cmd_chain(store, snapshot):
-    db = store.db
-    db.row_factory = sqlite3.Row
-    rows = db.execute(
-        """SELECT server_name, version, content_hash, published_at, status
-           FROM observations WHERE snapshot_date=?
-           ORDER BY server_name, published_at, version""",
-        (snapshot,),
-    ).fetchall()
+    rows = store.states_at(snapshot)
 
     by_server = {}
     for r in rows:
@@ -210,64 +203,57 @@ def cmd_chain(store, snapshot):
 
 
 def cmd_silent(store, frm, to):
-    db = store.db
-    db.row_factory = sqlite3.Row
-    rows = db.execute(
-        """SELECT a.server_name, a.version,
-                  a.content_hash  AS old_content, b.content_hash  AS new_content,
-                  a.envelope_hash AS old_env,     b.envelope_hash AS new_env,
-                  a.status AS old_status, b.status AS new_status,
-                  a.updated_at AS old_updated, b.updated_at AS new_updated
-           FROM observations a
-           JOIN observations b
-             ON a.server_name=b.server_name AND a.version=b.version
-           WHERE a.snapshot_date=? AND b.snapshot_date=?""",
-        (frm, to),
-    ).fetchall()
+    """Compare two snapshots via the interval table.
+
+    A (name, version) whose content_hash differs between two days is an
+    in-place edit of a record the registry documents as immutable. That is the
+    headline event this study exists to count.
+    """
+    a = {(r["server_name"], r["version"]): r for r in store.states_at(frm)}
+    b = {(r["server_name"], r["version"]): r for r in store.states_at(to)}
 
     silent, status_flips = [], []
-    for r in rows:
-        if r["old_content"] != r["new_content"]:
-            a = store.get_blob(r["old_content"])
-            b = store.get_blob(r["new_content"])
+    for key in a.keys() & b.keys():
+        ra, rb = a[key], b[key]
+        if ra["content_hash"] != rb["content_hash"]:
+            sa = store.get_blob(ra["content_hash"])
+            sb = store.get_blob(rb["content_hash"])
             silent.append({
-                "server": r["server_name"],
-                "version": r["version"],
-                "transitions": transitions(a, b),
-                "updated_at_moved": r["old_updated"] != r["new_updated"],
-                "old_content_hash": r["old_content"],
-                "new_content_hash": r["new_content"],
+                "server": key[0],
+                "version": key[1],
+                "transitions": transitions(sa, sb),
+                "updated_at_moved": ra["updated_at"] != rb["updated_at"],
+                "old_content_hash": ra["content_hash"],
+                "new_content_hash": rb["content_hash"],
             })
-        elif r["old_env"] != r["new_env"] and r["old_status"] != r["new_status"]:
+        elif ra["status"] != rb["status"]:
             status_flips.append({
-                "server": r["server_name"],
-                "version": r["version"],
-                "from": r["old_status"],
-                "to": r["new_status"],
+                "server": key[0], "version": key[1],
+                "from": ra["status"], "to": rb["status"],
             })
 
-    a_keys = {(r["server_name"], r["version"]) for r in rows}
-    added = db.execute(
-        """SELECT server_name, version FROM observations WHERE snapshot_date=?""",
-        (to,),
-    ).fetchall()
-    new_records = [
-        {"server": s, "version": v}
-        for s, v in ((r["server_name"], r["version"]) for r in added)
-        if (s, v) not in a_keys
-    ]
+    # Cross-check against what the API itself said changed. The gap between
+    # these two answers is the point: an edit the registry did not report is
+    # far more interesting than one it did.
+    reported = {
+        (r[0], r[1]) for r in store.db.execute(
+            "SELECT server_name, version FROM incremental_reports WHERE snapshot=?",
+            (to,))
+    }
 
     return {
         "from": frm,
         "to": to,
-        "compared_version_records": len(rows),
+        "compared_version_records": len(a.keys() & b.keys()),
         "silent_edits": silent,
         "silent_edit_count": len(silent),
         "silent_edits_without_updated_at_bump": sum(
-            1 for s in silent if not s["updated_at_moved"]
-        ),
+            1 for s in silent if not s["updated_at_moved"]),
+        "silent_edits_not_reported_by_api": sum(
+            1 for s in silent if (s["server"], s["version"]) not in reported),
         "status_flips": status_flips,
-        "new_version_records": len(new_records),
+        "new_version_records": len(b.keys() - a.keys()),
+        "vanished_version_records": len(a.keys() - b.keys()),
     }
 
 

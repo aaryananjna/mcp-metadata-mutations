@@ -1,18 +1,16 @@
 name: daily-collect
 
-# Unattended for 12 weeks. GitHub-hosted runners are free for public repos,
-# and committing the snapshot back to the repo gives you an independent,
-# timestamped, third-party-witnessed audit trail of exactly what the registry
-# served on each date. That provenance matters more than the compute: if you
-# later report a mutation, the commit history is your evidence that you did not
-# fabricate the "before".
+# Unattended for 12 weeks. GitHub-hosted runners are free for public repos, and
+# committing the snapshot back to the repo gives you a timestamped, third-party
+# witnessed audit trail of exactly what the registry served on each date. That
+# provenance matters more than the compute.
 
 on:
   schedule:
     - cron: "17 6 * * *"   # 06:17 UTC. Off the hour on purpose: everyone else
                            # schedules on :00 and you do not want to be in that
                            # thundering herd against a service with no uptime SLA.
-  workflow_dispatch: {}    # lets you click "Run workflow" manually to test
+  workflow_dispatch: {}    # lets you click "Run workflow" to test manually
 
 permissions:
   contents: write
@@ -24,7 +22,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -32,35 +30,40 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Make output dirs
-        run: mkdir -p data reports
+      - name: Prepare
+        run: |
+          mkdir -p data reports
+          # index.sqlite is gitignored, so every run starts without it.
+          # Rebuild it from the committed manifests before doing anything else.
+          python3 store.py data
 
       - name: Full snapshot
         run: python3 collect.py --data data | tee run.json
 
       - name: Incremental cross-check
-        # Ask the API what IT thinks changed in the last 48h. Compared against
-        # the hash diff, the gap between these two answers is a result.
-        # Allowed to fail without killing the run: it is a secondary
-        # measurement, and the full snapshot above is the primary one.
+        # Ask the API what IT thinks changed in the last 48h. Logged separately,
+        # never fed to the state machine. Allowed to fail: it is a secondary
+        # measurement and the full snapshot above is the primary one.
         continue-on-error: true
         run: |
           SINCE=$(date -u -d '48 hours ago' +%Y-%m-%dT%H:%M:%SZ)
-          python3 collect.py --data data --since "$SINCE" --tag inc
+          python3 collect.py --data data --since "$SINCE"
 
-      - name: Diff against yesterday
-        # Deliberately NOT allowed to fail silently. If this breaks you want to
-        # find out on day 2, not on week 9 when you go looking for results.
-        # It skips cleanly only when yesterday genuinely has no snapshot.
+      - name: Diff against previous snapshot
+        # NOT allowed to fail silently. If this breaks you want to know on day
+        # two, not on week nine when you go looking for results.
         run: |
-          YDAY=$(date -u -d 'yesterday' +%F)
           TODAY=$(date -u +%F)
-          HAVE=$(python3 -c "import sqlite3;print(sqlite3.connect('data/index.sqlite').execute('SELECT COUNT(*) FROM observations WHERE snapshot_date=?',('$YDAY',)).fetchone()[0])")
-          if [ "$HAVE" -gt 0 ]; then
-            python3 diff.py silent --from "$YDAY" --to "$TODAY" --data data \
+          PREV=$(python3 -c "
+          from store import Store
+          s = Store('data').snapshots_list()
+          print(s[-2] if len(s) > 1 else '')
+          ")
+          if [ -n "$PREV" ]; then
+            python3 diff.py silent --from "$PREV" --to "$TODAY" --data data \
               --out "reports/silent-$TODAY.json" --summary-only
           else
-            echo "no snapshot for $YDAY, skipping diff (expected on the first run)"
+            echo "only one snapshot so far, nothing to diff yet"
           fi
 
       - name: Verify blob integrity
@@ -74,8 +77,7 @@ jobs:
           git commit -m "snapshot $(date -u +%F)" || echo "no changes"
           git push
 
-      # A silent failure for three weeks is the only way this project actually
-      # dies. Fail loudly.
+      # A silent failure for three weeks is the only way this project dies.
       - name: Alert on failure
         if: failure()
         run: echo "::error::collector failed for $(date -u +%F)"
