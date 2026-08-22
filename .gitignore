@@ -1,0 +1,15 @@
+# SQLite temp files. These are scratch state, not data. The index can always
+# be rebuilt from data/objects, which is the actual evidence.
+data/index.sqlite-wal
+data/index.sqlite-shm
+
+# Python noise
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# NOTE: data/ and reports/ are deliberately NOT ignored. Committing every
+# snapshot is the point. The git history is the timestamped, third-party
+# witnessed record of what the registry served on each date, which is what
+# lets someone else trust your "before" when you report a mutation.
