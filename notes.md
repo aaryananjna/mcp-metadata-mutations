@@ -229,3 +229,20 @@ is itself worth recording.
 - [ ] Comparison population: PulseMCP runs a sub-registry mirroring the same
       spec but states it does not guarantee immutability. Same instrument, two
       populations, one of which admits to mutating.
+
+      ## 2026-08-22 (evening) — correction: dangling owner scan
+
+
+- -  - - - -  - - - -  - - - - - -  - - - - - - -  - - - - - - - - - - -
+Reported 238 "unregistered" GitHub owners. That label was wrong. A 404 from
+GET /users/{login} means "not visible to this token", which covers free names,
+restricted/enterprise orgs, and transient blocks. Caught by opening two flagged
+orgs (bap-microsoft, sherweb-development) in a browser and finding a sign-in
+wall rather than a 404 page.
+
+Metric relabelled to "not publicly resolvable": ~2% of currently-installable
+servers (382 of 19,242 with a GitHub repo) reference a repository the public
+cannot read. That is a weaker claim and a defensible one.
+
+Disclosure held. Nothing reported. A finding that cannot survive questioning
+should not be sent to a vendor.

@@ -1,0 +1,3166 @@
+{
+  "snapshot": "2026-08-22",
+  "latest_only": true,
+  "records_scanned": 24797,
+  "records_with_github_repo": 19242,
+  "records_without_repo_field": 5532,
+  "distinct_owners": 10794,
+  "unresolvable_owners": 238,
+  "caveat": "404 = not visible to this token. Covers free names, restricted/enterprise orgs, and transient blocks. Requires manual adjudication before any claim of registerability.",
+  "affected_version_records": 382,
+  "affected_active_records": 356,
+  "affected_servers": 382,
+  "affected_current_versions": 382,
+  "detail": {
+    "0-don": [
+      {
+        "server": "com.unorouter/mcp",
+        "version": "0.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/0-don/unorouter-mcp"
+      }
+    ],
+    "0xAxiom": [
+      {
+        "server": "io.github.0xAxiom/axiom-agentic-tools",
+        "version": "0.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/0xAxiom/axiom-agentic-tools"
+      }
+    ],
+    "1111111111111111111114oLvT2": [
+      {
+        "server": "io.github.1111111111111111111114oLvT2/inquisitor",
+        "version": "0.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/1111111111111111111114oLvT2/inquisitor"
+      }
+    ],
+    "1325ai": [
+      {
+        "server": "ai.1325/mcp",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/1325ai/1325ai"
+      }
+    ],
+    "AION-Analytics": [
+      {
+        "server": "io.github.AION-Analytics/aion-indian-market-intelligence",
+        "version": "1.0.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/AION-Analytics/aion-indian-market-intelligence"
+      },
+      {
+        "server": "io.github.AION-Analytics/aion-news-to-signal",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/AION-Analytics/aion-news-to-signal"
+      }
+    ],
+    "AMEOBIUS": [
+      {
+        "server": "io.github.AMEOBIUS/opendaw-mcp",
+        "version": "1.13.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/AMEOBIUS/opendaw-mcp"
+      }
+    ],
+    "Aakashbhardwaj27": [
+      {
+        "server": "io.github.Aakashbhardwaj27/ai-scanner",
+        "version": "1.0.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Aakashbhardwaj27/ai-scanner-mcp"
+      }
+    ],
+    "AdityaSBisht": [
+      {
+        "server": "io.github.AdityaSBisht/finance-mcp",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/AdityaSBisht/finance-mcp"
+      }
+    ],
+    "AgentBonnybb": [
+      {
+        "server": "com.ibitlabs.www/ibitlabs-mcp",
+        "version": "0.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/AgentBonnybb/ibitlabs"
+      }
+    ],
+    "Agonx402": [
+      {
+        "server": "io.github.Agonx402/agon-gateway",
+        "version": "0.4.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Agonx402/agon-gateway-agentic"
+      },
+      {
+        "server": "io.github.Agonx402/agon-protocol",
+        "version": "0.4.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Agonx402/agon-gateway-agentic"
+      }
+    ],
+    "Airpote": [
+      {
+        "server": "io.github.Airpote/avalanche-docs",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Airpote/avalanche-mcp-vscode"
+      }
+    ],
+    "Alejandro-M-P": [
+      {
+        "server": "io.github.Alejandro-M-P/git-courer",
+        "version": "2.0.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Alejandro-M-P/git-courer"
+      }
+    ],
+    "Arbogram": [
+      {
+        "server": "io.github.Botagram/trust-gate",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Arbogram/brand-capsule-spec"
+      }
+    ],
+    "Armada735": [
+      {
+        "server": "io.github.Armada735/fake-star-audit",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Armada735/fake-star-audit"
+      }
+    ],
+    "ArseneVrworworker": [
+      {
+        "server": "cash.flat/flatcash-mcp",
+        "version": "3.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ArseneVrworworker/flatcash-mcp"
+      }
+    ],
+    "Atlaskos": [
+      {
+        "server": "io.github.Atlaskos/workprotocol",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Atlaskos/workprotocol"
+      }
+    ],
+    "Bahamas1717": [
+      {
+        "server": "io.github.Bahamas1717/aibvf-mcp",
+        "version": "0.12.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Bahamas1717/ai-bvf"
+      }
+    ],
+    "Bemarking": [
+      {
+        "server": "io.github.Bemarking/axon-emcp",
+        "version": "0.4.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Bemarking/axon-lang"
+      }
+    ],
+    "Billionaire664": [
+      {
+        "server": "io.github.Billionaire664/valta-mcp",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Billionaire664/valta-mcp"
+      }
+    ],
+    "Boosted-Chat": [
+      {
+        "server": "com.boostedchat/travel",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Boosted-Chat/BoostedTravel"
+      },
+      {
+        "server": "io.github.Efistoffeles/boostedtravel",
+        "version": "0.2.17",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Boosted-Chat/BoostedTravel"
+      }
+    ],
+    "BrendanL79": [
+      {
+        "server": "io.github.BrendanL79/spudcoach",
+        "version": "0.11.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/BrendanL79/spud-coach"
+      }
+    ],
+    "BurtTheCoder": [
+      {
+        "server": "io.github.BurtTheCoder/shodan",
+        "version": "1.0.22",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/BurtTheCoder/mcp-shodan"
+      },
+      {
+        "server": "io.github.BurtTheCoder/virustotal",
+        "version": "1.0.17",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/BurtTheCoder/mcp-virustotal"
+      }
+    ],
+    "COSAI-Labs": [
+      {
+        "server": "io.github.COSAI-Labs/toolpipe",
+        "version": "1.18.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/COSAI-Labs/make-money-30day-challenge"
+      },
+      {
+        "server": "io.github.COSAI-Labs/toolpipe-mcp-server",
+        "version": "1.21.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/COSAI-Labs/make-money-30day-challenge"
+      },
+      {
+        "server": "io.github.GerritRoska/toolpipe-mcp-server",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/COSAI-Labs/toolpipe"
+      }
+    ],
+    "CSAO-ORG": [
+      {
+        "server": "io.github.CSOAI-ORG/edi-bridge-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CSAO-ORG/edi-bridge-mcp"
+      },
+      {
+        "server": "io.github.CSOAI-ORG/fix-bridge-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CSAO-ORG/fix-bridge-mcp"
+      },
+      {
+        "server": "io.github.CSOAI-ORG/gs1-bridge-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CSAO-ORG/gs1-bridge-mcp"
+      },
+      {
+        "server": "io.github.CSOAI-ORG/hl7-fhir-bridge-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CSAO-ORG/hl7-fhir-bridge-mcp"
+      },
+      {
+        "server": "io.github.CSOAI-ORG/iso8583-bridge-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CSAO-ORG/iso8583-bridge-mcp"
+      }
+    ],
+    "Chromatic0618": [
+      {
+        "server": "io.github.Chromatic0618/xiangguangyu-mcp-skills",
+        "version": "2.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Chromatic0618/xiangguangyu-skills"
+      }
+    ],
+    "ClawHub-core": [
+      {
+        "server": "xyz.deepbluebase/deepblue-trading",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ClawHub-core/deepblue-mcp"
+      }
+    ],
+    "CodeLogicIncEngineering": [
+      {
+        "server": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
+        "version": "1.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server"
+      }
+    ],
+    "ColinHughes2121": [
+      {
+        "server": "io.github.ColinHughes2121/gocreative-wedge-mcp",
+        "version": "1.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ColinHughes2121/gocreative-mcp"
+      }
+    ],
+    "Cope-Labs": [
+      {
+        "server": "io.github.Cope-Labs/selvo",
+        "version": "2.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Cope-Labs/selvo"
+      }
+    ],
+    "CorrectOver": [
+      {
+        "server": "com.correctover/mcp-server",
+        "version": "1.2.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CorrectOver/mcp-server"
+      }
+    ],
+    "Correctover": [
+      {
+        "server": "io.github.Correctover/correctover-mcp-server",
+        "version": "1.0.7",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Correctover/mcp-server"
+      }
+    ],
+    "Creator-API": [
+      {
+        "server": "io.github.Creator-API/creator-api-mcp",
+        "version": "0.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Creator-API/creator-api-mcp"
+      }
+    ],
+    "CryptoRugMunch": [
+      {
+        "server": "io.github.amarodeabreu/rug-munch-mcp",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/CryptoRugMunch/rug-munch-mcp"
+      }
+    ],
+    "DIALLOUBE-RESEARCH": [
+      {
+        "server": "io.github.DIALLOUBE-RESEARCH/hypernatt-terminal",
+        "version": "2.5.11",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/DIALLOUBE-RESEARCH/hypernatt-terminal"
+      }
+    ],
+    "Dr-Deploy": [
+      {
+        "server": "io.github.Dr-Deploy/drdeploy-mcp",
+        "version": "0.1.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Dr-Deploy/drdeploy"
+      }
+    ],
+    "DynamicEndpoints": [
+      {
+        "server": "ai.smithery/DynamicEndpoints-autogen_mcp",
+        "version": "0.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/DynamicEndpoints/Autogen_MCP"
+      },
+      {
+        "server": "ai.smithery/DynamicEndpoints-m365-core-mcp",
+        "version": "1.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/DynamicEndpoints/m365-core-mcp"
+      },
+      {
+        "server": "ai.smithery/DynamicEndpoints-powershell-exec-mcp-server",
+        "version": "1.13.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/DynamicEndpoints/PowerShell-Exec-MCP-Server"
+      }
+    ],
+    "ERROR403agent": [
+      {
+        "server": "io.github.ERROR403agent/deepblue-trading",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ERROR403agent/deepblue-mcp"
+      }
+    ],
+    "ForeverTools": [
+      {
+        "server": "com.kiprio/kiprio-mcp",
+        "version": "0.6.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ForeverTools/kiprio-mcp"
+      }
+    ],
+    "GavMason": [
+      {
+        "server": "io.github.GavMason/ani-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/GavMason/ani-mcp"
+      }
+    ],
+    "Ghostkey316": [
+      {
+        "server": "io.github.Ghostkey316/vaultfire",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Ghostkey316/vaultfire-mcp-server"
+      }
+    ],
+    "GlobKurier-pl": [
+      {
+        "server": "io.github.GlobKurier-pl/mcp-server",
+        "version": "0.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/GlobKurier-pl/mcp-server"
+      }
+    ],
+    "Homie4570": [
+      {
+        "server": "xyz.lonestaroracle/mcp-server",
+        "version": "1.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Homie4570/lso-mcp"
+      }
+    ],
+    "IntelagentStudios": [
+      {
+        "server": "io.github.IntelagentStudios/mcp-enrichment",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/IntelagentStudios/Intelagent-MCPs"
+      },
+      {
+        "server": "io.github.IntelagentStudios/mcp-file-processor",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/IntelagentStudios/Intelagent-MCPs"
+      }
+    ],
+    "Jing7ao": [
+      {
+        "server": "io.github.Jing7ao/aihot-mcp",
+        "version": "1.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Jing7ao/aihot-mcp"
+      },
+      {
+        "server": "io.github.Jing7ao/seedance-mcp",
+        "version": "1.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Jing7ao/seedance-mcp"
+      }
+    ],
+    "KSAklfszf921": [
+      {
+        "server": "io.github.KSAklfszf921/riksdag-regering-mcp",
+        "version": "2.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/KSAklfszf921/Riksdag-Regering-MCP"
+      },
+      {
+        "server": "io.github.KSAklfszf921/skolverket-mcp",
+        "version": "2.1.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/KSAklfszf921/skolverket-mcp"
+      }
+    ],
+    "KVANTRA-dev": [
+      {
+        "server": "io.github.KVANTRA-dev/NOUZ-MCP",
+        "version": "2.3.0",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/KVANTRA-dev/NOUZ-MCP"
+      }
+    ],
+    "Klawdik": [
+      {
+        "server": "io.github.Klawdik/forex-mobile",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Klawdik/forex-mobile"
+      }
+    ],
+    "KynuxDev": [
+      {
+        "server": "io.github.KynuxDev/mcp-instagram-dm",
+        "version": "2.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/KynuxDev/mcp-instagram-dm"
+      }
+    ],
+    "Kzino": [
+      {
+        "server": "io.github.Kzino/vorim-mcp-server",
+        "version": "1.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Kzino/vorim-mcp-server"
+      }
+    ],
+    "Larshiensch99": [
+      {
+        "server": "io.github.Larshiensch99/eli",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Larshiensch99/flowvolt-operator-os"
+      },
+      {
+        "server": "io.github.Larshiensch99/flowvolt",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Larshiensch99/flowvolt-strike-engine"
+      },
+      {
+        "server": "io.github.Larshiensch99/priceparse",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Larshiensch99/priceparse"
+      },
+      {
+        "server": "io.github.Larshiensch99/warden",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Larshiensch99/warden"
+      }
+    ],
+    "LimzoCom": [
+      {
+        "server": "com.limzo/telegram-group-stats",
+        "version": "1.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/LimzoCom/limzo-mcp"
+      }
+    ],
+    "Lucid-Systems-LLC": [
+      {
+        "server": "io.github.Lucid-Systems-LLC/lucid-apple-mcp",
+        "version": "0.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Lucid-Systems-LLC/Lucid-Apple-MCP"
+      }
+    ],
+    "MCPower-Security": [
+      {
+        "server": "io.github.MCPower-Security/mcpower-proxy",
+        "version": "0.0.91",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/MCPower-Security/mcpower-proxy"
+      },
+      {
+        "server": "io.github.ai-mcpower/mcpower-proxy",
+        "version": "0.0.87",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/MCPower-Security/mcpower-proxy"
+      }
+    ],
+    "MichaelLJessop": [
+      {
+        "server": "com.deepmapai/geophysical-intelligence",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/MichaelLJessop/SensorAnalytics"
+      }
+    ],
+    "Nikoble1926": [
+      {
+        "server": "io.github.Nikoble1926/agent-trust-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Nikoble1926/agent-trust-oracle"
+      },
+      {
+        "server": "io.github.Nikoble1926/kraken-signals-mcp",
+        "version": "1.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Nikoble1926/kraken-crypto-signals"
+      }
+    ],
+    "OzorOwn": [
+      {
+        "server": "io.github.OzorOwn/frostbyte",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/OzorOwn/frostbyte-mcp"
+      }
+    ],
+    "PackkitJS": [
+      {
+        "server": "io.github.PackkitJS/packkit-mcp",
+        "version": "1.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/PackkitJS/packkit-mcp"
+      }
+    ],
+    "PattrickChenforclaudeuse": [
+      {
+        "server": "com.mythsensus/mythsensus-mcp",
+        "version": "0.3.10",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/PattrickChenforclaudeuse/mythsensus-mcp"
+      }
+    ],
+    "PnLlabs": [
+      {
+        "server": "io.github.PnLlabs/pnllabs",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/PnLlabs/pnllabs-mcp"
+      }
+    ],
+    "PoopsDavis": [
+      {
+        "server": "ai.lattiq/x402-trading-signals",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/PoopsDavis/lattiq-mcp"
+      }
+    ],
+    "ProntoHQ": [
+      {
+        "server": "io.github.ProntoHQ/mcp-pronto",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ProntoHQ/mcp-pronto"
+      }
+    ],
+    "Smart-link-t": [
+      {
+        "server": "io.github.Smart-link-t/is-real-biz",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Smart-link-t/is-real-biz"
+      }
+    ],
+    "Software-As-Content": [
+      {
+        "server": "ai.dynsoft/sac",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Software-As-Content/software-as-content-sdk"
+      }
+    ],
+    "StonesofCreation": [
+      {
+        "server": "io.github.StonesofCreation/stackswap",
+        "version": "1.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/StonesofCreation/stackswap-mcp"
+      }
+    ],
+    "TelcharFromNogrod": [
+      {
+        "server": "io.github.TelcharFromNogrod/keen",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/TelcharFromNogrod/keen-mcp"
+      }
+    ],
+    "TheGoatPsy": [
+      {
+        "server": "io.github.TheGoatPsy/mneme",
+        "version": "3.5.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/TheGoatPsy/mneme"
+      }
+    ],
+    "TheRoboMaster123": [
+      {
+        "server": "io.github.TheRoboMaster123/mcp-fea",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/TheRoboMaster123/mcp-fea"
+      }
+    ],
+    "TickerAPI": [
+      {
+        "server": "ai.tickerapi/mcp-server",
+        "version": "1.7.2",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/TickerAPI/tickerapi-mcp"
+      }
+    ],
+    "Timwal78": [
+      {
+        "server": "io.github.Timwal78/402proof",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/Timwal78/SqueezeOS"
+      },
+      {
+        "server": "io.github.Timwal78/scriptdocs-mcp-server",
+        "version": "0.3.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Timwal78/scriptdocs-mcp-server"
+      },
+      {
+        "server": "io.github.Timwal78/xdeo",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Timwal78/SqueezeOS"
+      }
+    ],
+    "ToolstackVault": [
+      {
+        "server": "com.pitbridge/pitbridge",
+        "version": "0.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ToolstackVault/pitbridge"
+      }
+    ],
+    "UlyssesModel": [
+      {
+        "server": "io.github.UlyssesModel/kirk-mcp",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/UlyssesModel/kirk-mcp"
+      }
+    ],
+    "YOUR_GH_USERNAME": [
+      {
+        "server": "app.sprkly/sprkly",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/YOUR_GH_USERNAME/sprkly-mcp"
+      }
+    ],
+    "Zer0H1ro": [
+      {
+        "server": "ai.odei/connect",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/Zer0H1ro/ODEI"
+      }
+    ],
+    "a-tarasoff": [
+      {
+        "server": "io.github.a-tarasoff/zenmoney-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/a-tarasoff/zenmoney-mcp"
+      }
+    ],
+    "afu20260324": [
+      {
+        "server": "uk.minia2a/minia2a",
+        "version": "4.0.2",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/afu20260324/minia2a"
+      }
+    ],
+    "agenthustler": [
+      {
+        "server": "io.github.agenthustler/crypto-signals-mcp",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/agenthustler/crypto-signals-mcp"
+      }
+    ],
+    "ai-human-andalusia": [
+      {
+        "server": "io.github.ai-human-andalusia/hrevn-mcp-server",
+        "version": "0.1.0a0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ai-human-andalusia/hrevn-mcp-server"
+      }
+    ],
+    "aiconsulting06000-tech": [
+      {
+        "server": "io.github.aiconsulting06000-tech/acf-mcp",
+        "version": "1.0.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/aiconsulting06000-tech/acf-mcp"
+      }
+    ],
+    "aiproductscout": [
+      {
+        "server": "io.github.athenalion/fincore-agentic-commerce",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/aiproductscout/FinCore"
+      }
+    ],
+    "albertsabatemartinez": [
+      {
+        "server": "com.viatsy/mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/albertsabatemartinez/viatsy"
+      }
+    ],
+    "alias8818": [
+      {
+        "server": "io.github.alias8818/enoch",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/alias8818/enoch-mcp"
+      }
+    ],
+    "alunsoldantarctica": [
+      {
+        "server": "io.github.alunsoldantarctica/mail-index",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/alunsoldantarctica/mail-index"
+      }
+    ],
+    "annibale-x": [
+      {
+        "server": "io.github.annibale-x/mcp-memento",
+        "version": "0.2.31",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/annibale-x/mcp-memento"
+      },
+      {
+        "server": "io.github.annibale-x/mcp-webgate",
+        "version": "0.1.31",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/annibale-x/mcp-webgate"
+      },
+      {
+        "server": "io.github.annibale-x/webshift",
+        "version": "0.2.8",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/annibale-x/webshift"
+      }
+    ],
+    "anp2network": [
+      {
+        "server": "io.github.anp2network/anporia-mcp-server",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/anp2network/ai-net-stack"
+      }
+    ],
+    "anp2protocol": [
+      {
+        "server": "io.github.anp2protocol/anp2-mcp-server",
+        "version": "0.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/anp2protocol/anp2"
+      },
+      {
+        "server": "io.github.anp2protocol/anporia-mcp-server",
+        "version": "0.2.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/anp2protocol/anp2"
+      }
+    ],
+    "arsonx-dev": [
+      {
+        "server": "io.github.arsonx-dev/gatesolve-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/arsonx-dev/gatesolve"
+      }
+    ],
+    "aruxojuyu665": [
+      {
+        "server": "io.github.aruxojuyu665/twocaptcha-mcp",
+        "version": "0.6.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/aruxojuyu665/2Captcha-MCP"
+      }
+    ],
+    "authzx": [
+      {
+        "server": "io.github.authzx/mcp-gateway",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/authzx/mcp-gateway"
+      }
+    ],
+    "autoblocksai": [
+      {
+        "server": "ai.autoblocks/contextlayer-mcp",
+        "version": "0.0.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/autoblocksai/ctxl"
+      },
+      {
+        "server": "ai.autoblocks/ctxl",
+        "version": "0.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/autoblocksai/ctxl"
+      },
+      {
+        "server": "ai.autoblocks/ctxl-mcp",
+        "version": "0.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/autoblocksai/ctxl"
+      }
+    ],
+    "avabuildsdata": [
+      {
+        "server": "io.github.avabuildsdata/mcp-us-business-data",
+        "version": "1.9.240",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/avabuildsdata/mcp-us-business-data"
+      }
+    ],
+    "aymandakir-gh": [
+      {
+        "server": "io.github.aymandakir-gh/piu-copy-mcp",
+        "version": "0.6.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/aymandakir-gh/piu-copy-mcp"
+      }
+    ],
+    "bap-microsoft": [
+      {
+        "server": "com.microsoft/agent365-admintools",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-calendartools",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-m365copilot",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-mailtools",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-meserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-odspremoteserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-sharepointliststools",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-teamsserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/agent365-wordserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-admintools",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-m365copilot",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-mailtools",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-meserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-odspremoteserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-sharepointliststools",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-teamsserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      },
+      {
+        "server": "com.microsoft/workiq-wordserver",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bap-microsoft/MCP-Platform/"
+      }
+    ],
+    "bibi-bambi": [
+      {
+        "server": "io.github.bibi-bambi/skanfirmy",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bibi-bambi/tiny-apps"
+      }
+    ],
+    "bkauto3": [
+      {
+        "server": "io.github.bkauto3/conduit",
+        "version": "0.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bkauto3/Conduit"
+      }
+    ],
+    "blaideinc": [
+      {
+        "server": "io.github.jkakar/cookwith-mcp",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/blaideinc/cookwith-mcp"
+      },
+      {
+        "server": "io.github.jkakar/recipe-mcp",
+        "version": "1.0.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/blaideinc/recipe-mcp"
+      }
+    ],
+    "bolidee": [
+      {
+        "server": "io.github.bolidee/crazyseo",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/bolidee/crazyseo"
+      }
+    ],
+    "briangaoo": [
+      {
+        "server": "io.github.briangaoo/totem",
+        "version": "1.4.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/briangaoo/totem"
+      },
+      {
+        "server": "io.github.briangaoo/whoop-mcp",
+        "version": "1.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/briangaoo/whoop-mcp"
+      }
+    ],
+    "brunoescalhao": [
+      {
+        "server": "io.github.bruno-portfolio/hypokrates",
+        "version": "0.7.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/brunoescalhao/hypokrates"
+      }
+    ],
+    "cabbageandtea": [
+      {
+        "server": "io.github.cabbageandtea/sqlguard",
+        "version": "1.1.20",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cabbageandtea/sqlguard"
+      },
+      {
+        "server": "io.sqlguard/sqlguard",
+        "version": "1.1.71",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cabbageandtea/sqlguard"
+      }
+    ],
+    "cdkbotmcp": [
+      {
+        "server": "io.github.cdkbotmcp/cdk-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cdkbotmcp/cdk-mcp"
+      }
+    ],
+    "cg3-llc": [
+      {
+        "server": "io.cg3/prior",
+        "version": "0.5.22",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cg3-llc/prior_mcp"
+      }
+    ],
+    "cgdev2019": [
+      {
+        "server": "io.github.cgdev2019/comparefairly-mcp",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cgdev2019/comparefairly-mcp"
+      }
+    ],
+    "chaandannn": [
+      {
+        "server": "io.github.chaandannn/finops-mcp",
+        "version": "0.8.176",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/chaandannn/finopsmcp"
+      }
+    ],
+    "clarencyu-boop": [
+      {
+        "server": "io.github.clarencyu-boop/sentinel",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/clarencyu-boop/mcp-server-sentinel"
+      }
+    ],
+    "clauderecallhq": [
+      {
+        "server": "io.github.clauderecallhq/recall",
+        "version": "0.12.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/clauderecallhq/clauderecall"
+      }
+    ],
+    "compligent": [
+      {
+        "server": "io.github.compl-i-agent/csf",
+        "version": "2.4.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/compligent/mcp-platform"
+      }
+    ],
+    "connerlambden": [
+      {
+        "server": "io.github.connerlambden/bgpt-mcp",
+        "version": "1.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/connerlambden/bgpt-mcp"
+      },
+      {
+        "server": "io.github.connerlambden/helium-mcp",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/connerlambden/helium-mcp"
+      }
+    ],
+    "coopergwrenn": [
+      {
+        "server": "io.github.coopergwrenn/postals-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/coopergwrenn/postals-mcp"
+      }
+    ],
+    "crabbitmq": [
+      {
+        "server": "com.crabbitmq/mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/crabbitmq/crabbit_mq"
+      }
+    ],
+    "cuilabs": [
+      {
+        "server": "io.github.cuilabs/bee",
+        "version": "0.6.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cuilabs/bee-community"
+      }
+    ],
+    "cybeleri": [
+      {
+        "server": "io.github.cybeleri/database-admin",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cybeleri/database-mcp-server"
+      },
+      {
+        "server": "io.github.cybeleri/finance",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/cybeleri/finance-mcp-server"
+      }
+    ],
+    "danielxri": [
+      {
+        "server": "io.github.danielxri/clawmerchants-mcp-gateway",
+        "version": "2.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/danielxri/clawmerchants.git"
+      }
+    ],
+    "dantwoashim": [
+      {
+        "server": "io.github.dantwoashim/project-parva",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/dantwoashim/Project_Parva"
+      }
+    ],
+    "darylerivers": [
+      {
+        "server": "io.github.darylerivers/nicheiqs",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/darylerivers/nicheiqs-mcp"
+      }
+    ],
+    "dcadolph": [
+      {
+        "server": "io.github.dcadolph/vamoose",
+        "version": "0.35.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/dcadolph/vamoose"
+      }
+    ],
+    "defimind-ai": [
+      {
+        "server": "io.github.defimind-ai/defimind-mcp",
+        "version": "0.2.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/defimind-ai/defimind-mcp"
+      }
+    ],
+    "demorphed6-lgtm": [
+      {
+        "server": "io.github.demorphed6-lgtm/planomy-mcp",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/demorphed6-lgtm/planomy-mcp"
+      }
+    ],
+    "dokdosolutions-us": [
+      {
+        "server": "io.github.dokdosolutions-us/jam",
+        "version": "0.5.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/dokdosolutions-us/toast-mcp"
+      },
+      {
+        "server": "io.github.dokdosolutions-us/lucky",
+        "version": "1.0.4",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/dokdosolutions-us/clover-mcp-server"
+      }
+    ],
+    "ebrunet001": [
+      {
+        "server": "io.github.ebrunet001/mcp-server-espn",
+        "version": "0.1.18",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ebrunet001/mcp-server-espn"
+      },
+      {
+        "server": "io.github.ebrunet001/mcp-server-latest-news",
+        "version": "0.1.28",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ebrunet001/mcp-server-latest-news"
+      },
+      {
+        "server": "io.github.ebrunet001/mcp-server-lol",
+        "version": "2.0.44",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ebrunet001/mcp-server-lol"
+      },
+      {
+        "server": "io.github.ebrunet001/mcp-server-tft",
+        "version": "1.0.20",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ebrunet001/mcp-server-tft"
+      }
+    ],
+    "edgarfloresguerra2011-a11y": [
+      {
+        "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
+        "version": "1.5.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/edgarfloresguerra2011-a11y/marketnow"
+      },
+      {
+        "server": "io.github.edgarfloresguerra2011-a11y/marketnow-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/edgarfloresguerra2011-a11y/marketnow"
+      }
+    ],
+    "eidetic-works": [
+      {
+        "server": "io.github.eidetic-works/nucleus",
+        "version": "1.15.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/eidetic-works/nucleus-mcp"
+      }
+    ],
+    "elisymprotocol": [
+      {
+        "server": "io.github.elisymprotocol/elisym-mcp",
+        "version": "0.3.16",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/elisymprotocol/elisym-mcp"
+      }
+    ],
+    "elliot-esimdog": [
+      {
+        "server": "io.github.elliot-esimdog/mcp-esim",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/elliot-esimdog/mcp-esim"
+      }
+    ],
+    "engrahmedrehan": [
+      {
+        "server": "io.github.engrmaziz/git-archaeologist",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/engrahmedrehan/git-archaeologist-mcp"
+      }
+    ],
+    "eventtrader": [
+      {
+        "server": "com.cymetica/event-trader-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/eventtrader/event-trader-mcp"
+      },
+      {
+        "server": "io.github.eventtrader/eventtrader",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/eventtrader/event-trader"
+      }
+    ],
+    "fluentive": [
+      {
+        "server": "app.fluentive/mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/fluentive/mcp"
+      }
+    ],
+    "forge-treasury": [
+      {
+        "server": "com.forgetreasury/treasury",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/forge-treasury/forge-cursor-plugin"
+      }
+    ],
+    "fujimura-ui": [
+      {
+        "server": "io.github.fujimura-ui/japan-company-leads-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/fujimura-ui/japan-company-leads-mcp"
+      },
+      {
+        "server": "io.github.fujimura-ui/japan-law-search-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/fujimura-ui/japan-law-search-mcp"
+      },
+      {
+        "server": "io.github.fujimura-ui/japan-parliament-search-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/fujimura-ui/japan-parliament-search-mcp"
+      },
+      {
+        "server": "io.github.fujimura-ui/japan-real-estate-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/fujimura-ui/japan-real-estate-mcp"
+      },
+      {
+        "server": "io.github.fujimura-ui/japan-subsidy-search-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/fujimura-ui/japan-subsidy-search-mcp"
+      }
+    ],
+    "funn-to": [
+      {
+        "server": "to.funn/funnel-generator",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/funn-to/mcp-server"
+      }
+    ],
+    "gLkzlDmHRc": [
+      {
+        "server": "pl.idfmetale/catalog-feed",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/gLkzlDmHRc/idfmetale-mcp"
+      }
+    ],
+    "generalintelligencecapital": [
+      {
+        "server": "com.meetvalis/valis-credit-intelligence",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/generalintelligencecapital/valis-mcp"
+      }
+    ],
+    "getmdkit": [
+      {
+        "server": "online.mdkit/mdkit",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/getmdkit/mdkit"
+      }
+    ],
+    "getpdfrender": [
+      {
+        "server": "dev.pdfrender/pdfrender",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/getpdfrender/pdfrender"
+      }
+    ],
+    "glitch-exec-labs": [
+      {
+        "server": "com.glitchexecutor.grow/glitch-grow-linkedin-ad-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/glitch-exec-labs/glitch-grow-linkedin-ad-mcp"
+      }
+    ],
+    "gtdfg6wgg8-ui": [
+      {
+        "server": "work.agentexchange.planets/agent-planets",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/gtdfg6wgg8-ui/agent-planets-skill"
+      }
+    ],
+    "hezeclark": [
+      {
+        "server": "io.github.hezeclark/devkits",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/hezeclark/devkits-mcp"
+      }
+    ],
+    "holetron": [
+      {
+        "server": "io.github.holetron/hindsight-mempalace",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/holetron/hindsight-mempalace"
+      }
+    ],
+    "infai-tech": [
+      {
+        "server": "io.github.infai-tech/vulnfeed",
+        "version": "0.3.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/infai-tech/vulnfeed-mcp"
+      }
+    ],
+    "influqa": [
+      {
+        "server": "io.github.influqa/crypto-agent-mail",
+        "version": "0.4.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/influqa/crypto-agent-mail-skills"
+      }
+    ],
+    "iturri-ai": [
+      {
+        "server": "ai.iturri/market-data",
+        "version": "0.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/iturri-ai/iturri-mcp"
+      }
+    ],
+    "jakobwennberg": [
+      {
+        "server": "io.github.jakobwennberg/fortnox",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/jakobwennberg/fortnox-mcp"
+      }
+    ],
+    "janleitner": [
+      {
+        "server": "com.lastminutedealshq/last-minute-tours",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/janleitner/agentic-workflows"
+      }
+    ],
+    "jeresalmisto": [
+      {
+        "server": "io.github.jeresalmisto/calcfi-mcp",
+        "version": "0.1.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/jeresalmisto/calcfi-mcp"
+      }
+    ],
+    "jhonychain": [
+      {
+        "server": "io.github.jhonychain/rasterly-mcp",
+        "version": "0.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/jhonychain/rasterly-mcp"
+      }
+    ],
+    "jobswithgpt": [
+      {
+        "server": "io.github.jobswithgpt/corvi-careers",
+        "version": "1.27.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/jobswithgpt/mcp"
+      }
+    ],
+    "jonybur-oc": [
+      {
+        "server": "io.github.jonybur-oc/mcp-server",
+        "version": "0.6.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/jonybur-oc/locus"
+      }
+    ],
+    "kailayerhq": [
+      {
+        "server": "io.github.kailayerhq/kai",
+        "version": "0.9.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/kailayerhq/kai"
+      }
+    ],
+    "kaitzyy-dev": [
+      {
+        "server": "io.github.kaitzyy-dev/readout",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/kaitzyy-dev/readout"
+      },
+      {
+        "server": "io.github.kaitzyy-dev/sighttrue",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/kaitzyy-dev/sighttrue"
+      }
+    ],
+    "kajaril": [
+      {
+        "server": "io.github.kajaril/sovereignty-scan-mcp",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/kajaril/sovereignty-scan-mcp"
+      }
+    ],
+    "khadinakbaronline": [
+      {
+        "server": "io.github.khadinakbaronline/telegram-channel-scraper-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/khadinakbaronline/telegram-channel-scraper-mcp"
+      }
+    ],
+    "kitepon-rgb": [
+      {
+        "server": "io.github.kitepon-rgb/aiterm-mcp",
+        "version": "0.24.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/kitepon-rgb/aiterm-mcp"
+      }
+    ],
+    "larebelion": [
+      {
+        "server": "ai.com.mcp/hapi-mcp",
+        "version": "0.6.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/larebelion/hapimcp"
+      }
+    ],
+    "lockinplanner": [
+      {
+        "server": "io.github.HariharRengan/lock-in-study-planner",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/lockinplanner/lock-in"
+      }
+    ],
+    "lucavisconti211-debug": [
+      {
+        "server": "io.github.lucavisconti211-debug/heu-mcp",
+        "version": "0.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/lucavisconti211-debug/heu-mcp"
+      }
+    ],
+    "luzomi": [
+      {
+        "server": "io.github.luzomi/grandline-mcp",
+        "version": "0.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/luzomi/luzomi"
+      }
+    ],
+    "lvlltd": [
+      {
+        "server": "com.lvlltd/skill-market",
+        "version": "1.5.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/lvlltd/lvlltd-agent-marketplace"
+      }
+    ],
+    "malamutemayhem": [
+      {
+        "server": "io.github.malamutemayhem/abn",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/amber",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/australiapost",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/bgg",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/chessdotcom",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/coingecko",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/deezer",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/domain",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/espn",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/exchangerate",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/fpl",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/gdelt",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/genius",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/hackernews",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/igdb",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/ipapi",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/ipaustralia",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/lastfm",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/lichess",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/meal",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/musicbrainz",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/nasa",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/omdb",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/openaq",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/openf1",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/openfoodfacts",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/openlibrary",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/openmeteo",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/ptv",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/radiobrowser",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/rawg",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/reddit",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/restcountries",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/sendle",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/sleeper",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/speedrun",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/spotify",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/thelott",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/tmdb",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/trivia",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/unclick-mcp-server",
+        "version": "0.2.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick-agent-native-endpoints.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/untappd",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/usgs",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/willyweather",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      },
+      {
+        "server": "io.github.malamutemayhem/youtube",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/malamutemayhem/unclick.git"
+      }
+    ],
+    "mikegaruccio": [
+      {
+        "server": "io.github.mgaruccio/openapi-navigator",
+        "version": "0.5.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/mikegaruccio/openapi-navigator"
+      }
+    ],
+    "monikaskorykow": [
+      {
+        "server": "com.monikaskorykow/workshops",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/monikaskorykow/mcp-workshops"
+      }
+    ],
+    "mrlarryjohnson111": [
+      {
+        "server": "io.github.mrlarryjohnson111/polymarket-mcp-server",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/mrlarryjohnson111/polymarket-mcp-server"
+      }
+    ],
+    "msjsc001": [
+      {
+        "server": "io.github.msjsc001/omniclip-rag-mcp",
+        "version": "0.4.8",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/msjsc001/OmniClip-RAG"
+      }
+    ],
+    "musa8026": [
+      {
+        "server": "io.github.musa8026/sciencetostartup",
+        "version": "2.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/musa8026/science-to-startup"
+      }
+    ],
+    "ndl-systems": [
+      {
+        "server": "io.github.ndl-systems/kevros",
+        "version": "0.3.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ndl-systems/kevros-sdk"
+      }
+    ],
+    "negative-ev": [
+      {
+        "server": "com.negativeev/bet-checker",
+        "version": "1.4.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/negative-ev/negativeev-mcp"
+      }
+    ],
+    "niceprompt": [
+      {
+        "server": "app.meepo/studio",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/niceprompt/meepo-mcp-server"
+      }
+    ],
+    "nugrohosetiaji91-png": [
+      {
+        "server": "com.tally-stick/tallystick",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/nugrohosetiaji91-png/tallystick-mcp"
+      }
+    ],
+    "oaslananka-lab": [
+      {
+        "server": "io.github.oaslananka/mcp-ssh-tool",
+        "version": "2.2.7",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/oaslananka-lab/mcp-ssh-tool"
+      }
+    ],
+    "openenterprise-info": [
+      {
+        "server": "io.github.openenterprise-info/oe-mcp",
+        "version": "1.4.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/openenterprise-info/open-enterprise-ai-mcp-server"
+      }
+    ],
+    "openkash": [
+      {
+        "server": "io.github.openkash/abap-accelerator",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/openkash/abap-accelerator"
+      }
+    ],
+    "opspawn": [
+      {
+        "server": "io.github.opspawn/bazaar-mcp",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/opspawn/bazaar-mcp-server"
+      }
+    ],
+    "orsf-sk": [
+      {
+        "server": "sk.orsf/mcp-server",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/orsf-sk/orsf"
+      }
+    ],
+    "overtimepog": [
+      {
+        "server": "io.github.overtimepog/CloakMCP",
+        "version": "2.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/overtimepog/CloakMCP"
+      }
+    ],
+    "pachote": [
+      {
+        "server": "io.github.pachote/nira-file-intel",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pachote/nira-file-intel"
+      },
+      {
+        "server": "io.github.pachote/nira-repl",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pachote/nira-repl"
+      },
+      {
+        "server": "io.github.pachote/nira-screen-vision",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pachote/nira-screen-vision"
+      },
+      {
+        "server": "io.github.pachote/nira-temporal",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pachote/nira-temporal"
+      },
+      {
+        "server": "io.github.pachote/nira-video-mcp",
+        "version": "1.0.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pachote/nira-video-mcp"
+      }
+    ],
+    "parnasheps-eng": [
+      {
+        "server": "io.github.parnasheps-eng/dark-search-protocol",
+        "version": "0.8.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/parnasheps-eng/dsp-mcp-server"
+      }
+    ],
+    "payclaw": [
+      {
+        "server": "io.github.payclaw/badge",
+        "version": "0.4.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/payclaw/badge-server"
+      },
+      {
+        "server": "io.github.payclaw/payclaw",
+        "version": "0.1.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/payclaw/mcp-server"
+      },
+      {
+        "server": "io.github.payclaw/spend",
+        "version": "0.4.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/payclaw/mcp-server"
+      }
+    ],
+    "pdaxt": [
+      {
+        "server": "io.github.pdaxt/agentos",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pdaxt/agentos"
+      },
+      {
+        "server": "io.github.pdaxt/pqvault",
+        "version": "2.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pdaxt/pqvault-rs"
+      }
+    ],
+    "pelletfi": [
+      {
+        "server": "io.github.pelletfi/mcp",
+        "version": "0.4.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pelletfi/pellet"
+      }
+    ],
+    "pillargtm": [
+      {
+        "server": "com.pillargtm/gtm-os",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pillargtm/pillar-mcp-server"
+      }
+    ],
+    "plagtech": [
+      {
+        "server": "io.github.plagtech/spraay-solana-gateway",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/plagtech/spraay-solana-gateway"
+      },
+      {
+        "server": "io.github.plagtech/spraay-x402-mcp",
+        "version": "3.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/plagtech/spraay-x402-mcp"
+      }
+    ],
+    "predictasiax": [
+      {
+        "server": "com.predictasiax/mcp",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/predictasiax/predictasiax-mcp-client-starter"
+      }
+    ],
+    "prismnetwork-tech": [
+      {
+        "server": "io.github.prismnetwork-tech/mcp",
+        "version": "0.7.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/prismnetwork-tech/prism"
+      }
+    ],
+    "prodbysilky": [
+      {
+        "server": "io.github.zsoltcsaszti/vigil-mcp",
+        "version": "0.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/prodbysilky/vigil-mcp"
+      }
+    ],
+    "pure-maple": [
+      {
+        "server": "io.github.pure-maple/modelmux",
+        "version": "0.4.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/pure-maple/modelmux"
+      }
+    ],
+    "quanti-io": [
+      {
+        "server": "io.quanti/mcp-server",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/quanti-io/mcp"
+      }
+    ],
+    "radi-totev": [
+      {
+        "server": "io.github.raditotev/agent-auth",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/radi-totev/agent-auth"
+      }
+    ],
+    "rafa2403nunez-droid": [
+      {
+        "server": "io.github.rafa2403nunez-droid/pynet-mcp-bridge",
+        "version": "1.4.5",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rafa2403nunez-droid/PyNetBridge"
+      }
+    ],
+    "raisonnai": [
+      {
+        "server": "ai.raisonn/connect",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/raisonnai/raisonnai"
+      }
+    ],
+    "rajanrengasamy": [
+      {
+        "server": "io.github.rajanrengasamy/vidlens-mcp",
+        "version": "1.2.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rajanrengasamy/vidlens-mcp"
+      }
+    ],
+    "ralphieusa": [
+      {
+        "server": "io.github.ralphieusa/idevice-wearables",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ralphieusa/ralphie"
+      }
+    ],
+    "ramaris-app": [
+      {
+        "server": "io.github.ramaris-app/mcp-server",
+        "version": "0.1.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ramaris-app/mcp-server"
+      }
+    ],
+    "razroo": [
+      {
+        "server": "io.github.razroo/state-trace",
+        "version": "0.3.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/razroo/state-trace"
+      }
+    ],
+    "rccola990-cloud": [
+      {
+        "server": "io.github.rccola990-cloud/agent-toolbelt",
+        "version": "2.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rccola990-cloud/agent-toolbelt"
+      },
+      {
+        "server": "io.github.rccola990-cloud/mcp-token-optimizer",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rccola990-cloud/mcp-token-optimizer"
+      },
+      {
+        "server": "io.github.rccola990-cloud/x402-agent-store",
+        "version": "1.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rccola990-cloud/x402-agent-store"
+      }
+    ],
+    "regression-io": [
+      {
+        "server": "io.github.ruze00/stratum-mcp",
+        "version": "0.2.6",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/regression-io/stratum"
+      }
+    ],
+    "rishiatlan": [
+      {
+        "server": "io.github.rishiatlan/claude-prompt-optimizer",
+        "version": "2.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rishiatlan/Claude-Prompt-Optimizer-MCP"
+      }
+    ],
+    "rogerberent-netizen": [
+      {
+        "server": "io.github.rogerberent-netizen/docverdict",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/rogerberent-netizen/docverdict"
+      },
+      {
+        "server": "io.github.rogerberent-netizen/zoningverdict",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/rogerberent-netizen/zoningverdict"
+      }
+    ],
+    "s-b-e-n-s-o-n": [
+      {
+        "server": "io.github.s-b-e-n-s-o-n/portkey-admin-mcp",
+        "version": "0.3.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/s-b-e-n-s-o-n/portkey-admin-mcp"
+      }
+    ],
+    "savordish": [
+      {
+        "server": "io.github.rodeldoria/savor-dish",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/savordish/savor-dish"
+      }
+    ],
+    "scizuixiangsis": [
+      {
+        "server": "io.github.scizuixiangsis/tapd-mcp-server",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/scizuixiangsis/tapd-mcp-server"
+      }
+    ],
+    "scotia1973-bot": [
+      {
+        "server": "com.gadgethumans.api/api-hub",
+        "version": "3.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/scotia1973-bot/api-hub.git"
+      },
+      {
+        "server": "com.gadgethumans.swarm/x402-middleware",
+        "version": "3.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/scotia1973-bot/gadgethumans-x402"
+      },
+      {
+        "server": "io.github.scotia1973-bot/api-hub",
+        "version": "2.6.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/scotia1973-bot/api-hub"
+      },
+      {
+        "server": "io.github.scotia1973-bot/gadgethumans-mcp",
+        "version": "1.0.7",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/scotia1973-bot/gadgethumans-mcp"
+      },
+      {
+        "server": "io.github.scotia1973-bot/gadgethumans-x402",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/scotia1973-bot/gadgethumans-mcp"
+      }
+    ],
+    "selflabbs": [
+      {
+        "server": "io.github.selflabbs/base-intel-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/base-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/domain-intel-mcp",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/domain-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/economy-intel-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/economy-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/filings-intel-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/filings-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/market-intel-mcp",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/market-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/package-intel-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/package-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/regulatory-intel-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/regulatory-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/security-intel-mcp",
+        "version": "2.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/security-intel-mcp"
+      },
+      {
+        "server": "io.github.selflabbs/weather-intel-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/selflabbs/weather-intel-mcp"
+      }
+    ],
+    "shanjai-raj": [
+      {
+        "server": "io.github.shanjai-raj/commune-mcp",
+        "version": "0.1.9",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/shanjai-raj/commune-mcp"
+      }
+    ],
+    "sher1096": [
+      {
+        "server": "io.github.sher1096/klinepic",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/sher1096/klinepic-agent-api-examples"
+      }
+    ],
+    "sherweb-development": [
+      {
+        "server": "com.sherweb/cumulus",
+        "version": "1.45.25",
+        "is_latest": true,
+        "status": "deleted",
+        "url": "https://github.com/sherweb-development/Cumulus.Mcp.Server"
+      }
+    ],
+    "shin-bot-litellm": [
+      {
+        "server": "io.github.shin-bot-litellm/litellm-mcp",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/shin-bot-litellm/litellm-agent-mcp"
+      }
+    ],
+    "ship24-official": [
+      {
+        "server": "io.github.ship24-official/ship24-tracking",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ship24-official/ship24-tracking-mcp"
+      }
+    ],
+    "siddmax": [
+      {
+        "server": "io.github.siddmax/namera",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/siddmax/Namera"
+      }
+    ],
+    "simplemindedbot": [
+      {
+        "server": "io.github.simplemindedbot/mnemex",
+        "version": "0.5.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/simplemindedbot/mnemex"
+      }
+    ],
+    "skillselion": [
+      {
+        "server": "io.github.skillselion/skillselion-mcp",
+        "version": "0.9.10",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/skillselion/skillselion-mcp"
+      }
+    ],
+    "smartmemory": [
+      {
+        "server": "io.github.smartmemory/stratum-mcp",
+        "version": "0.2.42",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/smartmemory/stratum"
+      }
+    ],
+    "smithshsh": [
+      {
+        "server": "tech.ensotrade/ensotrade",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/smithshsh/enso-fundamentals"
+      }
+    ],
+    "subhatta123": [
+      {
+        "server": "io.github.subhatta123/twilize",
+        "version": "0.34.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/subhatta123/twilize"
+      }
+    ],
+    "suresms": [
+      {
+        "server": "com.suresms/mcp",
+        "version": "1.1.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/suresms/web-app"
+      }
+    ],
+    "systemblueio": [
+      {
+        "server": "io.github.systemblueio/deadcat-reaper",
+        "version": "0.1.5",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/systemblueio/DeadCat"
+      }
+    ],
+    "taytrom": [
+      {
+        "server": "com.bitsbound/contract-analysis",
+        "version": "1.0.6",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/taytrom/bitsbound-mcp-server"
+      },
+      {
+        "server": "com.bitsbound/contract-automation",
+        "version": "1.0.8",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/taytrom/bitsbound-mcp-server"
+      },
+      {
+        "server": "io.github.taytrom/bitsbound-contract-automation",
+        "version": "1.0.14",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/taytrom/bitsbound-mcp-server"
+      }
+    ],
+    "thunderbit-open": [
+      {
+        "server": "io.github.thunderbit-open/thunderbit-mcp-server",
+        "version": "1.0.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/thunderbit-open/thunderbit-mcp-server"
+      }
+    ],
+    "timolein74": [
+      {
+        "server": "io.github.timolein74/asterpay",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/timolein74/asterpay-api"
+      }
+    ],
+    "timwal78": [
+      {
+        "server": "com.scriptmasterlabs/x402-gateway",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/timwal78/SML_Portfolio"
+      },
+      {
+        "server": "io.github.Timwal78/aetheris-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "deprecated",
+        "url": "https://github.com/timwal78/aetheris-mcp-render"
+      },
+      {
+        "server": "io.github.Timwal78/mcp-x402",
+        "version": "2.3.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/timwal78/SML_Portfolio"
+      },
+      {
+        "server": "io.github.Timwal78/squeezeos",
+        "version": "6.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/timwal78/squeezeos"
+      }
+    ],
+    "topness": [
+      {
+        "server": "com.topness/callwright",
+        "version": "1.0.4",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/topness/callwright"
+      }
+    ],
+    "totalaudiopromo": [
+      {
+        "server": "io.github.totalaudiopromo/tap-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/totalaudiopromo/total-audio-platform"
+      }
+    ],
+    "toutcreer": [
+      {
+        "server": "com.toutcreer/finoptima",
+        "version": "1.3.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/toutcreer/finoptima"
+      }
+    ],
+    "traffiycom-ui": [
+      {
+        "server": "io.github.traffiycom-ui/paidsync",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/traffiycom-ui/paidsync-mcp-server"
+      }
+    ],
+    "tresor4k": [
+      {
+        "server": "io.github.tresor4k/calcuris-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tresor4k/calcuris-mcp"
+      },
+      {
+        "server": "io.github.tresor4k/macalc-mcp",
+        "version": "0.4.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tresor4k/macalc-mcp"
+      },
+      {
+        "server": "io.github.tresor4k/realdentalcosts-mcp",
+        "version": "0.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tresor4k/realdentalcosts-mcp"
+      },
+      {
+        "server": "io.github.tresor4k/statetakehome-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tresor4k/statetakehome-mcp"
+      },
+      {
+        "server": "io.github.tresor4k/tabletemplates-mcp",
+        "version": "0.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tresor4k/tabletemplates-mcp"
+      }
+    ],
+    "tuanle96": [
+      {
+        "server": "io.github.tuanle96/mcp-odoo",
+        "version": "1.2.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tuanle96/mcp-odoo"
+      }
+    ],
+    "tylerscomic-lab": [
+      {
+        "server": "io.github.tylerscomic-lab/claude-cost-audit-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tylerscomic-lab/claude-cost-audit-mcp"
+      },
+      {
+        "server": "io.github.tylerscomic-lab/cron-schedule-audit-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tylerscomic-lab/cron-schedule-audit-mcp"
+      },
+      {
+        "server": "io.github.tylerscomic-lab/mcp-schema-audit-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tylerscomic-lab/mcp-schema-audit-mcp"
+      },
+      {
+        "server": "io.github.tylerscomic-lab/regex-safety-audit-mcp",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/tylerscomic-lab/regex-safety-audit-mcp"
+      }
+    ],
+    "urlsnapdev": [
+      {
+        "server": "dev.urlsnap/urlsnap-mcp",
+        "version": "1.0.2",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/urlsnapdev/urlsnap-mcp"
+      }
+    ],
+    "usepopup": [
+      {
+        "server": "com.usepopup/organizer",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/usepopup/mcp-server"
+      }
+    ],
+    "vanmoose-apis": [
+      {
+        "server": "io.github.codevanmoose/vanmoose-mcp-server",
+        "version": "1.2.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/vanmoose-apis/mcp-server"
+      }
+    ],
+    "vedangvatsa123": [
+      {
+        "server": "io.github.vedangvatsa123/cvinbio",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/vedangvatsa123/PDFtoWebsite"
+      }
+    ],
+    "vladkarpman": [
+      {
+        "server": "io.github.vladkarpman/device-manager-mcp",
+        "version": "1.0.7",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/vladkarpman/device-manager-mcp"
+      },
+      {
+        "server": "io.github.vladkarpman/screen-buffer-mcp",
+        "version": "2.1.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/vladkarpman/screen-buffer-mcp"
+      }
+    ],
+    "walkojas-boop": [
+      {
+        "server": "io.github.walkojas-boop/ghostdom",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/walkojas-boop/ghostdom"
+      },
+      {
+        "server": "io.github.walkojas-boop/jsonshelf",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/walkojas-boop/jsonshelf"
+      },
+      {
+        "server": "io.github.walkojas-boop/linkpulse",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/walkojas-boop/linkpulse"
+      },
+      {
+        "server": "io.github.walkojas-boop/regexforge",
+        "version": "1.0.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/walkojas-boop/regexforge"
+      }
+    ],
+    "x-monk": [
+      {
+        "server": "io.github.x-monk/mcp-webgate",
+        "version": "0.1.32",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/x-monk/mcp-webgate"
+      },
+      {
+        "server": "io.github.x-monk/webshift",
+        "version": "0.2.9",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/x-monk/webshift"
+      }
+    ],
+    "y-yahiaoui1406": [
+      {
+        "server": "io.github.yyahiaoui1406-max/clavio",
+        "version": "1.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/y-yahiaoui1406/clavio-mcp"
+      }
+    ],
+    "ya-xyz": [
+      {
+        "server": "xyz.yault/aesp",
+        "version": "0.2.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/ya-xyz/aesp"
+      }
+    ],
+    "yehudalevy-collab": [
+      {
+        "server": "io.github.yehudalevy-collab/polis-protocol",
+        "version": "2.0.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/yehudalevy-collab/polis-protocol"
+      }
+    ],
+    "zerabic": [
+      {
+        "server": "io.github.zerabic/agentweb",
+        "version": "1.5.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/zerabic/agentweb-mcp"
+      }
+    ],
+    "zero520-dot": [
+      {
+        "server": "io.github.zero520-dot/trencher-agent",
+        "version": "1.0.5",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/zero520-dot/trencher-agent"
+      }
+    ],
+    "zikriz": [
+      {
+        "server": "io.github.zikriz/wallet-doctor",
+        "version": "0.2.3",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/zikriz/wallet-doctor-sdk"
+      },
+      {
+        "server": "io.github.zikriz/wallet-doctor-x402",
+        "version": "0.9.0",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/zikriz/ai-wallet-mcp"
+      }
+    ],
+    "zymsj8j9z9-ship-it": [
+      {
+        "server": "io.github.zymsj8j9z9-ship-it/packforai-mcp",
+        "version": "0.1.1",
+        "is_latest": true,
+        "status": "active",
+        "url": "https://github.com/zymsj8j9z9-ship-it/packforai-mcp"
+      }
+    ]
+  }
+}
