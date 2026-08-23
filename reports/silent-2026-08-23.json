@@ -1,0 +1,25 @@
+{
+  "from": "2026-08-22",
+  "to": "2026-08-23",
+  "compared_version_records": 80662,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.tk26/minoa",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.tk26/minoa",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 214,
+  "vanished_version_records": 0
+}
