@@ -1,0 +1,313 @@
+{
+  "from": "2026-08-23",
+  "to": "2026-08-24",
+  "compared_version_records": 80876,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.transcriptout/youtube-transcript-and-youtube-search",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.0-rc.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hemmabo/hemmabo-mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.basilalshukaili/agent-broker",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.hemmabo/hemmabo-mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.hemmabo/hemmabo-mcp-server",
+      "version": "3.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cham-p24/tapeline",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.truealter/identity",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.0-rc.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.mangii/manga",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hemmabo/hemmabo-mcp-server",
+      "version": "3.2.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.12",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.10",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.basilalshukaili/agent-broker",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.mangii/manga",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.molkex/openflow",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.9",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.basilalshukaili/agent-broker",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.truealter/identity",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.truealter/identity",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.0-rc.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.riverliu8/pptogo-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.samuelbushi/uizze",
+      "version": "1.1.8",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.truealter/identity",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.truealter/identity",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.PLANIT-TECH/lawbster",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.applefanaimail-blip/bridgenode-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 705,
+  "vanished_version_records": 0
+}
