@@ -1,0 +1,121 @@
+{
+  "from": "2026-08-24",
+  "to": "2026-08-25",
+  "compared_version_records": 81581,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.spytrend/ad-spy",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mrmaciej1/justfill",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/cheapest-grocery-basket",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.buywhere/buywhere-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.spytrend/ad-spy",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.garchi/garchi-cms",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mrmaciej1/justfill",
+      "version": "0.4.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.buywhere/buywhere-mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.RhythmP28/magic-hour",
+      "version": "3.4.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DigiCatalyst-Systems/dep-diff-mcp",
+      "version": "0.1.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.parikshitmadahar/rightcard-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.uicockpit/mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mrmaciej1/justfill",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mrmaciej1/justfill",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.loppee/loppee",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mrmaciej1/justfill",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mrmaciej1/justfill",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.smklog/parcel-quotes",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 961,
+  "vanished_version_records": 0
+}
