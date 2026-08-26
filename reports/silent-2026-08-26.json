@@ -1,0 +1,91 @@
+{
+  "from": "2026-08-25",
+  "to": "2026-08-26",
+  "compared_version_records": 82542,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.Itr3k/axiom-x402-payment-relay",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sbanerjee1875/financegenius",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RuyaaCapital-admin/socializioz-chatgpt-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bibi-bambi/skanfirmy",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.devziqin/transcript",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.devziqin/transcript",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sbanerjee1875/financegenius",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.GabrielAllit1/salt19-agent-utility-grid",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.michal-lefler/secureflows-mcp-server",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpscores/cheapest-grocery-basket",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vitaliyino/scority",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RuyaaCapital-admin/socializioz-chatgpt-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.insidergraph/insidergraph",
+      "version": "0.21.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 989,
+  "vanished_version_records": 0
+}
