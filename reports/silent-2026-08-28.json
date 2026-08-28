@@ -1,0 +1,379 @@
+{
+  "from": "2026-08-27",
+  "to": "2026-08-28",
+  "compared_version_records": 84778,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.cookiefreeanalytics/mcp",
+      "version": "1.70.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.semwalajay83-sem/salesforce-metadata-mcp",
+      "version": "2.6.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "8.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "7.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ninefiveonefive/citation-check",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.andrzejdus/agent-broadcast-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ninefiveonefive/citation-check",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "nl.muralists/directory",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loosewired/continuity",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ninefiveonefive/autobus",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.semwalajay83-sem/salesforce-metadata-mcp",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ninefiveonefive/citation-check",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OV3RK177/kairos-signal",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.moelayyan90/xguard-control-plane",
+      "version": "5.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.nannykeeper.www/mcp-server",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.khalidsaidi/ragmap",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "7.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.semwalajay83-sem/salesforce-metadata-mcp",
+      "version": "2.6.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nannykeeper.www/mcp-server",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loosewired/continuity",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.gemina/filetag",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AlpayC/mcp-abfall",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "8.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.misterwigglesworth/easy-notion",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "pics.wick.compute/market",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.nannykeeper.www/mcp-server",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "8.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.misterwigglesworth/easy-notion",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.gemina/filetag",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "pics.wick.compute/market",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "8.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "pics.wick.compute/market",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.semwalajay83-sem/salesforce-metadata-mcp",
+      "version": "2.8.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OV3RK177/kairos-signal",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flightmussy/flightmussy",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.khalidsaidi/ragmap",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.considus/pagespeed-insights-mcp",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ninefiveonefive/citation-check",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.gemina/filetag",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OV3RK177/kairos-signal",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.texs.vhs/tapercraft",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.lockally/email",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nannykeeper.www/mcp-server",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.krasnoperov/usertold",
+      "version": "1.24.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.semwalajay83-sem/salesforce-metadata-mcp",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpsearchconsole/search-console",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nannykeeper.www/mcp-server",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.truecalc/truecalc-mcp",
+      "version": "7.1.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 916,
+  "vanished_version_records": 0
+}
