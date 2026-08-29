@@ -1,0 +1,25 @@
+{
+  "from": "2026-08-28",
+  "to": "2026-08-29",
+  "compared_version_records": 85694,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.tfitzgerwitness/witness",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.goqolabs/geometry-mcp",
+      "version": "0.66.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 448,
+  "vanished_version_records": 0
+}
