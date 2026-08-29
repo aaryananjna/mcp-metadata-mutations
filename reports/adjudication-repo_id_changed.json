@@ -1,0 +1,9 @@
+{
+  "transition": "repo_id_changed",
+  "total_cases": 47,
+  "adjudicated": 47,
+  "labels": {
+    "moved_to_new_repo": 30,
+    "deleted_and_recreated": 17
+  }
+}
