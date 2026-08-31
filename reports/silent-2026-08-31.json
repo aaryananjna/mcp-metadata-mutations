@@ -1,0 +1,541 @@
+{
+  "from": "2026-08-30",
+  "to": "2026-08-31",
+  "compared_version_records": 86995,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.29.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/dev-package-intel",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/macro-market-data",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/uspto-mcp-server",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/x402-market-intelligence",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlexanderKaan/uisandbox",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/eia-mcp-server",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.TizonaMCP/tizona",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.richmondteo-code/buywhere-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.llmaudit/llmaudit",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.permitreporter/georgia-permits",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.danubeai/danube",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/feed-reader",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/vehicle-fault-codes",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlexanderKaan/uisandbox",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.29.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.knowngood/knowngood",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/agent-reliability-scores",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/food-facts",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlexanderKaan/uisandbox",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.29.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.luniumpay/lunium",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.warpfreight/warp-agent-mcp",
+      "version": "0.5.75",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/agent-reliability-scores",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/x402-market-intelligence",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.buywhere/catalog-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/web-extract",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.TizonaMCP/tizona",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danubeai/danube",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.31.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/x402-market-intelligence",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/x402-market-intelligence",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/x402-market-intelligence",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/onchain-toolkit",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/public-data-api",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/food-facts",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.llmaudit/llmaudit",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/cheapest-grocery-basket",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/fred-mcp-server",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hmesutozsoy/oddsrail",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.ledgy/ledgy",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vaibhavmule/aft-page",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.28.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/public-data-api",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/macro-market-data",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/vehicle-fault-codes",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.28.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.knowngood/knowngood",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.kolmo.www/kolmo-mcp-server",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.memroam/memroam",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpscores/onchain-toolkit",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.kolmo.www/kolmo-mcp-server",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/public-data-api",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/braze-lifecycle-mcp",
+      "version": "0.28.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/dev-package-intel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/eia-mcp-server",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/eia-mcp-server",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.buywhere/catalog-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/fred-mcp-server",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/public-data-api",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/public-data-api",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/public-data-api",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/url-intel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/macro-market-data",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/agent-reliability-scores",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlexanderKaan/uisandbox",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.memroam/memroam",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcpscores/feed-reader",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/macro-market-data",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpscores/macro-market-data",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 942,
+  "vanished_version_records": 0
+}
