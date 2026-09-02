@@ -1,0 +1,175 @@
+{
+  "from": "2026-09-01",
+  "to": "2026-09-02",
+  "compared_version_records": 88715,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "estate.guthmann/market-intelligence",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "work.moja/ui",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "work.moja/portfolio",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.onepunchtechnology/tinify-ai",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.oddsrail/polymarket-kalshi-arbitrage",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.paul-salviani/a2a",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.equinoxaifinance-rgb/living-stack",
+      "version": "0.3.1-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "estate.guthmann/market-intelligence",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vassiliylakhonin/profile-mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.paul-salviani/a2a",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.oddsrail/polymarket-kalshi-arbitrage",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.onepunchtechnology/tinify-ai",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.equinoxaifinance-rgb/living-stack",
+      "version": "0.3.3-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ligafew/apcs-public-mcp-gateway",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.oddsrail/polymarket-kalshi-arbitrage",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "estate.guthmann/market-intelligence",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.autosophia/agent-video",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.onepunchtechnology/tinify-ai",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.equinoxaifinance-rgb/living-stack",
+      "version": "0.3.0-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "work.moja/portfolio",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.oddsrail/polymarket-kalshi-arbitrage",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vassiliylakhonin/profile-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.autosophia/agent-video",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.zeamprism/prism-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.equinoxaifinance-rgb/living-stack",
+      "version": "0.3.4-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.moelayyan90/xguard-control-plane",
+      "version": "5.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.onepunchtechnology/tinify-ai",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 920,
+  "vanished_version_records": 0
+}
