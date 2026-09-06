@@ -1,0 +1,163 @@
+{
+  "from": "2026-09-05",
+  "to": "2026-09-06",
+  "compared_version_records": 93220,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "club.worldorder/protocol-gym",
+      "version": "1.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.worldorder/protocol-gym",
+      "version": "1.23.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.worldorder/protocol-gym",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.nexlab/microcopy-ux-fixer",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.nexlab/support-macro-builder",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.worldorder/protocol-gym",
+      "version": "1.22.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.notdown-app.handoff/publish",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bender1011001/agent-research-network",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "xyz.utilityhouse/federal-grant-evidence",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.notdown-app.handoff/publish",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.notdown-app.handoff/publish",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.worldorder/protocol-gym",
+      "version": "1.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zhiyong/knowledge-graph",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.nimcoffee/nimcoffee",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.workcontextprotocol/wcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.nexlab/launch-copy-critic",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.rjhsignaltech.ai/dkim-selector-check",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.nexlab/release-notes-packager",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nimcoffee/nimcoffee",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "br.app.classificado/meta-agent-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.rjhsignaltech.ai/spf-dmarc",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jUXTAPOSITION1/vape",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.smartmemory/stratum-mcp",
+      "version": "0.2.42",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.nexlab/oss-monetizer-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "xyz.utilityhouse/federal-grant-evidence",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1601,
+  "vanished_version_records": 0
+}
