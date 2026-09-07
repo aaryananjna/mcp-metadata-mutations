@@ -1,0 +1,91 @@
+{
+  "from": "2026-09-06",
+  "to": "2026-09-07",
+  "compared_version_records": 94821,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "es.cesaryague/paki-curator",
+      "version": "4.31.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cjkehoe/thedoseguy",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uiNerd16/aicanvas",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cjkehoe/thedoseguy",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Slotenmaker247/rechtssysteem-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.admit-coach/university-data",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.knowall-ai/reverie",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ontoramp/transformation-radar",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ontoramp/transformation-radar",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.uiNerd16/aicanvas",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.unnamedaiagent/pitchpilot-agent-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Efistoffeles/boostedtravel",
+      "version": "0.2.17",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1522,
+  "vanished_version_records": 0
+}
