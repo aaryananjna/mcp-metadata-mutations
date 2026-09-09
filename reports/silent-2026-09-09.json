@@ -1,0 +1,235 @@
+{
+  "from": "2026-09-08",
+  "to": "2026-09-09",
+  "compared_version_records": 97247,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.agishub/crypto-prices",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/datacenter-power-grid-fiber",
+      "version": "2.12.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.torquantis/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agishub/web-scraper",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.inite/ideaudit-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CaFra-House/office-worker-mcp",
+      "version": "0.9.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.inite/inite-club",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pavle-Scalably/shopify-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.torquantis/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.inite/inite-club",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/webhook-relay",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.orbit-search/orbit",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/web-scraper",
+      "version": "2.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/agent-memory",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.roam2go/esim-catalog",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.hsingh.snaplab/snaplab",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.okmr2217/clipnote",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "solutions.inite/inite-diagnostic",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hirosichen/stytrix-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.inite/inite-club",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/timezone-toolkit",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.pestpin/pestpin",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.vixdeo/vixdeo",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.torquantis/mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agishub/ai-toolkit",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.torquantis/mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.chrisssun18-bot/oceanalt-aml",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CaFra-House/office-worker-mcp",
+      "version": "0.9.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "club.inite/inite-club",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CaFra-House/office-worker-mcp",
+      "version": "0.9.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agishub/agent-memory",
+      "version": "2.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/datacenter-power-grid-fiber",
+      "version": "2.12.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicolanegro02nn-sketch/trustrail",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.inite/ideaudit-tools",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.astarsupply-hub/gpsr-compliance-valuation",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/datacenter-power-grid-fiber",
+      "version": "2.12.9",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1732,
+  "vanished_version_records": 0
+}
