@@ -1,0 +1,97 @@
+{
+  "from": "2026-09-09",
+  "to": "2026-09-11",
+  "compared_version_records": 98979,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.ironwallet/mcp-server",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.entradox/agent-ledger",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.9.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinasrolando-cpu/seenpaid",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.ironwallet/mcp-server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zengineco/gonzalgo",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.ironwallet/mcp-server",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "computer.lathe/lathe",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.munimtechnologies/computer-use",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.glqff/huaweicloud-devkit-demo",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.granetb-asfo/asfo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "site.chatgpt.tuned-drake-1114.execution-evidence-lab/execution-evidence",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 2835,
+  "vanished_version_records": 0
+}
