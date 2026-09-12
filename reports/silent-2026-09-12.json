@@ -1,0 +1,37 @@
+{
+  "from": "2026-09-11",
+  "to": "2026-09-12",
+  "compared_version_records": 101814,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.TheNexusIntel/nexus-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.jobero/job-search",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1165,
+  "vanished_version_records": 0
+}
