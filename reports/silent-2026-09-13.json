@@ -1,0 +1,187 @@
+{
+  "from": "2026-09-12",
+  "to": "2026-09-13",
+  "compared_version_records": 102979,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.moltlinestudio/moltline",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kindora-PBC/foundation-discovery",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ajwann/cats-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.notdown-app.handoff/publish-shareable-result-page",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.TinusJ/swing-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kelli930/chronoguard",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.notdown-app.handoff/publish-shareable-result-page",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.83blue.upload/transfer",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.notdown-app.handoff/publish-shareable-result-page",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agentiscript/catalog-provenance",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.83blue.upload/transfer",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.TinusJ/swing-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ajwann/cats-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.moltlinestudio/moltline",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.TinusJ/swing-mcp",
+      "version": "V1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.83blue.upload/transfer",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BackBond/agent-scan",
+      "version": "0.5.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.moltlinestudio/moltline",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.83blue.upload/transfer",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 951,
+  "vanished_version_records": 0
+}
