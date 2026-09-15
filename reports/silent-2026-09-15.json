@@ -1,0 +1,157 @@
+{
+  "from": "2026-09-14",
+  "to": "2026-09-15",
+  "compared_version_records": 104935,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "fm.lightning/lightning-fm-mcp",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "3.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andrewmccalip/agentboard",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "3.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dkaleganov/mercury-multiorg-mcp",
+      "version": "0.1.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.keysersoft/anythingmcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.torquantis/exchange",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "4.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danielfrommunich/fmcg-network",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.torquantis/exchange",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "fm.lightning/lightning-fm-mcp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cc.openfilm/film-photography",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fm.lightning/lightning-fm-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zerolve-io/acornonaut",
+      "version": "2.5.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "space.0/space0",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zerolve-io/acornonaut",
+      "version": "2.5.4",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1136,
+  "vanished_version_records": 0
+}
