@@ -1,0 +1,127 @@
+{
+  "from": "2026-09-15",
+  "to": "2026-09-16",
+  "compared_version_records": 106071,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.gaurav-kumar-sinha-060705/compass-mcp-gateway",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.julianbei/jade",
+      "version": "0.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.ahel/ahel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SynapseLayer/synapse-secure-memory",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tizonaintelligence/tizona",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.chrisssun18-bot/oceanalt-aml",
+      "version": "0.2.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.filmrightsproof/filmrightsproof",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.crossingkeyintelligence/revenue-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dappros/ethora-mcp-cli",
+      "version": "26.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyphonica/powerbi-pbix-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.tizonaintelligence/tizona",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.10.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dappros/ethora-mcp-cli",
+      "version": "26.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SynapseLayer/synapse-layer",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ch.antevo/crypto",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.SynapseLayer/synapse-layer",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tizonaintelligence/tizona",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.julianbei/jade",
+      "version": "0.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tizonaintelligence/tizona",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 922,
+  "vanished_version_records": 0
+}
