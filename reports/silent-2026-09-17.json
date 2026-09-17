@@ -1,0 +1,109 @@
+{
+  "from": "2026-09-16",
+  "to": "2026-09-17",
+  "compared_version_records": 106993,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "dev.toolstop/export-control",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/export-control",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/export-control",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.kognite/memory",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.23.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.toolstop/export-control",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/export-control",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.trooth-eng/trooth-network",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "it.chiriba/cashflow13",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/check-digits",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/check-digits",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Mishakivskiy/hirenimbus-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/prop65",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/check-digits",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.toolstop/check-digits",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hristovdimitri2-hub/kristo-intelligence",
+      "version": "5.0.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 1165,
+  "vanished_version_records": 0
+}
