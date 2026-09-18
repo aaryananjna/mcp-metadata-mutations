@@ -1,0 +1,151 @@
+{
+  "from": "2026-09-17",
+  "to": "2026-09-18",
+  "compared_version_records": 108158,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.911fund.x402/x402-alpha",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.20.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.prdictionedge.aux/transaction-preflight",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.prdictionedge.aux/transaction-preflight",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.aimodelradar/ai-model-radar",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.fugentic/siert-kt8f7x",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.monarkgate/monark",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.19.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.24.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.23.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.21.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.23.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.fugentic/service-provider-index",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.fugentic/mattest4-qyroac",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mwbidwell/bionicforms-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.aimodelradar/ai-model-radar",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.911fund.skills/directory",
+      "version": "3.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.18.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.xka0085-byte/agenttoll-receipts",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amitok2/kika",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.flashcards-open-source-app/flashcards",
+      "version": "1.22.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1011,
+  "vanished_version_records": 0
+}
