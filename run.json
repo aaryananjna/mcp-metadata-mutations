@@ -1,10 +1,10 @@
 {
-  "snapshot": "2026-09-19",
-  "pages": 1102,
-  "version_records": 110111,
-  "distinct_servers": 34216,
-  "new_blobs": 942,
-  "states_opened": 1316,
-  "states_closed": 374,
+  "snapshot": "2026-09-20",
+  "pages": 1112,
+  "version_records": 111150,
+  "distinct_servers": 34432,
+  "new_blobs": 1039,
+  "states_opened": 1511,
+  "states_closed": 472,
   "duplicate_keys": 0
 }

@@ -1,0 +1,205 @@
+{
+  "from": "2026-09-19",
+  "to": "2026-09-20",
+  "compared_version_records": 110111,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "lol.typosafe/jef",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.moelayyan90/xguard-control-plane",
+      "version": "5.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.skipodds/skipodds",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "lol.typosafe/jef",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/crypto-prices",
+      "version": "2.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "lol.typosafe/jef",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.skipodds/skipodds",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.skipodds/skipodds",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agishub/ai-toolkit",
+      "version": "2.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/kynth-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/timezone-toolkit",
+      "version": "2.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.lanchuske/local-mcp",
+      "version": "1.84.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agishub/agent-memory",
+      "version": "2.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.lanchuske/local-mcp",
+      "version": "3.0.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "lol.typosafe/jef",
+      "version": "0.4.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agishub/webhook-relay",
+      "version": "2.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.agishub/agent-memory",
+      "version": "2.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lanchuske/local-mcp",
+      "version": "1.142.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lanchuske/local-mcp",
+      "version": "1.65.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/kynth-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "lol.typosafe/jef",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/kynth-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.28.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.skipodds/skipodds",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/kynth-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1039,
+  "vanished_version_records": 0
+}
