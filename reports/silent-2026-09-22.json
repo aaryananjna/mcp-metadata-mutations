@@ -1,0 +1,205 @@
+{
+  "from": "2026-09-21",
+  "to": "2026-09-22",
+  "compared_version_records": 112337,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.31.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.40.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.42.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.38.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.39.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.41.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.37.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.33.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.42.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.popdot/popdot-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.b77/fibalo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cap-js/mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.thevicinityapp.www/vicinity-agent-api",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "fr.plumail/plumail",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nishitasetia/akta.pro-MCP",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.43.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shabaaspay/shabaaspay-payto",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.filmrightsproof/filmrightsproof",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ethersflow/EthersFlow",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.41.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.34.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "id.my.aigratis/aigratis",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.34.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "fr.plumail/plumail",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.33.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.43.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.35.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.titleman/commercial-real-estate",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.36.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.rowu.oganvil/og-image-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.32.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.justinwilliames/orbit-lifecycle-mcp",
+      "version": "0.39.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1835,
+  "vanished_version_records": 0
+}
