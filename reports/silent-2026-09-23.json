@@ -1,0 +1,679 @@
+{
+  "from": "2026-09-22",
+  "to": "2026-09-23",
+  "compared_version_records": 114172,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.78",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Nicha404/orchard",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.filedproof/filedproof",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bimwright/rvt-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.74",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.49",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.51",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.commitshow/legitshow-search",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/eu-sanctions-preflight",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.whateverneveranywhere/aiapplyd",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.69",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/einvoice-readiness",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.62",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/eu-sanctions-preflight",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/eu-energy-label-preflight",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/be-commerce-preflight",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.63",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.56",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.67",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.emercoin/emercoin-agent",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.47",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.46",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bimwright/rvt-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ch.the-orbit/orbit",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/eu-import-preflight",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.whateverneveranywhere/aiapplyd",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.77",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bimwright/rvt-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.79",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.35.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.65",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.66",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.52",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.76",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.48",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.heylegwork/legwork",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.55",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.58",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/eu-energy-label-preflight",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.72",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.iwantmyname/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.iwantmyname/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whateverneveranywhere/aiapplyd",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/be-commerce-preflight",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/eu-energy-label-preflight",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.60",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.68",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.emercoin/emercoin-agent",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/eu-import-preflight",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.75",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.44",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bdimic-bluecat/livenxmcp",
+      "version": "0.30.1-test1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Nicha404/orchard",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ch.the-orbit/orbit",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/eu-import-preflight",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.54",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.43",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.switchwize/switchwize-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.jithox/einvoice-readiness",
+      "version": "1.0.0-canary",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/eu-import-preflight",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.73",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.whateverneveranywhere/aiapplyd",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fr.plumail/plumail",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Hlobo-dev/tengu-firm",
+      "version": "2.114",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.50",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.64",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fr.plumail/plumail",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.53",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/be-commerce-preflight",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.45",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.70",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.57",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.71",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.slidingbox/hydrate-dehydrate",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.whateverneveranywhere/aiapplyd",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whateverneveranywhere/aiapplyd",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.42",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.59",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.jithox/einvoice-readiness",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.antonbaider/remcp",
+      "version": "0.2.61",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1136,
+  "vanished_version_records": 0
+}
