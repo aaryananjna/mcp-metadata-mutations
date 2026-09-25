@@ -1,0 +1,313 @@
+{
+  "from": "2026-09-24",
+  "to": "2026-09-25",
+  "compared_version_records": 116895,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.SylphxAI/citra",
+      "version": "5.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/citra",
+      "version": "5.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.102.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.notslop/notslop",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arcaeon/adapter",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/datacenter-power-grid-fiber",
+      "version": "2.12.8",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.SylphxAI/citra",
+      "version": "5.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.oxyvore-cyber/firmware-test-farm-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.SylphxAI/locus",
+      "version": "0.6.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/locus",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/spine",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.103.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.arcaeon/ledger",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.105.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/locus",
+      "version": "0.6.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.notdown-app.cairn/daily-build-streak-tracker",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/datacenter-power-grid-fiber",
+      "version": "2.12.9",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.SylphxAI/locus",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.notslop/notslop",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.railway.up.engine-production-3bdc/vhgengine",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/locus",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/citra",
+      "version": "5.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.arcaeon/ledger",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/spine",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.104.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.106.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/spine",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/spine",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.107.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/spine",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.railway.up.engine-production-3bdc/vhgengine",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.goaimoat/content-studio",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/spine",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/datacenter-power-grid-fiber",
+      "version": "2.12.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.101.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.24.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.railway.up.engine-production-3bdc/vhgengine",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.108.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SylphxAI/citra",
+      "version": "6.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemoverse/mcp-memory-server",
+      "version": "0.10.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.railway.up.engine-production-3bdc/vhgengine",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.arcaeon/ledger",
+      "version": "0.5.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.arcaeon/adapter",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 2917,
+  "vanished_version_records": 0
+}
