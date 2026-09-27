@@ -1,0 +1,211 @@
+{
+  "from": "2026-09-26",
+  "to": "2026-09-27",
+  "compared_version_records": 121735,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.ChristopherZYX/vultax-research",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "3.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.focxle/agent-payments-virtual-cards",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.asksakina/islamic-knowledge",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChristopherZYX/vultax-research",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "4.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "4.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "3.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "3.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ca.honkio/mcp",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.asksakina/islamic-knowledge",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-stream",
+      "version": "1.0.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.39.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.asksakina/islamic-knowledge",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AAAZZZR/stockfacts",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.domondi1/inferrail",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "3.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ltd.qianyuan/qy-evolution",
+      "version": "4.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AAAZZZR/stockfacts",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.focxle/agent-payments-virtual-cards",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/filesystem-context",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ca.honkio/mcp",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.loppee/loppee",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.5.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 2300,
+  "vanished_version_records": 0
+}
