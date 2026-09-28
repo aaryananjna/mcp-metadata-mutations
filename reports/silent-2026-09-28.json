@@ -1,0 +1,1765 @@
+{
+  "from": "2026-09-26",
+  "to": "2026-09-28",
+  "compared_version_records": 53462,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.SELISEdigitalplatforms/l0-py-blocks-mcp",
+      "version": "1.0.0-beta.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.233",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.384",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.226",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.257",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.237",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.270",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.62",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.311",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.254",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.328",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.337",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.367",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.354",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.409",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.206",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.292",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.52",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ca.honkio/mcp",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SELISEdigitalplatforms/l0-py-blocks-mcp",
+      "version": "0.1.0-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ca.honkio/mcp",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AAAZZZR/stockfacts",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.303",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.333",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.323",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.351",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.238",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.41",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.66",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.297",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.suparanku/suparanku",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.suparanku/suparanku",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.283",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.362",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.255",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.375",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.246",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.349",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.VirusTotal/virustotal-mcp",
+      "version": "0.8.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.319",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.413",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.335",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.279",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.348",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.267",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.61",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.278",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.321",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.268",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.360",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ugcpocket/ugc-pocket",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.295",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.focxle/agent-payments-virtual-cards",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.VirusTotal/virustotal-mcp",
+      "version": "0.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.331",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.51",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.218",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.234",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.244",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.275",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.loppee/loppee",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.366",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.277",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.46",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.293",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.249",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.369",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.305",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.228",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.313",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.302",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.223",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.325",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.VirusTotal/virustotal-mcp",
+      "version": "0.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.248",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AAAZZZR/stockfacts",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.239",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.339",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.336",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.R2Rlabs/reins",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.345",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.55",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.280",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.276",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.asksakina/islamic-knowledge",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.355",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.261",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.353",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.271",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.217",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.56",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.33",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.329",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.374",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.59",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.288",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.219",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.356",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.236",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SELISEdigitalplatforms/l0-py-blocks-mcp",
+      "version": "1.0.0-beta.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.377",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.285",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.31",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SELISEdigitalplatforms/l0-py-blocks-mcp",
+      "version": "0.1.0-beta.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.314",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.231",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.282",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.316",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.suparanku/suparanku",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.anglero/speaker",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.327",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.42",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.focxle/agent-payments-virtual-cards",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.281",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.253",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.64",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.358",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.250",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.296",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.40",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.294",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.asksakina/islamic-knowledge",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.225",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.247",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.359",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.383",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.340",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.317",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.265",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.379",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.308",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.378",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.272",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.262",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.350",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.256",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.386",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.343",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.371",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.363",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.322",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.306",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.380",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.385",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.381",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.35",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChristopherZYX/vultax-research",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.264",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.364",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.269",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.34",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.224",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cogram/project",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.326",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.315",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.300",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.370",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.301",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.263",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.273",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.346",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.221",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.25",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.54",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.222",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.252",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.266",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.318",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.382",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.299",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.373",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.235",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.VirusTotal/virustotal-mcp",
+      "version": "0.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.220",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.258",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.310",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.274",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.230",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.284",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.341",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.57",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.R2Rlabs/reins",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.347",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.240",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.304",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.338",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.260",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.286",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.368",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.330",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.216",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.376",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.58",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "de.smartwebchat/chatbots",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.361",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.47",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.309",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.357",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.65",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.320",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.332",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.232",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.334",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "2.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.48",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.243",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.344",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.245",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.251",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.312",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.53",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.43",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.asksakina/islamic-knowledge",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.298",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.227",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.290",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.291",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.60",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.287",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.VirusTotal/virustotal-mcp",
+      "version": "0.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.242",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.324",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.45",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.259",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.44",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChristopherZYX/vultax-research",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.352",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.241",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.63",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.VirusTotal/virustotal-mcp",
+      "version": "0.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.307",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.342",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.random-profiles/mcp",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.229",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.365",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.local-mcp/local-mcp",
+      "version": "3.0.289",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ugcpocket/ugc-pocket",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1438,
+  "vanished_version_records": 68273
+}
