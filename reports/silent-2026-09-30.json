@@ -1,0 +1,1261 @@
+{
+  "from": "2026-09-29",
+  "to": "2026-09-30",
+  "compared_version_records": 126826,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-content-watermark-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-content-watermark-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-cost-allocator-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.66",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-agents-md-lint-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-stripe-acp-checkout-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-replay-debugger-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-aigc-icon-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-relay-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-orchestrator-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-orchestrator-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-26-fria-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.44",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-data-residency-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.1.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-aia-art-9-rms-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-cost-allocator-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SpaceFrontiers/mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-content-watermark-mcp",
+      "version": "1.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/mcp-spec-compliance-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.35",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-replay-debugger-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-mcp-test-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-abci-bridge-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-aaif-agent-card-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-content-watermark-mcp",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-aaif-agent-card-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eudi-wallet-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SpaceFrontiers/mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-x402-paywall-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.byteplant-dev/byteplant-mcp",
+      "version": "1.0.0.post2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.councilof/gspc",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-orchestrator-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-negotiation-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/iso-42005-impact-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-delegation-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-token-budget-mcp",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-delegation-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-relay-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-negotiation-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-protocol-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.1.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.56",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-delegation-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-mcp-router-mcp",
+      "version": "1.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.byteplant-dev/byteplant-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-26-fria-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.saloprj/dialogbrain",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-cost-allocator-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-delegation-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-26-fria-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.1.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.1.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+      "version": "1.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-orchestrator-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.WattCoin-Org/wattcoin-mcp-server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-replay-debugger-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-data-residency-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-negotiation-mcp",
+      "version": "1.0.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/iso-42005-impact-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-mcp-hardening-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SpaceFrontiers/mcp",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-mcp-router-mcp",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-mcp-cardgen-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-13-ifu-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-x402-paywall-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-aigc-icon-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.lowlevel/normativa-drones-espana",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-protocol-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/korea-ai-basic-act-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-26-fria-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/korea-ai-basic-act-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.saloprj/dialogbrain",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-relay-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-token-budget-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/mcp-spec-compliance-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.WattCoin-Org/wattcoin-mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-cra-art14-reporter-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-abci-bridge-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.40",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-token-budget-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-mcp-test-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-cost-allocator-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/councilof_mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-handoff-certified-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-negotiation-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-delegation-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-x402-paywall-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-content-watermark-mcp",
+      "version": "1.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-protocol-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.41",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mosadd/mosadd-mcp",
+      "version": "3.0.0-alpha.45",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-orchestrator-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-replay-debugger-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eudi-wallet-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-x402-paywall-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eudi-wallet-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-token-budget-mcp",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-relay-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-w3c-tdm-rights-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/iso-42005-impact-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-mcp-router-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-x402-paywall-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-content-watermark-mcp",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-ap2-mandate-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-protocol-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-13-ifu-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gregordadera/aicb",
+      "version": "0.5.464.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-mcp-router-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-relay-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-data-residency-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SpaceFrontiers/mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.byteplant-dev/byteplant-mcp",
+      "version": "1.0.0.post1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.mkna/mkna",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reqosupply/quote",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-mcp-test-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-mcp-router-mcp",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-negotiation-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-delegation-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-13-ifu-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.oassis/web",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-rate-limiter-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-policy-enforcement-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-w3c-tdm-rights-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-audit-logger-mcp",
+      "version": "1.1.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-protocol-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-prompt-injection-firewall-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+      "version": "1.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-data-residency-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-data-residency-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bft-progress-council-mcp",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-negotiation-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-identity-trust-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-cra-art14-reporter-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.43.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-stripe-acp-checkout-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-cost-allocator-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-replay-debugger-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nyuchi/mzizi-mcp",
+      "version": "0.5.0-beta.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-data-residency-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-commerce-payments-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-x402-paywall-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/a2a-governance-bridge-mcp",
+      "version": "1.1.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/meok-eu-ai-act-art-13-ifu-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-token-budget-mcp",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1363,
+  "vanished_version_records": 0
+}
