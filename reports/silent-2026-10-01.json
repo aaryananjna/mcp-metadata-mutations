@@ -1,0 +1,445 @@
+{
+  "from": "2026-09-30",
+  "to": "2026-10-01",
+  "compared_version_records": 128189,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.zombico/mojulo",
+      "version": "2.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.saltapp/salt",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.saltapp/salt",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.invowerk/invowerk",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.elkinegor/linkbit-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.golproductions/exnos",
+      "version": "0.5.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sebastienrousseau/scout-mcp",
+      "version": "0.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "3.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.siglata/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.golproductions/exnos",
+      "version": "0.5.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.saltapp/salt",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/olark",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zombico/mojulo",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sebastienrousseau/scout-mcp",
+      "version": "0.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sebastienrousseau/scout-mcp",
+      "version": "0.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KJdayo/janction-render",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sebastienrousseau/scout-mcp",
+      "version": "0.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.siglata/mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.startreedata/mcp-pinot",
+      "version": "5.0.0-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zombico/mojulo",
+      "version": "2.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.speeedy10/foxify-x402-agent-commerce-payment-preflight",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.9.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.43.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.saltapp/salt",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.siglata/mcp",
+      "version": "1.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.speeedy10/foxify-x402-agent-commerce-payment-preflight",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.flatmark/flatmark",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.hanria/check",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.saltapp/salt",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.hanria/check",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.mekler/agent-discovery",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.9.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.partymola/fitbit-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zombico/mojulo",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.golproductions/exnos",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.116.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/olark",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BASHBOP/otito",
+      "version": "1.10.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1465,
+  "vanished_version_records": 0
+}
