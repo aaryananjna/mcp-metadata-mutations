@@ -1,0 +1,181 @@
+{
+  "from": "2026-10-01",
+  "to": "2026-10-02",
+  "compared_version_records": 129654,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.jshorwitz/synter-ads",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.117.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.lbesecker195/mcp-registry-search-find-mcp-servers-discover-install-mcp-tools-directory-catalog-marketplace",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.haraldrohan/e-geier",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jshorwitz/synter-ads",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jshorwitz/synter-ads",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OxygenBubbles/freeagent-mcp-server",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jshorwitz/synter-ads",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.daedalmap/currency",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ralphieusa/idevice-wearables",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "host.chorus/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.daedalmap/population",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jshorwitz/synter-ads",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ch.vetari/vetari",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "xyz.groundtruths/groundtruth",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.daedalmap/currency",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.themineworks/the-mine-works",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OxygenBubbles/freeagent-mcp-server",
+      "version": "3.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.daedalmap/distributed-manufacturing",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lbesecker195/mcp-registry-search-find-mcp-servers-discover-install-mcp-tools-directory-catalog-marketplace",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.44.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.themineworks/the-mine-works",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OxygenBubbles/freeagent-mcp-server",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OxygenBubbles/freeagent-mcp-server",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ralphieusa/idevice-wearables",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ca.honkio/mcp",
+      "version": "1.11.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1339,
+  "vanished_version_records": 0
+}
