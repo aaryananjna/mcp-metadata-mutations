@@ -1,0 +1,4087 @@
+{
+  "from": "2026-10-04",
+  "to": "2026-10-09",
+  "compared_version_records": 134379,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/command-summary-option-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/artifact-export-route-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.stackcut/stackcut",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.89",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.28.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/artifact-export-route-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/delivery-requirement-advisor",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.5.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.71",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.55",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/task-priority-guidance-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.10.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.loopxxi/loop-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Gio300/kloudy",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.81",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/content-handling-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.16.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-export-writer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/support-intake-digest",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/operations-digest-composer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/translation-job-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.51",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aethon-credit/aci-risk-indicators",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.87",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.25",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/supplier-terms-reader",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stufently/zabbix-ai-cli",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/stakeholder-metric-digest",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brenton-keller/telegram-channel-scraper",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.14.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.72",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rationalbloks/rationalbloks-mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.graneth/mcp-server",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.globalgov/mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/field-route-sequencer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/artifact-delivery-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/referral-packet-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.elevenflo/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/profile-retention-key-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.27.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ilyautov/hh-mcp-ru",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.20.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-note-path-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.91",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.loopxxi/loop-mcp",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.26.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.loopxxi/loop-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.phoslabs/behavioral-science",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tax.zip/ziptax",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.26.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.48.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/profile-retention-key-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-branch-policy-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/job-queue-register",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/account-merge-workbench",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.12.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/supplier-name-resolution-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nikhilkulkarni1755/iridium",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/routing-contact-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.iVamsi/droidagentkit",
+      "version": "0.2.1-alpha",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/regional-rollout-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/knowledge-note-segmenter",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/subscription-receipt-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.globalgov/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.20.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ilyautov/hh-mcp-ru",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/budget-planning-units-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.loopxxi/loop-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-change-analyzer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/campaign-budget-forecaster",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.12.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.ambernotes/amber-notes",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.freerateupdate.www/mortgage",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/report-style-guidance-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/routing-contact-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.97",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-activity-reference-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/referral-handoff-reader",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ilyautov/hh-mcp-ru",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.orbismo/orbismo",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mglbagi/agent-output-verifier",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "xyz.peerlytics/peerlytics",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/service-assignment-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/candidate-skills-mapper",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.16.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.18.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.instapath/instapath",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brenton-keller/product-hunt-data",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/dispatch-manifest-builder",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.linkmcp/linkmcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.byimprint/intelligence",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/delivery-document-composer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.22.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.56",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-activity-reference-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.graneth/mcp-server",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.freerateupdate.www/mortgage",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.secondopinionx402/second-opinion",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.13.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mrgulshanyadav/misarblog-mcp",
+      "version": "1.0.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.21.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.94",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-note-path-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/content-review-mode-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.62",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/milestone-schedule-register",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mrgulshanyadav/misarblog-mcp",
+      "version": "1.0.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-report-label-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.7.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.25",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.18.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.iVamsi/droidagentkit",
+      "version": "0.2.6-alpha",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.18.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kor-jongwon/witan",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/access-review-checklist",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/budget-planning-units-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.17.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zhouchungong/realurls",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/delivery-recovery-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/record-export-field-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.92",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.25.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/stock-replenishment-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/inventory-planning-ledger",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/task-priority-guidance-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/source-agreement-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/content-review-mode-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/profile-setting-directory",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.79",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-report-label-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.90",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/export-confirmation-style-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/export-confirmation-style-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stufently/zabbix-ai-cli",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.brenton-keller/google-ads-transparency-center",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.53",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/support-followup-marker-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gennons/gennons",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/delivery-update-ledger",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zhouchungong/realurls",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wheelerhubbell/whp-standing",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.17.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.21",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/approval-group-directory",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ilyautov/hh-mcp-ru",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.63",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/project-code-notes-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.10.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/notification-cadence-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/document-release-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.66",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kevegonz-dev/momus-marketplace",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.77",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Gio300/kloudy",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.126.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.negm17111995/maqami-travel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.globalgov/mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/reporting-export-assembler",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.13.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/client-brief-composer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/incident-assignment-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DSHCorrectover/ccs-mcp-server",
+      "version": "1.2.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.28.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/customer-record-field-prep",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/support-followup-marker-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kor-jongwon/witan",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.48",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/report-style-guidance-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.24.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.negm17111995/maqami-travel",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.10.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/metric-trend-calculator",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/project-code-notes-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/artifact-export-route-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.75",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.30.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-branch-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.21.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.23",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/knowledge-index-curator",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/profile-governance-register",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/capacity-ledger-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.infotik/orano-mcp-server",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.28.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.13.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/deadline-locale-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/account-group-report-builder",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/task-priority-guidance-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.22",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zhouchungong/realurls",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.10.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/agreement-obligation-reader",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ChanghuLiu/projectpermit",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.49",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.seekdaseek/agentfeed",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-access-comparator",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.gtmtools/gtm-tools",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.verysimplenotes/mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/document-release-selector",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/localization-setting-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Gio300/kloudy",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.24.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.19.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/account-report-recipe-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.76",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.EmperorMew/voidly-mcp-server",
+      "version": "2.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/event-callback-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.20.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.19.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/ccboot-mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.iVamsi/droidagentkit",
+      "version": "0.2.5-alpha",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.17.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/profile-retention-key-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.iVamsi/droidagentkit",
+      "version": "0.2.3-alpha",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/delivery-receipt-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/record-export-field-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.20.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.0spoon/seamless",
+      "version": "0.4.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.27.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.23.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/supplier-reconciliation-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.13.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.78",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/knowledge-placement-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.26.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.26.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/lot-allocation-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.64",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/source-resolution-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/routing-contact-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ilyautov/hh-mcp-ru",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.18.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ilyautov/hh-mcp-ru",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.iVamsi/droidagentkit",
+      "version": "0.2.4-alpha",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/service-class-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ChanghuLiu/projectpermit",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.16.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.80",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.14.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "lt.konfiguratorius/pc-builder",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.20.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zhouchungong/realurls",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/delivery-acknowledgement-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.valmera/video-editor",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/invoice-rounding-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.16.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.secondopinionx402/second-opinion",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.26.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.blackdogranch/what-matters",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.aiskills402/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brenton-keller/google-ads-transparency-center",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.secondopinionx402/second-opinion",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/artifact-export-route-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.19.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.typestate/typestate",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.95",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/fulfillment-reservation-ledger",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.28.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.23.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ChanMeng666/vitex",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.25.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.70",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.28.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/calendar-handoff-reader",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brenton-keller/prediction-markets-data",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/artifact-delivery-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.58",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.59",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/coordination-calendar-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.83",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.10.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.graneth/mcp-server",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.30.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DSHCorrectover/ccs-mcp-server",
+      "version": "1.2.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.60",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gennons/gennons",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.28.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.61",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.18.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.11.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/content-review-mode-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hiroshi-Ichiyanagi/kagami",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-configuration-brief",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.14.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.18",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/invoice-summary-calculator",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/account-merge-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/renewal-schedule-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.18.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.82",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.17.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/stakeholder-report-publisher",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.9.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aethon-credit/aci-risk-indicators",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/scenario-planning-ledger",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.gtmtools/gtm-tools",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/request-review-register",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brenton-keller/google-ads-transparency-center",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.13.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sentien-labs/verdictswarm-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.18.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-notes-journal",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.12.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/task-priority-guidance-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-note-path-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.28.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.84",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kairossignal/kairos-signal",
+      "version": "3.6.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/content-review-mode-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/translation-job-setting-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.27.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.29.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-report-label-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/profile-retention-key-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.16.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/content-review-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/support-followup-marker-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.negm17111995/maqami-travel",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.96",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.oods-foundry/foundry",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.69",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/executive-report-style-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.stackcut/stackcut",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.47",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/budget-planning-units-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.93",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.25.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.20.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.quayutec/quayutec",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.26.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.24",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/report-style-guidance-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.25.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/routing-contact-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.tcador/787daily",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.74",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.verysimpleprojects/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.JE4NVRG/mepmail",
+      "version": "0.6.69",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.globalgov/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.68",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/processing-capacity-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-activity-reference-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.26",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.20",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.65",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.21.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/client-brief-routing-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.24.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/report-style-guidance-workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.18.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/project-code-notes-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.globalgov/mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.PayRam/payram-helper-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.mynextadventure/trip-planner",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.11.0-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.25.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.orbismo/orbismo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.67",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.20.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-activity-reference-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/service-capacity-window-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/project-intake-identifier",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.iridiumhqmcp/iridium",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.PayRam/payram-helper-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.27.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.19.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/workspace-note-path-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "es.cesaryague/paki-curator",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "id.marrow/marrow",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/release-report-label-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/support-followup-marker-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/invoice-matching-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.0xpi.scholar/study-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/budget-planning-units-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.88",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.18.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.27.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/record-export-field-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/interview-agenda-builder",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brenton-keller/pdf-text-table-ocr-extractor",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.xnjiang/37soul-mcp",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.valmera/video-editor",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.20.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.loopxxi/loop-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.devjoaocastro/vulk-mcp-server",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/translation-job-setting-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/record-export-field-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.11.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/export-confirmation-style-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/operations-schedule-builder",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.17.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/export-confirmation-style-identifier",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/support-case-workbench",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "es.cesaryague/paki-curator",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/reconciliation-threshold-planner",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/finance-review-mailer",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.52",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mrgulshanyadav/misarblog-mcp",
+      "version": "1.0.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/status-report-formatter",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/project-code-notes-workbench",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/audience-readiness-guide",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.16.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.15.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vdmeu/registrum-mcp",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.57",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.73",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wxt-ai/handoff-recovery-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getmarrow/marrow",
+      "version": "3.9.54",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.15.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Banjo-Ventures/lodestar-stamp",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.18.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.xnjiang/speakpen-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.negm17111995/maqami-travel",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.13.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "3.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seungmiyoon/korean-tax-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wheelerhubbell/whp-standing",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "2.17.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.negm17111995/maqami-travel",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.n24q02m/wet-mcp",
+      "version": "2.30.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kor-jongwon/witan",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ponder-surveys/dreamwork",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/purchase-draft-desk",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.29.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/deployment-brief-register",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/mnemo-mcp",
+      "version": "1.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Wxt-ai/command-summary-option-identifier",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.n24q02m/better-code-review-graph",
+      "version": "3.26.19",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 9231,
+  "vanished_version_records": 0
+}
