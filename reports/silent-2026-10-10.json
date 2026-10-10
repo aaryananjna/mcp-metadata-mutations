@@ -1,0 +1,247 @@
+{
+  "from": "2026-10-09",
+  "to": "2026-10-10",
+  "compared_version_records": 143610,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.andypgray/loadbearing",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.cleantechcontent/uk-energy-data",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andypgray/loadbearing",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.hotelplease/hotels",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "uk.co.cleantechcontent/uk-energy-data",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "pt.flatin/property-taxes",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.actionlayer/actionlayer",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jhsenjaliya/localcloud",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.andypgray/loadbearing",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.flowtestpro-svg/spotgpu-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fullstck/stream-estate",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.53.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andrewschristison/pondlog-garden",
+      "version": "0.3.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andypgray/loadbearing",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.EmperorMew/voidly-mcp-server",
+      "version": "2.9.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.andrewschristison/pondlog-garden",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Griffden/botphone",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "pt.flatin/property-taxes",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.entradox/agent-ledger",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.flowtestpro-svg/spotgpu-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.17.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "uk.co.cleantechcontent/uk-energy-data",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.clickwise/product-catalog",
+      "version": "1.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.andypgray/loadbearing",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.andypgray/loadbearing",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.actionlayer/actionlayer",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.entradox/agent-ledger",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.afsozer/emsal-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "uk.co.cleantechcontent/uk-energy-data",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "estate.stream/mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andrewschristison/pondlog-garden",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.tapeline/tapeline",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 1627,
+  "vanished_version_records": 0
+}
