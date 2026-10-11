@@ -1,0 +1,493 @@
+{
+  "from": "2026-10-10",
+  "to": "2026-10-11",
+  "compared_version_records": 145237,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/kensho-sweep-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.41.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.manyscripts/transcripts",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.10.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "so.blackforge/mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sequico/server-noonien",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ambermem/amber",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ihateposting/mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.35.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.manyscripts/transcripts",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.saferesize/saferesize",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vjuux/jobpad",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/mlit-property-prices-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "website.ansi/ansi",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.harborgovcon/port",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.webhook/webhook",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dgesteves/design-system-mcp",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vjuux/jobpad",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.7.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ihateposting/mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/kensho-kclub",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.32.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.36.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dgesteves/design-system-mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.34.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.42.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gadgethumans.api/api-hub",
+      "version": "2.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.33.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/kensho-kaku",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.beamline/beamline",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.patwalls/feedhook-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.8.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.38.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dgesteves/design-system-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.patwalls/feedhook-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.43.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "eu.financialreports/mcp-server",
+      "version": "1.4.105",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.patwalls/feedhook-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.gimarcus/signal",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dgesteves/design-system-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fi4all/algoum",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fr.juan-branco/branco",
+      "version": "0.42.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.patwalls/pulse-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dgesteves/design-system-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.40.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "trading.ludus/ludus",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/kensho-kema",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.loncadev/baron",
+      "version": "0.37.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Deviank88/knowledge-rail",
+      "version": "2.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gadgethumans.api/api-hub",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dgesteves/design-system-mcp",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ambermem/amber",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.patwalls/feedhook-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.delaney470/withnettle",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.linkmcp/linkmcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 1739,
+  "vanished_version_records": 0
+}
