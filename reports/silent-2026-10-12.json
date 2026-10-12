@@ -1,0 +1,12 @@
+{
+  "from": "2026-10-10",
+  "to": "2026-10-12",
+  "compared_version_records": 97,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [],
+  "new_version_records": 3,
+  "vanished_version_records": 145140
+}
