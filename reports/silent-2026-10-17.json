@@ -1,0 +1,961 @@
+{
+  "from": "2026-10-16",
+  "to": "2026-10-17",
+  "compared_version_records": 157370,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/deltawren",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/figurewell-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/recallroll-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/swellmeter-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.camerhann/terramcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.casafari/mcp",
+      "version": "3.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/send-email",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/kevscope-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/ziplore",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/fieldwright",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/pinloft",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/domaindna-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/linkheft-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/mailvett",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/leafmelt",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/afterwren",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/orbitwren",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/dutyfinch-chatgpt",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/insidewell-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/dutyfinch",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/figurewell-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/ledgermoor",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.reinlayer/rein-agent-risk-scale",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/hireheat-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/billsprig",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/haulroll-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/swellmeter-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/swellmeter-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/website-screenshot",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/fieldwright",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.2.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/company-enrichment",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/recallroll-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/leafmelt",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/commonkite",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/kevscope-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/sumbloom",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.3.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/linkheft-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.novadyne-hq/vulnfeed",
+      "version": "0.3.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/afterwren",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/orbitwren",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/bulk-image-downloader",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/insidewell-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/insidewell-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/awardtide",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/recapwren",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/keyword-ideas",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.novadyne-hq/vulnfeed",
+      "version": "0.3.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/domaindna-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/mailvett",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.13.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/hireheat-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/website-contacts",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/haulroll-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/haulroll-api",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.visokio/omniscope",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/swellmeter-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/feedpeck",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/sumbloom",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/citewren",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.filingdesk/data",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/insidewell-api",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/dutyfinch",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.reviewder/reviewder",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/leafmelt",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.cobbles/cobbles",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.novadyne-hq/vulnfeed",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/awardtide",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/namewhere",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/logolark",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/afterwren",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/cybermax-data",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.entradox/agent-ledger",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/pricewick",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/recallroll-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/namewhere",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "1.9.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.novadyne-hq/vulnfeed",
+      "version": "0.3.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/kevscope-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/printwren",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/linkheft-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/feedpeck",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/app-reviews",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.55.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/citewren",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/dutyfinch",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.novadyne-hq/vulnfeed",
+      "version": "0.3.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/sumbloom",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nikolaoskoutris/egleze",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/ziplore",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/leafmelt",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/bonafido",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/logolark",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/cybermax-data",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/hireheat-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/shiftmoor",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/pricewick",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/recallroll-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/haulroll-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/namewhere",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/kevscope-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/printwren",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/domaindna-api",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/linkheft-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/orbitwren",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.novadyne-hq/vulnfeed",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/pinloft",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.France-Care/alice-territorial",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.BenLoveitt/brix",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.ts.tailb4ac3a.ari001/arysphere-x402",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/orbitwren",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/kevscope-chatgpt",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/dutyfinch",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/afterwren",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/orbitwren",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/bonafido",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/article-extract",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/commonkite",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/sumbloom",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kriptonianlabs/xrpl",
+      "version": "0.11.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.cybermax-tools.cybermax/shiftmoor",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.opusgrowth/ads-mcp",
+      "version": "1.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 2048,
+  "vanished_version_records": 0
+}
