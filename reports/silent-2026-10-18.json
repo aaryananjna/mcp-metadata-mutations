@@ -1,0 +1,469 @@
+{
+  "from": "2026-10-17",
+  "to": "2026-10-18",
+  "compared_version_records": 159418,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "coach.marian/mentoring-inquiry-builder",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.LEOyrh/mcp-atlas",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kriptonianlabs/agent-apis",
+      "version": "0.17.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.pingvalid/mcp-server",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.atushi1841/japan-jepx-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.LEOyrh/mcp-atlas",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.smilestory/koreantoday",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Final-Commerce/final-docs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ink.skyos/memory",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.atushi1841/japan-property-hazard-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RuMemory/maxgraph",
+      "version": "0.36.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.LEOyrh/mcp-atlas",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shashwatgtm/impact-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.8.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shashwatgtm/gtm-alpha-consultant",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kentcdodds/kody",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.pingvalid/mcp-server",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shashwatgtm/craft-content-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.connectivehub/sg-event-print",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.8.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nikolasdehor/mcp-fiscal-brasil",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Weavetab/mcp",
+      "version": "2.5.0-beta.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shashwatgtm/revenue-enablement-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/japan-market-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/kensho-apify",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kynosure-ai/norma-mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.9.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.55.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kentcdodds/kody",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.chargerdojo/ocpi",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kentcdodds/kody",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shashwatgtm/gtm-alpha-mcp-server",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/japan-market-data",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.adrianhomelab/leadgen-onrc",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kentcdodds/kody",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/kensho-apify",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kriptonianlabs/agent-apis",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kentcdodds/kody",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shashwatgtm/impact-mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shashwatgtm/icp-intelligence-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shashwatgtm/craft-gtm-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.3.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.misbahsy/isitme",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.adrianhomelab/leadgen-onrc",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kopaev/openvan-travel",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 1839,
+  "vanished_version_records": 0
+}
