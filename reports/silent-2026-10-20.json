@@ -1,0 +1,1453 @@
+{
+  "from": "2026-10-18",
+  "to": "2026-10-20",
+  "compared_version_records": 161257,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.zhihuo.mcp/rotospider-layout",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-brighton-park-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-bdc-venture-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.5.31.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-tcv",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/amazon",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.8.23.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.hypotize/hypotize",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.dougalpaw.pawpulse/pawpulse",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.zhihuo.mcp/rotospider-layout",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.kinform/distributed-resistance",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jiangqizheng/vaneform-mcp",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.elfsight/ai-chatbot",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-b-capital-group",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-bessemer-venture-partners",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.20.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-volition-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.aimentiontracker/mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.26",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-new-enterprise-associates-nea",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-radical-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.5.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.25",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-8vc",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.21",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.kinform/distributed-resistance",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.2.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.datacircle/datacircle",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.prolevelmax/prolevelmax",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.moodlemcp/moodle",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-battery-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-catalio-capital-management",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ofacscreen/screening",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "site.chatgpt.no-qt.noqt/yumi-wheel-evidence",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BFAI-1/taskfleet-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-redpoint",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.19.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-general-catalyst",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.thisdot.docusign-navigator/mcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tcconnally/perseus",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Synter-Media-AI/synter-ads",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-cathay-innovation",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.5.31.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.17.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/mimir",
+      "version": "2.14.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.RightOnPar-LLC/meshmarket",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.7.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.20.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-vivo-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inite/inite-visibility",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-hitachi-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.3.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-rtp-global",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-inovia-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.sfxmint/sounds",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-greycroft",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "pub.xmr/xmr-pub-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.racingalpha/signals",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.fahaliai/fahali",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.9.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.0",
+      "from": "deleted",
+      "to": "active"
+    },
+    {
+      "server": "io.github.jennipro-engineering/ghost-market-web",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.GitSerge-crypto/aotrust-notary",
+      "version": "2.3.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.19.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.pathrule/pathrule-remote-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.dougalpaw.pawpulse/pawpulse",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vasparshin/aictrl",
+      "version": "1.0.0-beta.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.55.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.thisdot.docusign-navigator/mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.audd/audd-billing",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.17.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Zarklab-AI/zark-media",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-summit-partners",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.20.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "pub.xmr/xmr-pub-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DIDA-AI/hotelbooking",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mintverdict/mintverdict",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-insight-partners",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.zhihuo.mcp/rotospider-layout",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.21.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.22.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-salesforce-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.thisdot.docusign-navigator/mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.8.17.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/ledger",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.18",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-creandum",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.GitSerge-crypto/aotrust-notary",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.5.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jiangqizheng/vaneform-mcp",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tcconnally/mimir",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.instabids/instabids",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.20.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.5.31.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-khosla-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.optimistfi/mcp",
+      "version": "1.30.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-peterson-partners",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.7.31.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.RightOnPar-LLC/meshmarket",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.23.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.9.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.9.29.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.19.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/mimir",
+      "version": "2.7.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.5.24.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.atushi1841/japan-intel-mcp",
+      "version": "0.2.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.datacircle/datacircle",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/japan-intel-mcp",
+      "version": "0.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.boosthis/boosthis",
+      "version": "1.0.0-alpha.82",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.guapu/guapu",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "5.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.9.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/mimir",
+      "version": "2.15.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "net.zhihuo.mcp/container-loading",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/ledger",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.10.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.18.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.21.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Synter-Media-AI/synter-ads",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-gv",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.22.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.datacircle/datacircle",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-sosv",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.2.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.17.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-f-prime-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tcconnally/perseus",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-cultivation-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-translink-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.10.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-sv-health-investors",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.geter-andru/andru-intelligence",
+      "version": "1.9.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-atland-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.atushi1841/japan-ec-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.4.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.8.18.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.verdansk69/bidwell-health",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-peakspan-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/mimir",
+      "version": "2.13.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.8.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AutonomousBusinessUnits/findable",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.24",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-northern-light-venture-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.23",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.zhihuo.mcp/rotospider-layout",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.fahaliai/fahali",
+      "version": "1.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.21.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.yzf75011-ui/brand-lookalike-watch",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.6.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-left-lane-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.23.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.waypointreference/relay-reference",
+      "version": "2026.10.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DIDA-AI/hotelbooking-ai",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.aimentiontracker/mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.21.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/ledger",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.9.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.stackscope/stackscope",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-five-elms-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.yzf75011-ui/brand-lookalike-watch",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-menlo-ventures",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.thisdot.docusign-navigator/mcp",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-ra-capital-management",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vpndetection-io/mcp",
+      "version": "6.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.agentindexworld/relationship-memory",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-lead-edge-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "2.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.stackscope/stackscope",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mintverdict/mintverdict",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.7.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.thisdot.docusign-navigator/mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.fahaliai/fahali",
+      "version": "1.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jiangqizheng/vaneform-mcp",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.modevc/firm-canaan-partners",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.atushi1841/japan-ec-apify-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.tcconnally/perseus",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Synter-Media-AI/synter-ads",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.yzf75011-ui/prelaunch-radar-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.atushi1841/japan-ec-apify-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.tactivus.connect/connect",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.7.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.atushi1841/japan-market-mcp",
+      "version": "0.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.5.25.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.fahaliai/fahali",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.22.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.modevc/firm-white-star-capital",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.1",
+      "from": "deleted",
+      "to": "active"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus-vault",
+      "version": "2.23.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.thisdot.docusign-navigator/mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.20",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ofacscreen/screening",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.aimentiontracker/mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.7.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.19",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Perseus-Computing-LLC/perseus",
+      "version": "1.0.22",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.factyz/factyz",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wdfdaivd/skilltide-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.internetdata/mcp",
+      "version": "3.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.zhihuo.mcp/container-loading",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.20.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.8.28.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.zhihuo.mcp/rotospider-layout",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AceDataCloud/mcp-sora",
+      "version": "2026.3.21.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 4626,
+  "vanished_version_records": 0
+}
