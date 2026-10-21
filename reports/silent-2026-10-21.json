@@ -1,0 +1,331 @@
+{
+  "from": "2026-10-20",
+  "to": "2026-10-21",
+  "compared_version_records": 165883,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.xhostd/mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.floortomproductions-droid/agentx-x402-gateway",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ro.codai/codai",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.2.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.2.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "za.co.wrdo/wrdo",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.oceantoken/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.phaedo-labs/phaedo-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.prominara/prominara",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.13.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.55.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.xhostd/mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.RozoAI/checkout",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "za.co.wrdo/wrdo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.prominara/prominara",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.adsgpt/adsgpt",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.floortomproductions-droid/agentx-x402-gateway",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.augmentev/paseo",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.prominara/prominara",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FortripEngineering/fortrip-hotels",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sumedhchatse/agentraas",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.2.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sharan01x/usetested",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.marcomq/mq-bridge-app",
+      "version": "0.4.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.xOyabunx/everycalc",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.snehdhruv/trillboards-dooh",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.withnocatch/shiplist",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.phaedo-labs/phaedo-mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.snehdhruv/trillboards-dooh",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 2531,
+  "vanished_version_records": 0
+}
