@@ -1,0 +1,451 @@
+{
+  "from": "2026-10-21",
+  "to": "2026-10-22",
+  "compared_version_records": 168414,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.joydai2026-del/china-news-feed",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.choaticpixels/wicked-mcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.heznpc/airmcp",
+      "version": "2.16.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.0xthaner/reputa",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.prereason/mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.31.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.prereason/mcp",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.marketcensus/market-census",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.32.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.0xthaner/reputa",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.choaticpixels/wicked-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.partstable/partsiq",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.instabids/instabids",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.choaticpixels/wicked-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.27.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.lucianumm/pjecalc-mcp",
+      "version": "2.16.0-mcp.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.marketcensus/market-census",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.nexaaly/a11y-check",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mesutoezdil/mcp-gpu-server",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ParalonCloud/mcp-rentals",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aiscimi-code/botkelp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.augmentev/fabric-verify",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.choaticpixels/wicked-mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.0xthaner/reputa",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.22.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.prereason/mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Datura-ai/lium-docs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nexaaly/a11y-check",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MassimoSun/smsverbot-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.26.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.heznpc/airmcp",
+      "version": "2.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.heznpc/airmcp",
+      "version": "2.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MassimoSun/smsverbot-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.choaticpixels/wicked-mcp",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.prereason/mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sharan01x/usetested",
+      "version": "1.1.0",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mesutoezdil/mcp-gpu-server",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.18.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cassette-Editor/oh-my-cassette",
+      "version": "0.4.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.floortomproductions-droid/agentx-x402-gateway",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.heznpc/airmcp",
+      "version": "2.16.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.21.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.nexaaly/a11y-check",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.33.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nl.prijsprofeet/prijsprofeet",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.25.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nl.prijsprofeet/prijsprofeet",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.parseur/parseur-py",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.wuko/72qr",
+      "version": "1.2.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.14.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.29.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mesutoezdil/mcp-gpu-server",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.34.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sharan01x/usetested",
+      "version": "1.2.0",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.23.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.24.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eezz4/zzop",
+      "version": "0.29.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.57.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3763,
+  "vanished_version_records": 0
+}
