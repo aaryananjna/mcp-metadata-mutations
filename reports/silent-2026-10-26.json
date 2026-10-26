@@ -1,0 +1,1897 @@
+{
+  "from": "2026-10-22",
+  "to": "2026-10-26",
+  "compared_version_records": 172175,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.carnation77/npa-vanguard",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.tenzro/tenzro-lifi",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.126.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.codelives/ainecto",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.greencore-solutions/rco-a2a",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.traderwai/mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Utilify-io/utilify-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "9.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.kaneky/jobpost",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lucianumm/pjecalc-mcp",
+      "version": "2.16.0-mcp.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.100monkeys-ai/cortex",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jayjodev/vivory-mcp-verification",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.9.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jayjodev/vivory-mcp-verification",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.22.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.janus-ubos-republic/janus-kinematic-drive",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.15.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KSAklfszf921/riksdag-regering-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-risk",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-util",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.openpath/openpath",
+      "version": "3.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.9.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.greencore-solutions/rco-a2a",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.wagate/wagate",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.voiddo.data/mint-utilities",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tomjwxf/protect-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.traderwai/mcp-server",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-web",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contenta-software/contenta-converter",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ProntoHQ/mcp-pronto",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.upcoach/upcoach",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.brandloupe/brandloupe",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.considus/proton-bridge-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.15.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Wangggym/quarry",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.tenzro/tenzro-layerzero",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jayjodev/vivory-mcp-korea",
+      "version": "0.5.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-chain",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.edgarfloresguerra2011-a11y/marketnow-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "8.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.traderwai/mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.linkvectorized/bidcatch",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-world",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-util",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.kaneky/kimage",
+      "version": "0.18.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AnthonE/scry",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.apick/skills",
+      "version": "3.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Applied-Form/engine",
+      "version": "3.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.declaw-ai/mcp-server",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pascalorg/editor",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "page.aft/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kimny1143/hoo-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zifengw/eu-business-data-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eamwhite1/agent-trust",
+      "version": "9.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "9.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.antonbaider/docsy",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.undone0603/authichain",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.undone0603/authichain",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.anteproof/anteproof",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.aivikings/registrar",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.402signal/402signal",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.codelives/ainecto",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FortripEngineering/fortrip",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.9.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.navshainc/noshup-public",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.9.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "9.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.apick/skills",
+      "version": "3.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.letsweft/weft",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.carnation77/npa-vanguard",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-risk",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.apillow/zillow",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-util",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tablejourney/food-travel",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.9.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.13.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.anteproof/anteproof",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Applied-Form/engine",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.13.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gospodindark-stack/pickleball3",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.apick/skills",
+      "version": "3.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.undone0603/authichain",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.eamwhite1/agent-trust",
+      "version": "9.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tablejourney/food-travel",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.receiptaudit/receipt-audit",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.plith/plith",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.navshainc/noshup-public",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-web",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tomjwxf/protect-mcp",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.kaneky/jobpost",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.navshainc/noshup-public",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.reticle-red/laser-jobs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.15.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-chain",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ship24-official/ship24-tracking",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "9.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mnemopay/sdk",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.navshainc/noshup-public",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.11.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "9.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mangrove-one/mangrove-trader",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kolganovr/figma-mcp-bridge",
+      "version": "4.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.9.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.PersonAIzer/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-world",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kimny1143/hoo-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.15.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.linkvectorized/bidcatch",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.12.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wdfdaivd/anclum",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-forensics",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clauxel.equiblesagent/equiblesagent-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.openpath/openpath",
+      "version": "3.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.tenzro/tenzro-canton",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.alphaquantlabs/propertycheck",
+      "version": "1.15.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.undone0603/authichain",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jarvis-intelligence/jarvis",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.xiaoxihexiaoyu/everyinfra",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.receiptaudit/receipt-audit",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jarvis-intelligence/jarvis",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jayjodev/vivory-mcp-korea",
+      "version": "0.6.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.12.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.silostack/tokenrip",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.kaneky/kimage",
+      "version": "0.18.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.eamwhite1/xrpl-referee",
+      "version": "7.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-pump",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cipshadow/truerandomness",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.openpath/openpath",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.sfxmint/sounds",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.openpath/openpath",
+      "version": "3.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.25.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.codelives/ainecto",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.57.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.tenzro/tenzro-ethereum",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contenta-software/contenta-converter",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "9.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Norcalnappy/atlasofplantbased-pct",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-forensics",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-web",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.tenzro/tenzro-chainlink",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.fettle/mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.402signalhq/402signal",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-risk",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.402signalhq/402signal",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "network.tenzro/tenzro-solana",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.lotscommerce/lotscommerce",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.31.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zhiyong.easyshiftplan/shiftly-scheduling",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ro.codai/codai",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.janus-ubos-republic/janus-kinematic-drive",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-chain",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jayjodev/vivory-mcp-verification",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.kaneky/kimage",
+      "version": "0.18.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.tablejourney/food-travel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "network.tenzro/tenzro",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.27.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.siddmax/namera",
+      "version": "0.1.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-pump",
+      "version": "2.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.apick/skills",
+      "version": "3.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jarvis-intelligence/jarvis",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-output-verifier",
+      "version": "0.5.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CoolSapiens/linkedin-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.saferesize/saferesize",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.silostack/tokenrip",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-world",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Bahamas1717/aibvf-mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.editmamei/editmamei",
+      "version": "1.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.26.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jarvis-intelligence/jarvis",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zifengw/eu-business-data-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.undone0603/authichain",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FortripEngineering/fortrip",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-windows",
+      "version": "0.15.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Damien829/aipaygen",
+      "version": "1.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.undone0603/authichain",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.edgarfloresguerra2011-a11y/marketnow",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "xyz.forsale/offers",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.considus/pagespeed-insights-mcp",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.traffiycom-ui/paidsync",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.PersonAIzer/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.codelives/ainecto",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "7.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.leonardomso/luca-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.alphaquantlabs/propertycheck",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.letkite/letkite-dev",
+      "version": "1.4.0-rc.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.greencore-solutions/rco-a2a",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "art.maddegen.agent/synapse-pump",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.codelives/ainecto",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zifengw/eu-business-data-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "chat.suiagent/yui",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.tomjwxf/protect-mcp",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wygogogo19/robotbase-mcp",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arthiqlabs/vedaksha",
+      "version": "8.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.benswel/qr-for-agent",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tomjwxf/protect-mcp",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.25",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.churichard/fluxmail",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.siddmax/namera",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.tomjwxf/protect-mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 12163,
+  "vanished_version_records": 2
+}
