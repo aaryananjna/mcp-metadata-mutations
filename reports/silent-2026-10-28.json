@@ -1,0 +1,391 @@
+{
+  "from": "2026-10-27",
+  "to": "2026-10-28",
+  "compared_version_records": 187294,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "no.lovlyai/lovly",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/Epoch",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.meltingpixelsai/zero-core-intel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.15.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.59.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zambodotdev/zambo",
+      "version": "4.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.imfurkana/unrendered-ai-crawler-checker",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.15.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.meltingpixelsai/drainbrain",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.geonode/scraper",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.dartzdabz/directory",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.13.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.hoghogh/chistara",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Misterio070/scanpay",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jinhsueh/agentlab-deploy",
+      "version": "2026.10.07",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jordanburke/dokploy-mcp-server",
+      "version": "1.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.13.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.15.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/Epoch",
+      "version": "0.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j-doi/domain-bannin",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.13.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.trajectiq-ai/E2E",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "br.com.buscazap/busca-produtos",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.b77/fibalo",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.meltingpixelsai/drainbrain",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.agentplaybooks/agentplaybooks",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KyaniteLabs/Epoch",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.JimmyLv/bibigpt",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.boim/vendors",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.mercatura/mercatura",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.16.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.barangaroo/crosstabs",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.16.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.contextstream/mcp",
+      "version": "0.5.35",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/kinocut",
+      "version": "1.14.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "network.mercatura/mercatura",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KyaniteLabs/Epoch",
+      "version": "0.2.7",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 2608,
+  "vanished_version_records": 0
+}
