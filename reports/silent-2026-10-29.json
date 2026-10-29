@@ -1,0 +1,739 @@
+{
+  "from": "2026-10-28",
+  "to": "2026-10-29",
+  "compared_version_records": 189902,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.Uvxxsh/layro",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.108.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "finance.betteroff/public",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.stipple/openwarrant-verify",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-verify",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.76.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.66.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.codevanmoose/truncus-mcp-server",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/coinlight",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.57.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.34.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.somewhere/platform",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.50.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-verify",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.62.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-verify",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Agentic-Private-Office/rco-a2a",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.62.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.33.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.71.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "stream.govideo/govideo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.107.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.michaelw-pr/veridu",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.76.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.80.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.32.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.109.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-verify",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seayniclabs/berth",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.59.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.71.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.60.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.107.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "au.com.alpineai/factstamp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "online.golfdata/golf-clubs",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.81.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.29.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Uvxxsh/layro",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.64.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.36.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.72.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.38.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.SergoVashakmadze/iomarkets-ai",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.60.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.71.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.joinsandwich/care-circle",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.joinsandwich/care-circle",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.108.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "au.com.alpineai/factstamp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.129.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "au.com.alpineai/factstamp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.81.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.82.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ygfalcon/coinlight",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.108.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.59.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seayniclabs/keel",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.76.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.67.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.76.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.51.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.106.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.somewhere/platform",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.63.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.55.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.108.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.82.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "online.golfdata/golf-clubs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-verify",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.71.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.63.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.68.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Uvxxsh/layro",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seayniclabs/mooring",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.59.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.13.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.stipple/openwarrant-aitext",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.70.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.65.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.surgemesh/surgemesh",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.81.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ca.devino.uprank/uprank",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.74.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.31.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.36.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.108.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.38.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.54.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.msaad00/agent-bom",
+      "version": "0.75.11",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 5902,
+  "vanished_version_records": 0
+}
