@@ -1,0 +1,163 @@
+{
+  "from": "2026-10-29",
+  "to": "2026-10-30",
+  "compared_version_records": 195804,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.131.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.10life/travel",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.59.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.chargerdojo/ocpi",
+      "version": "1.3.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ProspectAPIs/prospectapis-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ruslan-mm18/yandex-tools-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dev55acc-ai/motion-menu",
+      "version": "15.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sarmadahsan/paidfor",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mapbox/mcp-server",
+      "version": "99.0.0-dev",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ProspectAPIs/prospectapis-mcp",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.eutech-directory/legis-link",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.33",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.integromat/make",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ryanwaits/secondlayer",
+      "version": "11.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cn.com.ihaola/haola-pe",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mapbox/mcp-server",
+      "version": "0.16.1-dev",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.airbytehq/agents",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.13.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dev55acc-ai/motion-menu",
+      "version": "14.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.anuragind003/ad-extract",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.latentgrounds/cafe",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kubflow/kubflow",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Agentic-Private-Office/rco-a2a",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.airbytehq/agents",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 2925,
+  "vanished_version_records": 0
+}
