@@ -1,0 +1,4003 @@
+{
+  "from": "2026-10-30",
+  "to": "2026-10-31",
+  "compared_version_records": 198729,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.CSOAI-ORG/accounting-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-cqc-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/consciousness-engine-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/diff-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-calendar-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-reporter-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-automation-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/document-comparison-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accounting-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cobblehop/cobblehop",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/basel-ai-overlay-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/drone-airspace-governance-mcp",
+      "version": "1.0.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-verification-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/faker-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/budget-planner-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-validator-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agriculture-robotics-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dependency-updater-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.getclippy/clippy",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/grammar-fix-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-analytics-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/calendar-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hash-utils-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.1.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/html-parser-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.2.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/as400-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-ai-governance-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/domiciliary-care-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.2.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ci-cd-generator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/deepfake-detector-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fda-samd-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fda-samd-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/domiciliary-care-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-calendar-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "online.golfdata/golf-clubs",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/document-comparison-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/falcon-sol",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-fhir-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flight-logger-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/image-metadata-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/consciousness-engine-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/acord-bridge-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hydration-reminder-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/coppa-ferpa-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crane-hire-cpcs-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.8.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/grammar-fix-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hipaa-compliance-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-fhir-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/canada-aida-ai-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crypto-tracker-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/education-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hash-utils-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-executor-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agriculture-robotics-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csrd-compliance-mcp",
+      "version": "1.3.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/html-parser-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/docker-helper-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crm-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-scheduling-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cobol-bridge-mcp",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-ai-governance-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/contract-review-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.2.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/churn-predictor-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ci-cd-generator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/diff-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/construction-iso-19650-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/git-helper-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/firmware-attestation-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/deepfake-detector-mcp",
+      "version": "1.0.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.4.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/concrete-pump-cpa-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-tester-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cisa-kev-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai-governance-crosswalk-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-docs-generator-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/basel-ai-overlay-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/image-metadata-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-reporter-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ecommerce-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gs1-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shichuanqiong/agoradm",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hydration-reminder-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/currency-converter-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dispense-record-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/date-calculator-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-ops-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/geolocation-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/changelog-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crypto-tracker-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-nis2-crosswalk-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cobol-bridge-mcp",
+      "version": "1.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agriculture-robotics-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cron-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/competitor-monitor-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/icon-generator-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crm-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/insurance-verification-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cqc-compliance-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.problee/problee",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-reviewer-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-calendar-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/docker-helper-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/aml-ai-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/as400-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/document-comparison-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/backup-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/contract-review-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fda-samd-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-cqc-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/council-signal-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/git-helper-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.8.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.4.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.n3tz/atlas",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-reporter-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/airspace-monitor-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ecommerce-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/feedback-analyzer-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.rentgpu/gpu-market",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/grammar-fix-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/currency-converter-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dispense-record-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/data-science-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/citation-finder-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-ops-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai-governance-crosswalk-mcp",
+      "version": "1.0.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/geolocation-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hash-utils-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/changelog-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/html-parser-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/aml-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gods-eye-geospatial-mcp",
+      "version": "1.2.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-ai-governance-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.readypermit/geo",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cron-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/competitor-monitor-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dataprivacy-ai-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ci-cd-generator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/docker-helper-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/env-manager-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/drone-airspace-governance-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hr-management-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/firmware-attestation-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/event-planning-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-output-verifier",
+      "version": "0.5.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/image-metadata-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.3.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/git-helper-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hydration-reminder-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ad-copy-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai-governance-crosswalk-mcp",
+      "version": "1.0.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/backup-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.pokefocus/mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-membrane-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/data-science-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/citation-finder-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crypto-tracker-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clipboard-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/color-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hipaa-compliance-mcp",
+      "version": "1.0.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agriculture-robotics-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/customer-support-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/expense-tracker-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crm-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accounting-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gs1-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-verification-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-ai-governance-mcp",
+      "version": "1.0.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cybersecurity-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/coppa-ferpa-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.x402-video/mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/aml-ai-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csrd-compliance-mcp",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/habit-tracker-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gods-eye-geospatial-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/canada-aida-ai-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/event-planning-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dockerfile-generator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agent-incident-reporter-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/construction-iso-19650-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/grabhire-ai-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ecommerce-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.HarleyCoops/workspace-alberta",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/currency-converter-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.myworkingmemory/email-verifier-bulk",
+      "version": "2026.10.28+discovery.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/backup-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-ops-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/database-universal-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/geolocation-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/domiciliary-care-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/changelog-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-nis2-crosswalk-mcp",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/color-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/file-organizer-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cron-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fitness-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/competitor-monitor-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agriculture-robotics-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.ahel/ahel",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/canada-aida-ai-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cybersecurity-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cli-builder-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crypto-tracker-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/docker-helper-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crane-hire-cpcs-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/drone-airspace-governance-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.2.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/haulage-uk-compliance-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/deepfake-detector-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/basel-ai-overlay-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hl7-fhir-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/git-helper-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dockerfile-generator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/budget-planner-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/falcon-docs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.4.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/data-science-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-analytics-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dataprivacy-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/citation-finder-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-docs-generator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/calendar-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clipboard-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csrd-compliance-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/haulage-uk-compliance-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/focus-timer-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/commit-message-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/chas-elite-prep-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cics-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/creativity-engine-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fishkeeper-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-registry-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cli-builder-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/aml-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/changelog-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/file-organizer-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cli-builder-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dispense-record-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.pokefocus/mcp",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/competitor-monitor-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hipaa-compliance-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.pokefocus/mcp",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.8.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/consciousness-engine-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/event-planning-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/falcon-sol",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cobol-bridge-mcp",
+      "version": "1.1.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.59.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cobol-bridge-mcp",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/backup-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.n3tz/atlas",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.2.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gods-eye-geospatial-mcp",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-scheduling-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/grabhire-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dataprivacy-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-docs-generator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/education-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/color-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/encoder-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/commit-message-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clipboard-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/chas-elite-prep-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-cqc-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flashcard-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.myworkingmemory/email-verifier-bulk",
+      "version": "2026.10.28",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/creativity-engine-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fishkeeper-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.3.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cybersecurity-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/faker-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-registry-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/focus-timer-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cqc-compliance-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai-governance-crosswalk-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fsa-food-safety-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/file-organizer-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/as400-bridge-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fda-samd-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dockerfile-generator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/database-universal-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/habit-tracker-ai-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-tester-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.4.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hr-management-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/backup-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flight-logger-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-tools-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.4.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flashcard-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cli-builder-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/faker-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-calendar-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/focus-timer-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/encoder-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai-governance-crosswalk-mcp",
+      "version": "1.0.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/html-parser-ai-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/customer-support-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-ai-governance-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-ops-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.primereviewspro/check-reviews",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cics-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ad-copy-ai-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.1.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/database-universal-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.4.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fix-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.xn--5kvtwv52d/jizhineng-mcp-gateway",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dockerfile-generator-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/grammar-fix-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.getclippy/clippy",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-scheduling-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dataprivacy-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-docs-generator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hash-utils-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/budget-planner-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hr-management-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/airspace-monitor-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/commit-message-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-tester-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gods-eye-geospatial-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/creativity-engine-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fishkeeper-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flight-logger-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-tools-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/construction-iso-19650-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-registry-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dlms-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/domiciliary-care-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/basel-ai-overlay-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/file-organizer-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/encoder-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/customer-support-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/chas-elite-prep-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/health-check-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/date-calculator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/data-science-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-membrane-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/falcon-comps",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gardening-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shichuanqiong/agoradm",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "xyz.botmash/botmash",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/image-metadata-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/drone-airspace-governance-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dependency-updater-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/icon-generator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/insurance-verification-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/acord-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/config-validator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/agriculture-robotics-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.problee/problee",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crm-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ad-copy-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/edi-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-tester-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-membrane-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flashcard-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/canada-aida-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/faker-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/diff-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/focus-timer-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/airspace-monitor-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dispense-record-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/churn-predictor-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.1.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accounting-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/health-check-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/date-calculator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gos-claim-validator-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gardening-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gardening-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/solana-wallet-intel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csrd-compliance-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/database-universal-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.3.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ecommerce-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/explainability-report-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dependency-updater-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/icon-generator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/currency-converter-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/insurance-verification-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/consciousness-engine-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.pokefocus/mcp",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-ops-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/geolocation-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hr-management-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/changelog-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.2.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clinical-trials-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/config-validator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/env-manager-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fix-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.pokefocus/mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/explainability-report-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.runmirrors/mirrors",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flight-logger-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-tools-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/falcon-structures",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/emoji-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/devops-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/compression-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/encoder-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-nis2-crosswalk-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/airspace-monitor-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.feegate/marketplace",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/customer-support-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.problee/problee",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ad-copy-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/canada-aida-ai-mcp",
+      "version": "1.0.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.3.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hipaa-compliance-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/deal-radar",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clipboard-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/aml-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/expense-tracker-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accounting-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-automation-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-verification-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/citation-finder-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-validator-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hl7-fhir-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clinical-trials-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.3.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-self-audit-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.3.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/env-manager-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ASEM-BATAWY/vicatoo",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-tester-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/explainability-report-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/calendar-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/emoji-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/compression-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-reviewer-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/acord-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cobol-bridge-mcp",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ascii-art-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/delboy-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ad-copy-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/health-check-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/date-calculator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-docs-generator-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gardening-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/edi-bridge-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/devops-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-membrane-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/event-planning-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-scheduling-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-tools-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/commit-message-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-gateway-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fitness-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/c2pa-watermark-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dependency-updater-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/expense-tracker-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/icon-generator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accounting-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-bom-mcp",
+      "version": "1.2.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/insurance-verification-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/health-check-ai-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/feedback-analyzer-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/backup-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-verification-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/care-home-cqc-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/solana-wallet-intel",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-validator-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/color-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/config-validator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/hydration-reminder-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai-governance-crosswalk-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "online.golfdata/golf-clubs",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-automation-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cqc-compliance-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-compliance-mcp",
+      "version": "1.2.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cybersecurity-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-tester-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.anandkaranubc/gitgoblin",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/budget-planner-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-executor-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-reviewer-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/habit-tracker-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/airspace-monitor-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fsa-food-safety-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-analytics-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.3.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/calendar-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/devops-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csoai_defoneos_mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gos-claim-validator-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.problee/problee",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fitness-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/flashcard-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/feedback-analyzer-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/deepfake-detector-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/bias-detection-mcp",
+      "version": "1.2.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/concrete-pump-cpa-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clinical-trials-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/aml-ai-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/chas-elite-prep-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ci-cd-generator-ai-mcp",
+      "version": "1.0.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crane-hire-cpcs-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/env-manager-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-automation-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.myworkingmemory/email-verifier-bulk",
+      "version": "2026.10.29",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/explainability-report-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-ops-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-fhir-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.inxy/seo-audit",
+      "version": "1.3.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ai-incident-reporting-mcp",
+      "version": "1.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/haulage-uk-compliance-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/emoji-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/compression-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dataprivacy-ai-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/clinical-trials-ai-mcp",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/budget-planner-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cron-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/config-validator-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-nis2-crosswalk-mcp",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/csv-analytics-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/education-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/calendar-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-executor-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cisa-kev-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/expense-tracker-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/airspace-monitor-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/drone-airspace-governance-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/concrete-pump-cpa-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/contract-review-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/churn-predictor-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/document-comparison-ai-mcp",
+      "version": "1.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.readypermit/geo",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/blockchain-verification-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ygfalcon/falcon-docs",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/deepfake-detector-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/basel-ai-overlay-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mattmohandiss/cad-mcp-server",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/diff-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/api-docs-generator-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.problee/problee",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/email-validator-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/chas-elite-prep-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/crane-hire-cpcs-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/creativity-engine-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fishkeeper-ai-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/healthcare-fhir-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.smdesai27/math-board",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/content-registry-mcp",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/accessibility-ai-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-reviewer-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/habit-tracker-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gspc",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gdpr-compliance-ai-mcp",
+      "version": "1.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/devops-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/ad-copy-ai-mcp",
+      "version": "1.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/education-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/explainability-report-mcp",
+      "version": "1.0.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/emoji-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/code-executor-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/compression-ai-mcp",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dora-nis2-crosswalk-mcp",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/canada-aida-ai-mcp",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/cra-compliance-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/dlms-bridge-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/gos-claim-validator-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/eu-ai-act-compliance-mcp",
+      "version": "1.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.ahel/ahel",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/fitness-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/concrete-pump-cpa-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/contract-review-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/feedback-analyzer-ai-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CSOAI-ORG/churn-predictor-ai-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3371,
+  "vanished_version_records": 0
+}
