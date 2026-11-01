@@ -1,0 +1,517 @@
+{
+  "from": "2026-10-31",
+  "to": "2026-11-01",
+  "compared_version_records": 202100,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "nz.agentline/agentline-nz",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.booklint/stamp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.akshitkrnagpal/toolstile",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.39",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.33",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.server4agent/server4agent",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.20",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.36",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.31",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jdhart81/verdigraph-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nz.agentline/agentline-nz",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nz.agentline/agentline-nz",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.34",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.59.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.server4agent/server4agent",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.booklint/desk",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.47",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jotamed/itv-quiosco",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.44",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.server4agent/server4agent",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.8.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.server4agent/server4agent",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.50",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.stackscope/stackscope",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sevalla-hosting/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.45",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hurcanNansen/nansen-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.49",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.43",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.starlecta/influencer-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.booklint/desk",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.allscreenshots/allscreenshots",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.30",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.42",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jotamed/itv-quiosco",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hurcanNansen/nansen-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ca.grocerypulse/grocery-comparison",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.booklint/desk",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.19",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.52",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.21",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.46",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hurcanNansen/nansen-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.28",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seankarltonlee/tickermint",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.stackscope/stackscope",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.40",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.51",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.starlecta/influencer-tools",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.37",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.allscreenshots/allscreenshots",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.34",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hurcanNansen/nansen-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.8.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.server4agent/server4agent",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.35",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.6.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hurcanNansen/nansen-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hurcanNansen/nansen-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.kinlab/kin",
+      "version": "0.5.32",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 4042,
+  "vanished_version_records": 0
+}
