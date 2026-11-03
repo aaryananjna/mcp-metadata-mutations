@@ -1,0 +1,415 @@
+{
+  "from": "2026-11-02",
+  "to": "2026-11-03",
+  "compared_version_records": 209887,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.60.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.blockscholes/mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cnrcode/corroborateme",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.GoTolstoy/shopper",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.screwtape/screwtape",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "work.doingwork/home",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tell-and-go/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.boy-373/mcp-marketplace",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.blockscholes/mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cnrcode/corroborateme",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.35",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.screwtape/screwtape",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.flyvolo/knowledge",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.GoTolstoy/studio",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.itsmeadamdamroma/mazzagrp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.8.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Ibrahim-Salman19/uetgpt",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vwnb/safety-requirements-god",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.meridianlabssoftware/sec-form-d-funding-rounds",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.meridianlabssoftware/eu-uk-tenders-scraper",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.GoTolstoy/studio",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mnemopay/gridstamp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.GoTolstoy/studio",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rozetyp/vuln-intel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.flyvolo/knowledge",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.finstat/finstat",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.csclear/wire",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.cnrcode/corroborateme",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cnrcode/corroborateme",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.GoTolstoy/library",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jfarcand/iphone-mirroir-mcp",
+      "version": "0.4.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mnemopay/gridstamp",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ariffazil/aaa-mcp",
+      "version": "60.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.APIStock/apihubs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mnemopay/sdk",
+      "version": "1.14.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ironflowsh/mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MangroveTechnologies/mangroveai",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.screwtape/screwtape",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cnrcode/corroborateme",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agentcdn/arv",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.rozetyp/vuln-intel",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.csclear/wire",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.csclear/wire",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stophydotdev/mcp",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mnemopay/sdk",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.flyvolo/knowledge",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rozetyp/vuln-intel",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mnemopay/gridstamp",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mnemopay/sdk",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.befana/befana",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.screwtape/screwtape",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 4077,
+  "vanished_version_records": 0
+}
