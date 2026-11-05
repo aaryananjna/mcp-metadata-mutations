@@ -1,0 +1,805 @@
+{
+  "from": "2026-11-04",
+  "to": "2026-11-05",
+  "compared_version_records": 217247,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.athril/agentic-target-evidence",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/bridges",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.adrails/adrails",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/bridges",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/magpie",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "click.mymarketing/decks",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/drinking-water",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tradetabula/tabula-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/facility-compliance",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/magpie",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Cryptomoon7/codeactu",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dassey/yablendermcp",
+      "version": "2.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.adrails/adrails",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/edgar",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.43",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.mtdt/mtdt",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.23.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessiemongeon1/sui-kapa",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dassey/yab-mcp",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/magpie",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/drinking-water",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/edgar",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.45",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/weather",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.54",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Luis-Cwk/entropiav2",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/facility-compliance",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.corpusfetch/corpusfetch",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.44",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/farmland",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.24.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.25.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Animus2018/author-itag",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/edgar",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.19.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/bridges",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/bridges",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/facility-compliance",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.25",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/weather",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/magpie",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/facility-compliance",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pgeneralpl/edgar-entity-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.evalgate/evalgate",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.agentoutposts/outposts",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.16.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.60.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/weather",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.9.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.18.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/weather",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/farmland",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.2.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cryptomoon7/codeactu",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "it.bieda.jobhunt/jobhunt",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/edgar",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.amkentech/oyeh",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.wildrunai/wildrunai",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "in.nebulatech/nebula",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.michaelw-pr/presentr-analyze",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/edgar",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/bridges",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "in.nebulatech/nebula",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/magpie",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.floortomproductions-droid/agentx-x402-services",
+      "version": "0.7.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.assetfeed/ai-detection",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.mtdt/mtdt",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miinimal/minimalai-mcp",
+      "version": "0.20.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.208.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.8.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/drinking-water",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.adrails/adrails",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/magpie",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.13.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiapplyd/aiapplyd",
+      "version": "1.6.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.49",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sorokinvj/checkmyapp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/drinking-water",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.morningbrief/farmland",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "click.mymarketing/decks",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matiasmaquieira96/risk-mcp",
+      "version": "0.4.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.markbase/markbase",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "link.morningbrief/farmland",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.FROWNINGdev/django-orm-lens",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 4170,
+  "vanished_version_records": 0
+}
