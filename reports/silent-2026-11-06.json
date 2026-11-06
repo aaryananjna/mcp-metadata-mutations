@@ -1,0 +1,361 @@
+{
+  "from": "2026-11-05",
+  "to": "2026-11-06",
+  "compared_version_records": 221417,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "sg.cashew/mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.athril/agentic-target-evidence",
+      "version": "0.1.5",
+      "from": "deleted",
+      "to": "active"
+    },
+    {
+      "server": "io.github.Echolonius/token-intel",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.thachp/runlater",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.corpusfetch/corpusfetch",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.210.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.turbonotify/whatsapp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hanaprism/fair-random",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wi9ine/toss-invest",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.turbonotify/whatsapp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.boostedchat/travel",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.tera-sarah/ndaa-ai",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.133.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "tax.terminal/filing",
+      "version": "0.337.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wi9ine/toss-invest",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.boostedchat/travel",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wi9ine/toss-invest",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.plastrlab/skyelight-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wi9ine/toss-invest",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "trade.neum/neum",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.storerouter/storerouter",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.turbonotify/whatsapp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.repowise/repowise-hosted",
+      "version": "0.17.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Efistoffeles/boostedtravel",
+      "version": "0.2.17",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.dadiosity/dadiosity",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.dadiosity/dadiosity",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wi9ine/toss-invest",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.johnisanerd/zillow-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.drawstoday/lottery-numbers",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Echolonius/token-intel",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.hanaprism/lottery-numbers",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.PugarHuda/nota",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.intoperson.tools/fair-random",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.turbonotify/whatsapp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.commonrig/commonrig",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.intoperson.tools/fair-random",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.turbonotify/whatsapp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.intoperson.tools/lottery-numbers",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.feegate/marketplace",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CyberPunk11147/cyberwarex-voice-stt",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wi9ine/toss-invest",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "trade.neum/neum",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "vip.365rwa/rwa-data",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "link.rentgpu/gpu-market",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.JackPT79/agent-verification-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tera-sarah/ndaa-ai",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "trade.neum/neum",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.60.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.withglint.recallradar/recallradar",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.intoperson.tools/lottery-numbers",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.drawstoday/fair-random",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3173,
+  "vanished_version_records": 0
+}
