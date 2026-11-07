@@ -1,0 +1,511 @@
+{
+  "from": "2026-11-06",
+  "to": "2026-11-07",
+  "compared_version_records": 224590,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Abstract36/stakechain",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.vwnb/wcgw.world",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pipeworx-io/terminal49",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hybridforgelab/shipshape-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dbhurley/ppl",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/distill-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.andrewmccalip/agentboard",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.needle/needle",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/unfold-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.govconapi/govconapi",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.craigmbrown/blindoracle",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.adityankale190895/diffci",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.adrails/adrails",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andrewmccalip/agentboard",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.craigmbrown/blindoracle",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.adrails/adrails",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.corpusfetch/corpusfetch",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/specwise-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.adrails/adrails",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.matthewrusk/nugit",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hybridforgelab/specwise-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/distill-mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Abstract36/stakechain",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.faxette/faxette-eu",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "so.rails/jobbot",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "so.rails/rolodex",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/unfold-mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.adityankale190895/diffci",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dbhurley/ppl",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.adrails/adrails",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.useneedle/needle",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/shipshape-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.meetnava/nava",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/specwise-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/shipshape-mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/distill-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "so.rails/recruiter",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.craigmbrown/blindoracle",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/distill-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.craigmbrown/blindoracle",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.craigmbrown/blindoracle",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Sashank-Singh/agenttwin-docs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "lol.masti.tunnel/ezremote",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.faxette/faxette-eu",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.nonsynthetic/apex-edge",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "so.rails/tutor",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.faxette/faxette",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.hashgrid/sdk",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/unfold-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/janitorial-manager",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.adrails/adrails",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.andrewmccalip/agentboard",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/unfold-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.govconapi/govconapi",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pipeworx-io/terminal49",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.hashgrid/sdk",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "so.rails/unblock",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.faxette/faxette",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Abstract36/stakechain",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.hashgrid/sdk",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pipeworx-io/terminal49",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.scaledpapers/scaledpapers",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.govconapi/govconapi",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/specwise-mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hybridforgelab/shipshape-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pipeworx-io/terminal49",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.evlek/mcp-server",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 4351,
+  "vanished_version_records": 0
+}
