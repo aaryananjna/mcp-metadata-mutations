@@ -1,0 +1,433 @@
+{
+  "from": "2026-11-08",
+  "to": "2026-11-09",
+  "compared_version_records": 233442,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/aitab",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.phoslabs/commerce-intelligence",
+      "version": "4.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.homonoia/homonoia",
+      "version": "3.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sudzikcoin/versum-agent-assistant",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.apiauto-space/apiauto-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.usegithubthing/ugt",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reportingninja/reporting-ninja",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.43",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.61.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.golf-data/golf",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.homonoia/homonoia",
+      "version": "3.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.johnisanerd/successfactors-jobs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/lingo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reportingninja/reporting-ninja",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reportingninja/reporting-ninja",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.usegithubthing/ugt",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/tells",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.homonoia/homonoia",
+      "version": "3.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/aitab",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flatlandfi/flatland",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/slopscore",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.10.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/lingo",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.usegithubthing/ugt",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.browserssh/browser-ssh",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/tells",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.214.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.42",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/slopscore",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reportingninja/reporting-ninja",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/fluff",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reportingninja/reporting-ninja",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flatlandfi/flatland",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.corpusfetch/corpusfetch",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.usegithubthing/ugt",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.reportingninja/reporting-ninja",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.homonoia/homonoia",
+      "version": "3.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.homonoia/homonoia",
+      "version": "3.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.flatlandfi/flatland",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.homonoia/homonoia",
+      "version": "3.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clawhard/fluff",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "0.12.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cn.pianam.mcp/mcp-gateway",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.45",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.relayger/messaging",
+      "version": "0.13.20",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.userintuition/research",
+      "version": "1.4.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.danafitkowski/cpp-cpm-engine",
+      "version": "2.9.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Layropro/layro",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3004,
+  "vanished_version_records": 0
+}
