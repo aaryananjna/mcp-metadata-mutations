@@ -1,0 +1,253 @@
+{
+  "from": "2026-11-10",
+  "to": "2026-11-11",
+  "compared_version_records": 241390,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.bitbucket.markedet/agent-economy-data",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.plaro-kr/plaro",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.bitbucket.markedet/agent-economy-data",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.bitbucket.markedet/field-notes",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tinysend/tinysend",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.parad1gm/prism",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.suverse.versum/catalog",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.bitbucket.markedet/agent-economy-data",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.suverse.versum/catalog",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.murmurcomputing/murmur",
+      "version": "0.2.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.murmurcomputing/murmur",
+      "version": "0.2.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ardev-lab/fake-star-audit",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.parad1gm/prism",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.suverse.versum/catalog",
+      "version": "1.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.trooth/semanto",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.217.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.bitbucket.markedet/agent-economy-data",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.parad1gm/prism",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.44",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mlolahq/mlola-ui",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ilurennik/ilu-rennik",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ardev-lab/star-trajectory",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AlexReiner98/archipelago",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.63.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.ironwallet/mcp-server",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.floortomproductions-droid/agentx-x402-gateway",
+      "version": "0.7.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.augmentev/fabric-verify",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.trooth/semanto",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.bitbucket.markedet/agent-economy-data",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 5210,
+  "vanished_version_records": 0
+}
