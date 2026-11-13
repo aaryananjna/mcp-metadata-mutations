@@ -1,0 +1,589 @@
+{
+  "from": "2026-11-12",
+  "to": "2026-11-13",
+  "compared_version_records": 250567,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.topxea.ai/models",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.zenod/memory",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.grades/mcp",
+      "version": "0.28.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.topxea.ai/images",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.28.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cloudinary/asset-management-mcp",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sbrunner-atx/contest-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zenod/memory",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.47",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.28.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DaVinciPicks/davincibets-mcp",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiw3b.planlimits/plan-fit",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.grades/mcp",
+      "version": "0.29.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.34.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.3.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.27.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.grades/mcp",
+      "version": "0.26.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ishan73744/aurelmark",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.28.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.grades/mcp",
+      "version": "0.27.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.47",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.echelongraph/echelongraph-mcp",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.topxea.ai/videos",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.getrush/rush",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.3.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DaVinciPicks/davincibets-mcp",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.29.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.3.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.3.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.33.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.JackVitick/socialync",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.shveik/agmail",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sbrunner-atx/contest-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.som2026-commits/kestrova",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cloudinary/asset-management-mcp",
+      "version": "0.11.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ishan73744/aurelmark",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.grades/mcp",
+      "version": "0.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Kajdep/countrycallingcodesmcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.som2026-commits/kestrova",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.seanfenlon/abovo-mcp-server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.64.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Ishan73744/aurelmark",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.32.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.33.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.30.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.219.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.courtio/courtapi-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.getrush/rush",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cloudinary/asset-management-mcp",
+      "version": "0.11.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aiw3b.planlimits/plan-fit",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.cardscope/link-preview",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DanKaten/packageguard",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.26.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.allooloo/eco",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.greyridgesignals/business-verification-mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ning2yiyi/detailx",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DaVinciPicks/davincibets-mcp",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.28.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.OrygnsCode/omnicord",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.greyridgesignals/business-verification-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Kajdep/countrycallingcodesmcp",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.31.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.The-40-Thieves/obsidian-tc",
+      "version": "1.28.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sbrunner-atx/contest-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.neus/neus-mcp",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.zenod/memory",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 4603,
+  "vanished_version_records": 0
+}
