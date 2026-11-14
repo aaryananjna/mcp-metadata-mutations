@@ -1,0 +1,2215 @@
+{
+  "from": "2026-11-13",
+  "to": "2026-11-14",
+  "compared_version_records": 255170,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.sociality/sociality-mcp",
+      "version": "0.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cardealscore/dealscore",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cardealscore/dealscore",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.registry-desk/fr-sirene",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.bizgigz/agent-marketplace",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.charistas/posokanei-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.2xe/ask-emil",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.denegra.taskflow/taskflow",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.denegra.taskflow/taskflow",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bucharitesh/qrdx",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wheelerhubbell/whp-standing",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bucharitesh/qrdx",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "tax.zip/ziptax",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.currencyguard/guard-pricing",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ishan73744/aurelmark",
+      "version": "0.4.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.moncef00327-cloud/quantum-aether",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.34",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.moncef00327-cloud/quantum-aether",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ishan73744/aurelmark",
+      "version": "0.4.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.galacticbridge/radar-exit-check",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.bizgigz/agent-marketplace",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.itechsoftsolution16/feedlio",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.221.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.inite-ai/inite-brain-service",
+      "version": "2.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.denegra.taskflow/taskflow",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.48",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Hashlock-Tech/hashlock",
+      "version": "1.12.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.charistas/posokanei-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SirPaul-code/eviduct",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.galacticbridge/radar-exit-check",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ashtonforge/directory",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.38",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SirPaul-code/eviduct",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.dmytro-prototypes/cadbridge-mcp-autocad",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.galacticbridge/radar-exit-check",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.23",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vdi",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.7.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.moncef00327-cloud/quantum-aether",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.bizgigz/talent-ecosystem",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.31",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.8.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.64.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.5.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-debug",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-log-insight",
+      "version": "1.8.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aria",
+      "version": "1.5.27",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.bizgigz/talent-ecosystem",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.39",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.registry-desk/uk-companies-house",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.5.29",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.5.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-harden",
+      "version": "1.5.36",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-vks",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-pilot",
+      "version": "1.8.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-monitor",
+      "version": "1.5.30",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-aiops",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-nsx-security",
+      "version": "1.5.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-avi",
+      "version": "1.5.37",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.31",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zw008/vmware-storage",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 2479,
+  "vanished_version_records": 0
+}
