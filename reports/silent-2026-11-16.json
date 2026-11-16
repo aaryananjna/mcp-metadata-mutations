@@ -1,0 +1,541 @@
+{
+  "from": "2026-11-15",
+  "to": "2026-11-16",
+  "compared_version_records": 260850,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.ronrey/comos-federation",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.57",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sourcey/mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.troothllc/trooth-network",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.getbotlens/1845meat",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/comos-federation",
+      "version": "1.0.163",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.urbanmorph/bharatlas-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.3.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hergertsynthora/synthora-x402",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sumioshi/wacrew",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fluttersdk/dusk",
+      "version": "0.0.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.hergertsynthora/synthora-x402",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.7.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hergertsynthora/synthora-x402",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kawal393/apex-psi-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/comos-federation",
+      "version": "1.0.161",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.tonbifun/fixmyjson",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fluttersdk/ai",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rwaldman/agentbits",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.getopencrawl/opencrawl",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.thetavantage/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/comos-federation",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.getbotlens/donhuffines",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ariaxhan/tbs-teaching-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/federation",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Marcoco27/sentinelle-creances",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.65.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/comos-federation",
+      "version": "1.0.162",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.sslip.2-29-135-242/radar-agent-tools",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/federation",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hergertsynthora/synthora-x402",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "do.koru/koru",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "xyz.t0ll/toll",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.2ez4gcx/autocad-mcp",
+      "version": "1.2.0",
+      "from": "deprecated",
+      "to": "active"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.troothllc/trooth-network",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.sjh9714/journal",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Marcoco27/sentinelle-catnat",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fluttersdk/ai",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "org.signkaro/signkaro",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlfaBlok/precio-real",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Marcoco27/sentinelle-syndic",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fluttersdk/telescope",
+      "version": "0.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ronrey/federation",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.sslip.2-29-135-242/radar-agent-tools",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.urbanmorph/bharatlas-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/comos-federation",
+      "version": "1.0.164",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Marcoco27/biennial-update-sentinel",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.7.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Marcoco27/sentinelle-creances",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.3.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ronrey/federation",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fluttersdk/artisan",
+      "version": "0.0.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.troothllc/trooth-network",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.hotapi/docs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.7.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.sslip.2-29-135-242/radar-agent-tools",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.223.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.sslip.2-29-135-242/radar-agent-tools",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Round-Tower/m1k3",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Marcoco27/disaster-deadline-sentinel",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Marcoco27/sentinelle-oppositions",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.heyecco/ecco",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Marcoco27/sentinelle-phyto",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlfaBlok/towerwatch",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sourcey/mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nl.nationaleboekhoudmaatschappij/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sumioshi/wacrew",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.heyecco/ecco",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AlfaBlok/yield-desk",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.2ez4gcx/construction-autocad-mcp",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.troothllc/trooth-network",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.troothllc/trooth-network",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "fr.mesloisirs/recherche",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.garlicKim21/ratatosk-mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hergertsynthora/synthora-x402",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 4175,
+  "vanished_version_records": 0
+}
