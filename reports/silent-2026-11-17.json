@@ -1,0 +1,571 @@
+{
+  "from": "2026-11-16",
+  "to": "2026-11-17",
+  "compared_version_records": 265025,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ekdh600/korean-quotation-demo",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whiteknightonhorse/apibase",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.diagrid/catalyst",
+      "version": "0.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.224.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "archi.den/den_archi_mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.zerowidth/compass",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kawal393/apex-psi-mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.agentgates/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "archi.den/den_archi_mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alexanderdandrea-art/italian-company-check",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.zerowidth/caliper",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.kenoodl/verify",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.agentgates/mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.fetchrelay/fetchrelay",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.vibecom/growth",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alejandrosml/timbre",
+      "version": "0.7.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mervenor/eol-check-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whiteknightonhorse/apibase",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.dtmframe/dtmframe",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.zerowidth/zerowidth",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.llpro/campus",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.techpartprices/catalogue",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IdoAzaCalls/cron-explainer",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.vibecom/growth",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ethanhawkes-gif/agent-provider-depot",
+      "version": "0.13.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alexanderdandrea-art/italian-company-check",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hashlock-Tech/hashlock",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ethanhawkes-gif/agent-provider-depot",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "archi.den/den_archi_mcp",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "archi.den/den_archi_mcp",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.zerowidth/ledger",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.dtmframe/dtmframe",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kawal393/apex-psi-mcp",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "archi.den/den_archi_mcp",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jasonstockman/warmio",
+      "version": "7.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mithgalalfayez/nullclear",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "nl.struq/struq",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.bidda/bidda-compliance",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.llpro.countersign/countersign",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nl.struq/struq",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "archi.den/den_archi_mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ethanhawkes-gif/agent-provider-depot",
+      "version": "0.13.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whiteknightonhorse/apibase",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.kenoodl/verify",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alejandrosml/timbre",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IdoAzaCalls/cron-explainer",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.quayutec/quayutec",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "build.co/cobuild",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.dtmframe/dtmframe",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.66.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.vibecom/growth",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.llpro.gt/ground-truth-worldwide",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.639cloud/shell",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ekdh600/korean-quotation-demo",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.legitreviews/legitreviews",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.agentgates/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "br.com.designmaster/dmcommerce",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.zerowidth/workbench",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alejandrosml/timbre",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/silverfin",
+      "version": "1.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.vibecom/growth",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "nl.struq/struq",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.zerowidth/prism",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.zerowidth/napkin",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.llpro.agentrecord/agent-record",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alejandrosml/timbre",
+      "version": "0.7.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alejandrosml/timbre",
+      "version": "0.6.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.51",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alexanderdandrea-art/italian-company-check",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.usefulapi/fieldedge",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 4084,
+  "vanished_version_records": 0
+}
