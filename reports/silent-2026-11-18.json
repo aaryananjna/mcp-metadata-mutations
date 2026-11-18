@@ -1,0 +1,1159 @@
+{
+  "from": "2026-11-17",
+  "to": "2026-11-18",
+  "compared_version_records": 269109,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.xmasdong/mazediy-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.38.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.22.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mindcase-co/mindcase",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.thejunix.moc/laser-studio",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.28.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/onchain",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.pouch/agents",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.37.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.39.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ownyouragent/agentvoordeur",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.30.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/quotes",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.38.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/boulevard",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/meevo",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.29.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.19.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/pulse",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.engine/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.26.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/pulse",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.38.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.55",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.15.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.41.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.20.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.39.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.pouch/agents",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.27.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.12.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.cotlet/boulevard",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sfxmint/sounds",
+      "version": "1.12.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ctrlpi/mcp-bridge",
+      "version": "0.9.31",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/boulevard",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bluebox-hq/bluebox",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.cotlet/meevo",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/social",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.35.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.modern-ai-inc/w0-mcp-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.19.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.perfloop/perfloop",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Hashlock-Tech/hashlock",
+      "version": "1.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.68.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/wiki",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.18.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.19.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.htmlradar/share",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/reader",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/companies",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.grtwo-jcansler/docs",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.37.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.15.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/pulse",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/domains",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.21.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.parthsevak2/curb-cut-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.a1476/verateca",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/search",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ownyouragent/agentvoordeur",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/pkgs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/onchain",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.pitchai.skybuyfly/skybuyfly",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.liftmcp/platform",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.ownyouragent/agentvoordeur",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.12.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.microtools-x402.x402-email-verifier/email-verifier",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.37.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.15.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.12.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.fdcommercial/property-finance-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/appfolio",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.draconic/market-intelligence",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.26.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.23.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zhiyuanvision-lang/inkmap",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.19.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.14.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.25.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.numbru/client-compass",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.21.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/onchain",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/arxiv",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.8.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/meevo",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.36.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ownyouragent/agentvoordeur",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.38.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/social",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gr.bestprice/mcp",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.apunt/aranes",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.8.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.modern-ai-inc/w0-mcp-server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ilusiv-media/fyug-hosted",
+      "version": "2026.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.8.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ilusiv-media/fyug",
+      "version": "2026.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/appfolio",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.microtools-x402.x402-dns-auth-checker/dns-auth-checker",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bolthub/mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.38.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.bitcoinyield/yields",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.pages.scrapemole/reader",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.37.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sisense/sisense-mcp-server",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/pulse",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aidatatools-dev/astro-agents",
+      "version": "1.8.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.peturgeorgievv-factory/postfast-mcp",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/appfolio",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.To0wnn/knowledge",
+      "version": "0.38.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.pages.scrapemole/domains",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 5773,
+  "vanished_version_records": 0
+}
