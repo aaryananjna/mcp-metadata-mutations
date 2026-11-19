@@ -1,0 +1,583 @@
+{
+  "from": "2026-11-18",
+  "to": "2026-11-19",
+  "compared_version_records": 274882,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.govconapi/govconapi",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.68.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.azorkai/crmsolid-mcp",
+      "version": "0.1.4-1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dominik1001/caldav-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.R2Rlabs/hyperliquid-reins",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.adityankale190895/diffci",
+      "version": "0.2.9",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.2.1",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.4.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.metri-diary/metri",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.uptimemonitoring/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.imperioutils/fisco-it",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.krabiclaw/krabiclaw",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Hashlock-Tech/hashlock",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.veriacta/law",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.openrepro/ledger",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.2.0",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sonarmood/sonar",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.imperioutils/fisco-it",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.diofis/babelii",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AnshumanAtrey/job-boards-search",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.adityankale190895/diffci",
+      "version": "0.2.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AnshumanAtrey/job-boards-search",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.13.32",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.netnestdesign/fundamentals",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.neuroencoder/eeg-embeddings",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.4.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.imperioutils/fisco-it",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.1.2",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.imperioutils/fisco-it",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.dominik1001/carddav-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.227.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.2.2",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.uptimemonitoring/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "es.cesaryague/paki-curator",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.openrepro/ledger",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.netnestdesign/fundamentals",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sonarmood/sonar",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.openrepro/ledger",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Allanoo99/mizan",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.krabiclaw/krabiclaw",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.uptimemonitoring/mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.SpaceFrontiers/mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.R2Rlabs/hyperliquid-reins",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.imperioutils/fisco-it",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.azorkai/crmsolid-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.R2Rlabs/hyperliquid-reins",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.1.1",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.sonarmood/sonar",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.neuroencoder/eeg-embeddings",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "sh.while/while",
+      "version": "2.1.0",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "me.walalook/tools",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nukafever-lab/nukafever",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.azorkai/crmsolid-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.thingspool/thingspool",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jessemarshall/coalesce-transform",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 3143,
+  "vanished_version_records": 0
+}
