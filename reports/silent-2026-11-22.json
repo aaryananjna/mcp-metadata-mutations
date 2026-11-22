@@ -1,0 +1,1120 @@
+{
+  "from": "2026-11-21",
+  "to": "2026-11-22",
+  "compared_version_records": 284537,
+  "silent_edits": [
+    {
+      "server": "ai.marketintell/marketintell",
+      "version": "0.3.1",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "04fa3baffa61a0b38588bf8a7e33d684ebe52e6a4e796f5e4ec5a29f9dba5848",
+      "new_content_hash": "598447c4185025dab3bbb322e5a19ce74d85ce58d8dea62160f03c1acf187f42"
+    },
+    {
+      "server": "io.github.ycjcl868/mcp-server-fear-greed",
+      "version": "1.0.2",
+      "transitions": [],
+      "updated_at_moved": true,
+      "old_content_hash": "c1e54049520588ffbbc4df14325c8f71564613591ef0c8494a315c22a2e86d6a",
+      "new_content_hash": "967da37b828e9379e00783badec476718cffbd82f8b2817b0883922717f2b852"
+    },
+    {
+      "server": "io.github.bytedance/mcp-server-commands",
+      "version": "1.0.0",
+      "transitions": [],
+      "updated_at_moved": true,
+      "old_content_hash": "e8736a151f096233ca0f5e108ab7a81e4079850b51d0c2b3af17cd4c93171383",
+      "new_content_hash": "738ae868fed9d13d59f3b42ba84cbabadd3501f8ee8af4ef18aec83d514c37a4"
+    },
+    {
+      "server": "io.github.bytedance/mcp-server-filesystem",
+      "version": "1.0.0",
+      "transitions": [],
+      "updated_at_moved": true,
+      "old_content_hash": "7040fa715dee178a75ffef065739fe14b97872ecde7b6541b3f8c57682b88408",
+      "new_content_hash": "2bf3f4f69bf6ef68b954c8237fed90b283cfe1909c76b43d194bda1203ceb82d"
+    },
+    {
+      "server": "io.github.bytedance/mcp-server-search",
+      "version": "1.0.0",
+      "transitions": [],
+      "updated_at_moved": true,
+      "old_content_hash": "5f4b05ecf78fe5071502a4c2f1f1bd8df357a97830815af049c3c0f749c66587",
+      "new_content_hash": "218d5357b8c37e92c3425aa7c4673d0a2db3a588f6ad8a0f2b86929af1c47765"
+    },
+    {
+      "server": "io.github.bytedance/mcp-server-browser",
+      "version": "1.0.0",
+      "transitions": [],
+      "updated_at_moved": true,
+      "old_content_hash": "c38e9be007a58336c781f7704de7617e7dfd2b536bb9bbf869a44f48c2dc221b",
+      "new_content_hash": "86181fa4bbf29aee7ee36b97103d5c6eab9a925a822c8b35feaa83e76e7a5318"
+    }
+  ],
+  "silent_edit_count": 6,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.5.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.polarka/polarka-agent",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arpe-io/lakexpress-mcp",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.neverinfamous/sqlite-mcp-server",
+      "version": "2.6.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.unifiedoffer/mcp-server",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arpe-io/lakexpress-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aryanduntley/aifp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.meetstream-ai/meetstream-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.dinglebear/tailscale-rmcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cope-Labs/selvo",
+      "version": "2.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arpe-io/fasttransfer-mcp",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nicholasohjj/nusaircon",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "de.netzhandwerker.energy/research-hub",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.PostHog/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.collapseindex/ci1t-mcp",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Tolomere21/latam-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.KazKozDev/search",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.itemtopia/itemtopia-pro",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bgorzelic/ghostlink",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.60",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.unifiedoffer/mcp-server",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.dinglebear/unifi-rmcp",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.32.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.leadpoet/leadpoet",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.veriacta/law",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.peakcam/snow",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.allooloo/issuerwire",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.PostHog/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.dinglebear/cortex-rmcp",
+      "version": "3.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.6.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.allooloo/issuerwire",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.diofis/babelii-account",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.dinglebear/gotify-rmcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.re-agents/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.140.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.adamhudson777/filingrail-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pavelpiha/specrun",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.adamhudson777/filingrail-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.5.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.32.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.terminalis/appcraft",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.SyncTekLLC/ghostqa",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.allooloo/issuerwire",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.gaviwhatsapp/whatsapp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.unifiedoffer/mcp-server",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arpe-io/migratorxpress-mcp",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.oaslananka/composer",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.zsign/zsign",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arpe-io/fasttransfer-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.25",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.afi/planner",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arpe-io/migratorxpress-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.zsign/zsign",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.glitchexecutor.grow/glitch-grow-linkedin-ad-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.serdaroztetik/call-me",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.afsozer/dayanak",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "app.railway.up.autopay-site-production/autopay",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.dinglebear/apprise-rmcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.oaslananka/sentinel",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.agent402-dev/a402-pay-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.6.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "org.polarka/polarka-agent",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.zsign/zsign",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ramaris-app/mcp-server",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "app.railway.up.autopay-site-production/autopay",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.subhatta123/twilize",
+      "version": "0.34.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.dinglebear/yarr-mcp",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Cope-Labs/selvo",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.dinglebear/ytdl-rmcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.scopeblind/protect-mcp",
+      "version": "0.32.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.allooloo/issuerwire",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cognitivemyriad/verified-repo-memory",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Cope-Labs/selvo",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jamesrez/valoria-intelligence",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ramaris-app/mcp-server",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.cyclixagents/jimu",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.diofis/babelii",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.arpe-io/fastbcp-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jamesrez/valoria-intelligence",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.zsign/zsign",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.dinglebear/synapse-rmcp",
+      "version": "0.5.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "de.netzhandwerker.energy/research-hub",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.paidwithtab/tab",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.adamhudson777/filingrail-mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.meetstream-ai/meetstream-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.dinglebear/unraid-rmcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.littlebearapps/outlook-mcp",
+      "version": "3.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.19",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.dinglebear/arcane-rmcp",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.PostHog/mcp",
+      "version": "0.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.dataraum/dataraum",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.gener8v-thomas/mcp-geographic-data",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.agent402-dev/a402-check-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.diofis/babelii-account",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "net.diofis/babelii-support",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.olane/cosync-local",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.leadpoet/leadpoet",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.terminalis/appcraft",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.TsukimioRinka/agg-search",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ramaris-app/mcp-server",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Ratnaditya-J/spineframe",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "4.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.anara123/weather",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cognitivemyriad/verified-repo-memory",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.arpe-io/fastbcp-mcp",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.cyclixagents/jimu",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nicholasohjj/nusaircon",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/code-review-analyst",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.3.26",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.leadpoet/leadpoet",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.meetstream-ai/meetstream-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ShirBarZur/planform-mcp",
+      "version": "1.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.232.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.hhopke/intervals-icu-mcp",
+      "version": "5.3.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 2281,
+  "vanished_version_records": 0
+}
