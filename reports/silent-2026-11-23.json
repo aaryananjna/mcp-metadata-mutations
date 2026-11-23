@@ -1,0 +1,4758 @@
+{
+  "from": "2026-11-22",
+  "to": "2026-11-23",
+  "compared_version_records": 286818,
+  "silent_edits": [
+    {
+      "server": "io.github.writerslogic/holographic-memory-mcp",
+      "version": "0.1.2",
+      "transitions": [
+        "package_registry_switch"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "93408e9dc006d629da956ff8c45a88788b3b9a0862fb71a19bd8db4cb51a32a8",
+      "new_content_hash": "94d1e55635d1f2e2b89a1debc873d3949e478d2ef33cf2ad1cec237cd65817c9"
+    },
+    {
+      "server": "io.github.writerslogic/holographic-memory-mcp",
+      "version": "0.1.0",
+      "transitions": [
+        "package_registry_switch"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "2d44778b7a8ae324f8a1e941cf40e43cadd58f2e0165c71e0f992e9c7a499132",
+      "new_content_hash": "bc6c85b603699a3698f74286387944bba4b70574ff807f7077a1547400918c5e"
+    },
+    {
+      "server": "io.github.tlkc888-Jenkins/joy",
+      "version": "2.40.0",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "091369d5000b8c537ca946885816f0197218fb600760761f361420e1ca954b97",
+      "new_content_hash": "2c562fbb1d6f72194cb1bb96df2c8a224bf52b1f43a2a31b4822c3c115b0725a"
+    },
+    {
+      "server": "io.github.writerslogic/holographic-memory-mcp",
+      "version": "0.1.1",
+      "transitions": [
+        "package_registry_switch"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "2fb646dc3225c7d27d467ced6681087519b5784d60bbc856fad41589afbb79f9",
+      "new_content_hash": "8475f1b92ae72a92d5f5d60d5ffff4ec7fda0293e876d8ffd49a47f47db08d34"
+    }
+  ],
+  "silent_edit_count": 4,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.5.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.JoblessJoe/local-llm-worker",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ChatPush/mcp-chatpush",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.datasnack/datasnack",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.7.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.32",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Oratorian/discord-node-mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.10.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.66.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.5.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.5.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/email-deliverability-mcp",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.khadinakbaronline/telegram-channel-scraper-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.erc8126scan/agent-verification",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.twvs/twvs-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/package-hallucination-slopsquat-guard-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.efranceschetti/festo-codesys-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.62.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.bumptobabysa/bumptobaby-mcp",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pardhuparimi/backroom",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/b2b-lead-signal-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.christerso/celestial-node",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/strajkpolski-mcp",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.8.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beremaran/godot-agent-loop",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zguiyang/pi-worker-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "version": "2.2.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.21.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.45.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beepboop2025/data-breach-detector",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/mcp-credit-score-uptime-rugpull-registry-mcp",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AION-Analytics/aion-news-to-signal",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/rulestack",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.briangaoo/totem",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/strajkpolski-mcp",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/turkish-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.14.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.carwallet/carwallet-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.autocarena/auctions",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/email-deliverability-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "in.nebulatech/nebula",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.briangaoo/totem",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/korea-import-customs-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.73",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.17.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/hyperliquid-polymarket-builder-code-perp-mcp",
+      "version": "2.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.31",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-health-monitor",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "vn.eno/partner-api",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.californiabitcoin/agent-commerce",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.6.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.finstat/finstat",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.digitamaz/clarvia",
+      "version": "1.1.0-rc.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "vn.eno/search",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.88.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-pm",
+      "version": "2.14.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whitestone1121-web/signalbrain",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.18.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-debug-recorder",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/malaysian-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/civicbinder",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zeluizr/vtex-io-mcp",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.9.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.10.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beremaran/godot-agent-loop",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vasperamemory",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.0.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.18",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fm.lightning/lightning-fm-mcp",
+      "version": "0.1.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "co.codeways/codeways-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Coalesce-Software-Inc/coalesce-transform",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/tunisian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "version": "2.2.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.terrax3d/terrax3d-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.a1245582339/figma-designer",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.66",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/tanzanian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/b2b-lead-signal-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.47.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.64.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.43.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.crewhaus/validation",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/australian-law-mcp",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.9.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.phuongddx/codeintel",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/southafrica-law-mcp",
+      "version": "1.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.mylearners/k53-copilot-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "version": "1.3.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.nightmoose/contractgate",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.9.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.24",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Dw-Dwain/ace-context-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/philippine-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.57.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sjapr76/makerhint",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/email-deliverability-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.14.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/scriptprobe",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/mcp-apps-interactive-defi-checkout-ui-mcp",
+      "version": "2.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/switzerland-law-mcp",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/defai-intent-solver-yield-optimizer-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/singapore-law-mcp",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.13.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.98.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/vietnamese-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.3.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.53.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/marocain-mcp-server",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.30",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.5.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.16.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-infra-lens",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.flashshot/flashshot-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.10.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Oratorian/discord-node-mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.smart-deal-calculator/korea-hs-code-excise-customs-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.10.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.7.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/token-honeypot-firewall-dex-router-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.phuongddx/codeintel",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KSAklfszf921/skolverket-mcp",
+      "version": "2.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.datasnack/datasnack",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.6.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.needwing/needwing",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/compound-mcp",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "eu.ansvar/ecuadorian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.getquario/mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.partstable/partstable",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.20",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.92.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.98.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.email-security-deliverability-grader/domain-age-rdap-spf-dmarc-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/russian-law-mcp",
+      "version": "0.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/kitgrade",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.90.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.48",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.phuongddx/codeintel",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.walensis-labs/mcp-for-ynab",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.codeways/codeways-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.arranged/arranged-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/india-law-mcp",
+      "version": "1.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/uae-law-mcp",
+      "version": "1.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whitestone1121-web/signalbrain",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.akihidem/japan-hands",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.sendseven/messaging",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Sohlin2/freelance-os",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.autocarena/auctions",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.OmniGoAI/omnipost",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.re5examprep/re5-copilot-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.12.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.guestdropalbum/guestdrop-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/patent-prior-art-biotech-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.magsnap/magsnap-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-pm",
+      "version": "2.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Karniej/vidnotes",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.meetstream-ai/meetstream-mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.5.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.erc8126scan/erc8126-scan",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/goodstanding",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.95.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alexcloudstar/makers-page-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/ghana-law-mcp",
+      "version": "1.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.greencyclepedia/atlas",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.omkardongre/veilquota",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.marianfoo/mcp-sap-docs",
+      "version": "0.3.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.15.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vitaliyyun/iban-analyzer",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.lettance/account",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beepboop2025/data-breach-detector",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "za.co.buildingcompliance/buildingcompliance-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.51.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beepboop2025/data-breach-detector",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "za.co.plancomply/plancomply-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/defi-funding-arbitrage-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.59.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.bumptobabysa/bumptobaby-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/botswana-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.cybercentry/erc-8126-scan",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.21",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.90.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.awardsecrets/award-availability",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.22",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pzep1/mcp-meet",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.thebrettacademy/brettacademy-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.twvs/twvs-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.gearandglam/gearandglam-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.18.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/compute-energy-grid-carbon-robotics-oracle-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.8.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.7.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.lettance/account",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.53.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mjandrews1/c3fst-biomedical-search",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.7.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-clawhub",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.calnflow/snapclap-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-shopify",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.shmindmaster/repocontext",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rogiervdbrnk/mcp-real-estate-server",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.19.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.JoblessJoe/local-llm-worker",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.14.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.digitamaz/clarvia",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.19.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.60.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/uspto-mcp-server",
+      "version": "0.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.95.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/ugandan-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zeluizr/adobe-commerce-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beepboop2025/data-breach-detector",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "eu.ansvar/indonesian-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.49.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.digitamaz/clarvia",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rogiervdbrnk/mcp-real-estate-server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.13.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.codeways/codeways-mcp",
+      "version": "2.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.infraveilhq/agent-guard",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.imashishkh21/atlaso",
+      "version": "0.1.0a5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shreyassaw5394/dea",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.7.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.69.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sriinnu/tokmeter",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/erc-8004-trustless-agent-identity-reputation-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/nepal-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.yellow-hammer/mcp-1c-platform-tools",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ayers-software-repair/lancelot",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shreyassaw5394/dea",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.guestdropalbum/guestdrop-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.lettance/account",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "1.12.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/namibian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/skillworks",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KSAklfszf921/skolverket-mcp",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/zimbabwe-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.86.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.90.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "2.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/moroccan-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.YawLabs/nol-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-hardening",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/defi-funding-arbitrage-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.partstable/partstable",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.buikevin/galaxy-design-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "co.codeways/co-za-whois-dns",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.15.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.meltingpixelsai/drainbrain",
+      "version": "1.0.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.aguago/aguago-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.briangaoo/totem",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.plancomply/plancomply-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.50.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.bumptobabysa/bumptobaby-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.meestierolff/rankbyai",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.sendseven/messaging",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Coalesce-Software-Inc/coalesce-transform",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.19",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sendseven/messaging",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "za.co.gearandglam/gearandglam-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shreyassaw5394/dea",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.12.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/mozambican-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fm.lightning/lightning-fm-mcp",
+      "version": "0.1.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.87.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.49",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "1.12.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.j0hanz/filesystem-context",
+      "version": "1.0.9",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.10.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.aeoauditing/aeo-auditor-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.10.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "org.californiabitcoin/agent-commerce",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Ansvar-Systems/ot-security-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "org.californiabitcoin/agent-commerce",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rogiervdbrnk/mcp-real-estate-server",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sendseven/messaging",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/erc-7715-session-key-smart-account-spend-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/strajkpolski-mcp",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/compound-mcp",
+      "version": "0.4.0",
+      "from": "deleted",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-wise",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/senegalese-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.33",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.72",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.52.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.yakuphanycl/instinct",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ByWaleed/onyx-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.97.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "vn.eno/partner-api",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.67.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.7.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.yomitasu/orecen-com",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.79",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.5.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.PsYcGoD/sage",
+      "version": "1.0.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sendsoon/ai",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.imashishkh21/atlaso",
+      "version": "0.1.0a6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.2.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.yellow-hammer/mcp-1c-platform-tools",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ThomasViennet/referencime",
+      "version": "2.0.9",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.8.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.1.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rogiervdbrnk/mcp-real-estate-server",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sendseven/messaging",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.234.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/polymarket-kalshi-arbitrage-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.58.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.94.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.lettance/account",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.26",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.94.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/strajkpolski-mcp",
+      "version": "0.3.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/ivorian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.foodcompliance/foodcompliance-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.5.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-pm",
+      "version": "2.13.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.afable702/vault-mcp-tools",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.KSAklfszf921/skolverket-mcp",
+      "version": "2.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.arranged/arranged-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.vncsleal/openplan",
+      "version": "0.1.22",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.lettance/account",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cadlens-co/cadlens-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.email-security-deliverability-grader/email-verification-dmarc-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/yield-bearing-rwa-treasury-cross-chain-bridge-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/strajkpolski-mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.23",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.b2b-intel-rapidapi-worker/b2b-lead-sec-form-d-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-health-monitor",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.10.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.whoisbringing/whoisbringing-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.9.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.5.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.69.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.theoddden/atomic-clock",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "run.pantheon/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/kenya-law-mcp",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alanwang100/jizhineng-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MassRelayAI/comparegraph",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.14.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/jordanian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "vn.eno/partner-api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "lt.macron/shop",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kevindarstNBB/board-and-stable-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.greencyclepedia/atlas",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.8.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "vn.eno/search",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "za.co.magsnap/magsnap-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/openlookup",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/ethiopian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/zambian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.18",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.webuyclubz/webuyclubz-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.checkra1neth/xbird",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.76",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.15.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whitestone1121-web/signalbrain",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.murmurcomputing/murmur",
+      "version": "0.2.28",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.intencion/mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/sbom-cve-cisa-security-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.titov-d/agentdocs",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.phuongddx/codeintel",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.akihidem/japan-hands",
+      "version": "1.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.phuongddx/codeintel",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.29",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.54",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-web-x402-gateway/web-scrape-search-firecrawl-x402-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.datasnack/datasnack",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.star-meet/mcp-starmeet",
+      "version": "1.2.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ribato22/baton",
+      "version": "0.2.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.VRhodes68/temporal-continuity",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.seojeom/seojeom-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Mehmoodqureshi/figma-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pardhuparimi/backroom",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sravanism/esrp-mcp-server-test",
+      "version": "0.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kedarvartak/md-md",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.thebrettacademy/brettacademy-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.albertbolanoss/labs_mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.useventuri/venturi",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/srilanka-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.13.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.63.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.infai-tech/vulnfeed",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.digitamaz/clarvia",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.gmbsync/gmbsync-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.carwallet/carwallet-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.foodcompliance/foodcompliance-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Aimino-Tech/fast-html-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.smart-deal-calculator/korea-customs-aliexpress-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.13.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.4.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.temrjan/rustok-wallet",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.69.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.18.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.70",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.sec-biotech-priorart-gateway/mcp-tool-poisoning-prompt-injection-eu-ai-act-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/tooldrift",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/elizaos-agentkit-defi-polymarket-router-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/evm-dex-swap-hyperliquid-sniper-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.8.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.56.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.getquario/mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/stillshipping",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.infraveilhq/agent-guard",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-infra-lens",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.globallayer/mcp-server",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.28",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.15.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.48.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.omkardongre/veilquota",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.sendseven/messaging",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.deployit/product-expert",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-pm",
+      "version": "2.14.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.yakuphanycl/instinct",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.yakuphanycl/instinct",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/defi-funding-arbitrage-mcp",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ThomasViennet/referencime",
+      "version": "2.0.8",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.mountainmystic/hedera-hcs-mcp-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/parserail-mcp",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.bryantclark/cougarmap",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/cameroonian-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.shinzarou-eng/dsh-codebase-chat",
+      "version": "0.10.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/blockdex",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.YawLabs/nol-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rogiervdbrnk/mcp-real-estate-server",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "2.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.cybercentry/erc-8126-scan",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.90.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.51",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Snehgabani/elite-reasoning-mcp",
+      "version": "8.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.27",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.68",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.53",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.christerso/celestial-node",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.10.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/eip-7702-smart-wallet-passkey-gas-optimizer-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.9.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.pugi/pugi",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/impermanent-loss-liquidation-funding-rate-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Ansvar-Systems/us-regulations-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.5.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.aguago/aguago-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.oaslananka/mcp-ssh-tool",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexxanddr/italian-bus-search",
+      "version": "0.1.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "live.rankbyai/rankbyai",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.61.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.re5examprep/re5-copilot-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.mylearners/k53-copilot-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.omkardongre/veilquota",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.7.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/dominican-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pedroknigge/ark",
+      "version": "1.11.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.walensis-labs/mcp-for-ynab",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sonofakel/santuri",
+      "version": "1.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.5.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.98.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.forever-healthy/evidence-mcp",
+      "version": "0.2.35",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beepboop2025/data-breach-detector",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-vault",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.meetingpoll/meetingpoll-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.12.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jitsmaster/ctnp-mcp",
+      "version": "0.7.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/argentine-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.itechsoftsolution16/feedlio",
+      "version": "0.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/evm-tx-simulate-allowance-rebalance-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whitestone1121-web/signalbrain",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.GRU-953/dev953",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.GRU-953/gru953-crew",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.stablecoingateways/compliance-data",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.rogiervdbrnk/mcp-real-estate-server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.uckhill/sidequest",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Coalesce-Software-Inc/coalesce-transform",
+      "version": "0.9.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "org.californiabitcoin/agent-commerce",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-pm",
+      "version": "2.14.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.20.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.46",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.regfarm/regfarm-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.61",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aeoauditing/aeo-auditor-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.16.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MerzoukeMansouri/mozaic",
+      "version": "2.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/compound-mcp",
+      "version": "0.5.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-pm",
+      "version": "2.13.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.flashshot/flashshot-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/malawi-law-mcp",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pasichDev/todo-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.20.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.beepboop2025/data-breach-detector",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.68.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/thailand-law-mcp",
+      "version": "1.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/cartography",
+      "version": "2.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/compound-mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.finhay/mcp-server",
+      "version": "1.0.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.CodeLogicIncEngineering/codelogic-mcp-server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.agent-spend-guard/zk-provenance-web-bot-auth-kyb-escrow-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/korea-import-customs-mcp",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "tech.thecompound/stacktab",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.noamjose/schemasure",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.JoblessJoe/local-llm-worker",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.briangaoo/totem",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/newzealand-law-mcp",
+      "version": "1.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AllocContext/alloc-context",
+      "version": "0.2.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.veriacta/law",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.65.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.IndirectTek/mcp-server",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.meltingpixelsai/drainbrain",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.twzrd-sol/twzrd-agent-intel",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.5.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kryptobaseddev/cleo-mcp-server",
+      "version": "0.94.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.13.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Alexendros/proton-mail-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "fm.lightning/lightning-fm-mcp",
+      "version": "0.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.12.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.ebrbe/agency-compute-ledger",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.datasnack/datasnack",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.alptekin/evolutiondb-memory",
+      "version": "1.12.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.10.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.54.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.openpoem/spec-score-mcp",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.workers.b2bintel-edge.defi-route-intel/flashbots-mev-polymarket-clob-kelly-criterion-mcp",
+      "version": "2.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.darknodebros/elesync",
+      "version": "1.23.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.datasynx/agentic-ai-shadowing",
+      "version": "2.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Karniej/vidnotes",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.whoisbringing/whoisbringing-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.authzx/mcp-gateway",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.whitestone1121-web/signalbrain",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/korea-import-customs-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "studio.kynth/core",
+      "version": "0.3.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.44.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Hei33enberg/strajkpolski-mcp",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/nigeria-law-mcp",
+      "version": "1.0.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.lofder/dsers-mcp-product",
+      "version": "1.4.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.meetingpoll/meetingpoll-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-wheel-size",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.amirj4m/jamgate",
+      "version": "0.10.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.sonofakel/santuri",
+      "version": "1.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-cal",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.BeakDo/b2b-lead-signal-mcp",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.infraveilhq/control-plane",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/israel-law-mcp",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.RCOLKITT/vaspera-hardening",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "eu.ansvar/us-regulations-mcp",
+      "version": "1.2.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.webuyclubz/webuyclubz-mcp",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.DamianTodorovic/kepta",
+      "version": "2.6.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "za.co.buildingcompliance/buildingcompliance-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.AIWerk/mcp-server-imap",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.feder-cr/aihawk",
+      "version": "0.55.0",
+      "from": "active",
+      "to": "deleted"
+    }
+  ],
+  "new_version_records": 3715,
+  "vanished_version_records": 0
+}
