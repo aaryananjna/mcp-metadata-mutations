@@ -1,0 +1,2128 @@
+{
+  "from": "2026-11-23",
+  "to": "2026-11-24",
+  "compared_version_records": 290533,
+  "silent_edits": [
+    {
+      "server": "io.github.vaquarkhan/mcp-bastion",
+      "version": "1.0.10",
+      "transitions": [
+        "package_registry_switch",
+        "package_identifier_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "945c739ead7d85e2331e621921c65abd969a5b50faddc5dd94c3606487498c59",
+      "new_content_hash": "ecdd409083a98ad3b990fd7740a1655b33e665aacb455f5dbb3bc3b0d64ca518"
+    },
+    {
+      "server": "io.conttrole/mcp",
+      "version": "1.8.1",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "da75e340238d0ca089f5246736adf731af456d723afd4aec2d009c63dec3bdeb",
+      "new_content_hash": "d613bb3ccf76a0367b95774a34b350ef3451f8b992ea86abd366653369d18363"
+    },
+    {
+      "server": "dev.whiteintel/whiteintel",
+      "version": "0.7.7",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "bc21f9f9fcb34e7f70097ae3ed0eda650cb6ee23c7e16752b41898805726bb31",
+      "new_content_hash": "b7ba94b2ac1bf9bebf56e3e9a58b74b3a86b3c9a620ef3fe378964fad5468528"
+    },
+    {
+      "server": "ai.topy/ceo",
+      "version": "0.2.0",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "e30f65bbc1c15435ce7a93b99e7dc16079ab8305579a2f747ccb4f40dbfd291e",
+      "new_content_hash": "7652a5314dd1a4505d924014313c08072167bd88b023ef78006f52cb086d7af3"
+    },
+    {
+      "server": "io.github.abenassi/argentina-data",
+      "version": "0.5.0",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "3b5c733aac93dd8ce5cb4c53258540ded1999ba2ffaab7cbe6fb94834286578d",
+      "new_content_hash": "9ca8092211642d28567809b3293273ab22b49c041780dd92dde26cc59a9d5266"
+    },
+    {
+      "server": "io.conttrole/mcp",
+      "version": "1.8.2",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "4eb6c09373dbc19203d33f904ceacc7d41b6687047f61c21f3238673e12aa376",
+      "new_content_hash": "921fe0c8fffa461dcb4e473b12c7e858fd56a45c1c51f5d33583e3fddb15cf05"
+    },
+    {
+      "server": "io.github.vaquarkhan/mcp-bastion",
+      "version": "1.0.11",
+      "transitions": [
+        "package_registry_switch",
+        "package_identifier_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "abda8c042633527198e3db328f92bda3f425725771bddf6662cc470954c50075",
+      "new_content_hash": "f9f5060f7f710c87e6d5795c793e67436533a2570b8d967ced3bf39e06dc892e"
+    },
+    {
+      "server": "dev.whiteintel/whiteintel",
+      "version": "0.7.9",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "ceccbb916c9489db0b8de53c2899a82b9be23398bf6c88539ab860ee3a5ef577",
+      "new_content_hash": "341f12cd344e86bf3dfd78bd4f99b4e595ae7592a84a14a3748a3e1c5311c816"
+    },
+    {
+      "server": "io.github.scratchpad-sh/scratchpad",
+      "version": "1.0.0",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "4c714700fce214cf8e4b829b11de1739bcb417832f12401421035ec0a4859217",
+      "new_content_hash": "f9093501f235e7d480535a054fe3278e554760e6337715a74ffd97faae1a95a4"
+    },
+    {
+      "server": "ai.topy/ceo",
+      "version": "0.1.0",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "3140d855799341f4f7f71f29c1be3218cd07a731817e576fa7d1162a5f059fad",
+      "new_content_hash": "e469c8ab9157d12c23a64f08d559e5b39c7893282367b05118af38a194b72979"
+    },
+    {
+      "server": "io.conttrole/mcp",
+      "version": "1.8.0",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "138094d7c501627ec32067168f9c88e074327e6a1d7af51df6304bdb0b1fd243",
+      "new_content_hash": "da07b6938e488c3be675115d6a4a1ebcd96c1185c762d97a25f8da7915bffea1"
+    },
+    {
+      "server": "dev.whiteintel/whiteintel",
+      "version": "0.7.10",
+      "transitions": [
+        "transport_type_changed"
+      ],
+      "updated_at_moved": true,
+      "old_content_hash": "2fc57fb154f45beb50f738c0bf5eb9c6fe133d6118585206e5ef2a672dbe73d4",
+      "new_content_hash": "133b5b1ba47e01c33769447696ac5f2c7dc61abbf1d39bcc8ea99e668d9b0732"
+    }
+  ],
+  "silent_edit_count": 12,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "io.github.SongRenShuo/sql-visualizer",
+      "version": "2026.11.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.9",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/fred-mcp-server",
+      "version": "0.1.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.webbase/webbase",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.sealgate/sealgate",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.sealgate/sealgate",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tulimoa/gateway",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.stand-out-of-my-sun/diogenes-eve-frontier-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/latin",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.draftkingsapi/server",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/libofcongress-mcp-server",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.virohanalife/booking",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.sealgate/sealgate",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/hub",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arxo/picc",
+      "version": "0.3.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.avacast/avacast",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.7.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-grok",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.neverinfamous/sqlite-mcp-server",
+      "version": "2.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.guestlogic/guest-logic",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.8",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/norse",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.avacast/avacast",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/slavonic",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.virohanalife/mnemos",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arxo/picc",
+      "version": "0.3.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.virohanalife/site",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.agentsrank/agentsrank",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "agency.ottobot/licensed-house-painters",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-grok",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.5.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/slavonic",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.tacticafootball/tactica",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-grok",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.16",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.malkreide/swiss-environment-mcp",
+      "version": "V0.7.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.liuwangcun.api/chinese-compliance-tools",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.admitprotocol/admit-protocol",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/fred-mcp-server",
+      "version": "0.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.wizbi/wizbi",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.maxaeo/maxaeo-ai-visibility-mcp",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "jp.sealgate/sealgate",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.4",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.9.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.9.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.guestlogic/guest-logic",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.7.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.6.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.maxaeo/maxaeo-ai-visibility-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.draftkingsapi/server",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.nativeport/mcp",
+      "version": "1.5.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.17",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/anglo",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/latgalian",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arxo/de-bgb",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/latin",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "tv.makata/bim",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.2",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.draftkingsapi/server",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.tulimoa/gateway",
+      "version": "1.1.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/slavonic",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.getproven/trust-index",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.sealgate/sealgate",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.arxo/charter",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.wizbi/wizbi",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/scythian",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.virohanalife/virohana-business",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.brawlaphant/vealth",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.CustomBlinds/cb-shop",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.codecoradev/uteke",
+      "version": "0.23.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arxo/code-civil",
+      "version": "0.1.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.12",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "agency.ottobot/licensed-house-painters",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.13",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/openstates-mcp-server",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.8.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.4.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.getproven/trust-index",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.2.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arxo/charter",
+      "version": "0.1.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.webhookadmin/webhookadmin",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.agentready-tools/agentready-tools",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.brainsbehind/brain",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.guestlogic/guest-logic",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/shift-mcp-server",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.avacast/avacast",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.3.15",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/eia-mcp-server",
+      "version": "0.1.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.6",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.7.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.clerk/mcp-server",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.arxo/de-bgb",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.2.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "uk.co.tacticafootball/tactica",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/interslavic",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.admitprotocol/admit-protocol",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.7.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/latgalian",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.wizbi/wizbi",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.avacast/avacast",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.miisodev/handy",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.68.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/scythian",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.virohanalife/portfolio",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-claude",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.tulimoa/gateway",
+      "version": "1.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.getproven/trust-index",
+      "version": "1.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.2.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "agency.ottobot/licensed-house-painters",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.guestlogic/guest-logic",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.6.14",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.9.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.7.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.7",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/norse",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.draftkingsapi/server",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.11.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.7.8",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.57",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.4.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/bls-mcp-server",
+      "version": "0.1.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "agency.ottobot/licensed-house-painters",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-grok",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.liuwangcun.api/chinese-compliance-tools",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/latin",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.webhookadmin/webhookadmin",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.10",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-llm",
+      "version": "0.4.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.tsenta/tsenta",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.5.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.4.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/nominatim-mcp-server",
+      "version": "0.1.8",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.5.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.tulimoa/gateway",
+      "version": "1.2.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.getproven/trust-index",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/eia-mcp-server",
+      "version": "0.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.5",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.webhookadmin/webhookadmin",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/livonian",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "ai.nativeport/mcp",
+      "version": "1.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-antigravity",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.2.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/scythian",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.10.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.sealgate/sealgate",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.5.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.11",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/hub",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.codecoradev/uteke",
+      "version": "0.24.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Superfast-Robotics/robot-skill-hub",
+      "version": "0.3.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zoharbabin/google-researcher",
+      "version": "6.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.arxo/code-civil",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.goyo-studio/korean-real-estate-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.codecoradev/uteke",
+      "version": "0.24.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Apertura-AI/arquestra",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.9.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.cyanheads/onebusaway-mcp-server",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-gemini",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.3.9",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/eia-mcp-server",
+      "version": "0.1.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.7",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.awardsecrets/award-availability",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jurimaxam-dotcom/chemdraw-mcp",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.valksor/norse",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-ollama",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Lykhoyda/ask-codex",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.cyanheads/gbif-mcp-server",
+      "version": "0.1.3",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.valksor/latin",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "jp.avacast/avacast",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3404,
+  "vanished_version_records": 0
+}
