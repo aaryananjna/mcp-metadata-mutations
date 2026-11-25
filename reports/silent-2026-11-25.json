@@ -1,0 +1,889 @@
+{
+  "from": "2026-11-24",
+  "to": "2026-11-25",
+  "compared_version_records": 293937,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mcp-dir/liquidacao-de-sentenca-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.wizmessage/whatsapp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.holydb/holydb-mcp",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.36.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.16.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mcp-dir/revisao-bancaria-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.17.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.20",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hitori-hojokin/subsidies",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.30.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.25.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.thelastboardgame/studio",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.36.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.joeyaflores/ourpr-mcp-server",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jordanburke/temporal-mcp-server",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.11.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.19.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.portproof/mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.19.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.MikeyPetrillo/agent402",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.22.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.claudeisgod/wren-presign-check",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.22.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.22.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.21",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.24",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.30.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/17hats",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.joeyaflores/ourpr-mcp-server",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.34.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.18",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jordanburke/temporal-mcp-server",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.36.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.portproof/mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.21.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.mofanx/pilotdroid",
+      "version": "0.6.1.post1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.18.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.joeyaflores/ourpr-mcp-server",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.portproof/mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "pro.valkiria/valkiria",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.30.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "org.portproof/mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.11.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.29.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.19.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.61",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aidoptio/advisor",
+      "version": "1.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.keytomic/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clippertask/clippertask",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.34.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.stackrates/vps-prices",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.34.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.68.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.27.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Hashlock-Tech/hashlock",
+      "version": "1.14.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.36.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.16.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aidoptio/advisor",
+      "version": "1.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.20.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/17hats",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jams4code/cypress-mcp",
+      "version": "0.4.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.cotlet/17hats",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.29.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.cto-legends/recon-concierge",
+      "version": "1.3.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.35.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.21.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aarwitz/tapp",
+      "version": "0.19.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.30.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.26.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.16.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jordanburke/temporal-mcp-server",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.28.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.agentsrank/agentsrank",
+      "version": "2.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.32.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.23.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.wizmessage/whatsapp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.34.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.30.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.nicglazkov/commutescout",
+      "version": "2.142.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.clippertask/clippertask",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.kawal393/apex-psi-mcp",
+      "version": "1.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.31.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.35.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.karlmehta/trustmodel-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.hitori-hojokin/subsidies",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.11.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "org.portproof/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.adswipefile/adswipefile",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.18.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.32.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.veriacta/law",
+      "version": "1.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.stackrates/vps-prices",
+      "version": "1.7.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.makz81/spendlog",
+      "version": "1.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.transopt.delopt.api/mcp",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "2.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.33.22",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.joeyaflores/ourpr-mcp-server",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.jams4code/cypress-mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.YazanAlabed/aigradjobs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.jams4code/cypress-mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.32.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.27.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Apex-Foundation/copilot-mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.34.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.contrastcyber/api",
+      "version": "1.29.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3068,
+  "vanished_version_records": 0
+}
