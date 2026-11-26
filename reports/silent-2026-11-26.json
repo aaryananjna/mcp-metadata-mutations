@@ -1,0 +1,775 @@
+{
+  "from": "2026-11-25",
+  "to": "2026-11-26",
+  "compared_version_records": 297005,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "fr.capepartners/cape-exchange",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.workpods/agent-ready-mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.5.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.avahit/catalog",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Davincc77/mechacut",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aicanvas-me/aicanvas",
+      "version": "0.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChanghuLiu/factorytalk-import-preflight",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.13.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.itbisp/imoveis",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChanghuLiu/factorytalk-import-preflight",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.14.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.aeoauditing/aeo-auditor-mcp",
+      "version": "2.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.workpods/agent-ready-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.68.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.5.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.6.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.13",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.1.4/g",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.1.2/g",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.18.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.16.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.16.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.12",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.2.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Archaofan/xusbcan",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.7.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.luminous-algo/luminous-mcp",
+      "version": "0.3.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.eukollab/eukreate-find-home",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.13.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.avahit/catalog",
+      "version": "1.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.sarnai/agent-discovery-board",
+      "version": "0.4.62",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.PagerDuty/pagerduty-mcp",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.neurouter/gateway",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "co.founden.glp1pricesco/glp1-price-index",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.eukollab/eukreate-find-home",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.5.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.13.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.2.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.6.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.7.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.gc-airporttransfers/booking",
+      "version": "2.4.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.courtsapp/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.3.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.turnzero/cloud",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.7.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.17.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Archaofan/xusbcan",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.adrianhomelab/leadgen-onrc",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChanghuLiu/factorytalk-import-preflight",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.postnext/postnext",
+      "version": "1.5.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.16.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.17.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.6.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "fr.ctweb/check",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.avahit/catalog",
+      "version": "2.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.5.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.6.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.sfxmint/sounds",
+      "version": "1.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "gg.primitives/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ChanghuLiu/factorytalk-import-preflight",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.ChanghuLiu/factorytalk-import-preflight",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.linkgents/linkgents",
+      "version": "1.0.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.2.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.didww.doc/mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.14",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.17",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "site.chatgpt.orellise.relay-agent-services/relay",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.15",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.2.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.probityai/agent-evidence-mcp",
+      "version": "0.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.neurouter/gateway",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.courtsapp/mcp",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.aashishmahajan/kube-noob",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.11",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.15.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.itbisp/itbisp",
+      "version": "0.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.19.16",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.16.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.edgegap/mcp",
+      "version": "0.4.0",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 3503,
+  "vanished_version_records": 0
+}
