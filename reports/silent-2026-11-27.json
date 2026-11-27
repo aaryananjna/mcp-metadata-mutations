@@ -1,0 +1,823 @@
+{
+  "from": "2026-11-26",
+  "to": "2026-11-27",
+  "compared_version_records": 300508,
+  "silent_edits": [],
+  "silent_edit_count": 0,
+  "silent_edits_without_updated_at_bump": 0,
+  "silent_edits_not_reported_by_api": 0,
+  "status_flips": [
+    {
+      "server": "ai.bowmark/bowmark",
+      "version": "8.236.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm30i",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.r3dz4r/datapulse-my",
+      "version": "3.68.10",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.12.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.10.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm30h",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.11.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.10.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm73",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.10.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.14.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.15.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.balrok12/archive-md",
+      "version": "3.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm73meta",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.2.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.char5742/uspto-patents-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "dev.3tg/mcp",
+      "version": "1.0.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "es.cesaryague/paki-curator",
+      "version": "2.0.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "it.ainextstudio/seo-check",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.11.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.2.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm73nips",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.15.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.8.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.meridianlabssoftware/google-trends",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.11.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Hashlock-Tech/hashlock",
+      "version": "1.15.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm30c",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.voiddo.data/mint-utilities",
+      "version": "1.0.0",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.11.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.11.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.char5742/autotroph-data-apis",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.2.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.10.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.14.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "1.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.12.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "dev.3tg/mcp",
+      "version": "1.1.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.9.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.voiddo.data/mint-utilities",
+      "version": "1.1.1",
+      "from": "deprecated",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "1.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.imperioutils/fisco-it",
+      "version": "3.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Fractal-Neurons/pacta",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Fractal-Neurons/pacta",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Fractal-Neurons/pacta",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.12.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm37a",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.mcplookup/mcp",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm30",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm75",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.f-tiger/getecoback-climate-weather",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcplookup/mcp",
+      "version": "0.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcplookup/mcp",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.crunchtools/trentina",
+      "version": "0.5.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.7",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.char5742/us-federal-register-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.lubobali/lubot",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.Soflutionltd/rocketwright",
+      "version": "3.12.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.eukollab/eukreate-find-home",
+      "version": "1.0.0",
+      "from": "deleted",
+      "to": "active"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm30",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.meridianlabssoftware/ats-jobs",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.3.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.3.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm46",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm54",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "it.ainextstudio/seo-check",
+      "version": "0.1.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.wedding-seat/wedding-planner",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.kumar-miskin/apiverify",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.11.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.17.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.balrok12/archive-md",
+      "version": "3.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "ai.eukollab/eukreate-find-home",
+      "version": "1.0.1",
+      "from": "deleted",
+      "to": "active"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.char5742/ted-eu-tenders-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Fractal-Neurons/pacta",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.10.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.wnsod/oneqaz-trading-mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.f-tiger/getecoback-raumklima",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.13.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcplookup/mcp",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.15.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mytinycrew/crew",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm40",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nmjib/nmjib",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.5",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.8.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.8",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.surendranb/google-analytics-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "cloud.dchub/mcp-server",
+      "version": "2.12.63",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.14.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.17.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.ThomasGorisse/sceneview",
+      "version": "3.4.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.nmjib/nmjib",
+      "version": "1.0.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcpheartbeat/mcp-heartbeat",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.16.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.char5742/us-federal-contracts-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm51",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.char5742/sec-edgar-xbrl-mcp",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm73v6",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.Fractal-Neurons/pacta",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.2.0",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.9",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm30p",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm40",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "com.nmjib/nmjib",
+      "version": "1.0.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.zz959397ghb/zzm49",
+      "version": "1.0.0",
+      "from": "active",
+      "to": "deleted"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcplookup/mcp",
+      "version": "0.1.6",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "it.ainextstudio/seo-check",
+      "version": "0.1.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.1.4",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "com.mcplookup/mcp",
+      "version": "0.1.1",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-agymail",
+      "version": "0.15.2",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.pironjulien/nexus-indesign",
+      "version": "4.1.3",
+      "from": "active",
+      "to": "deprecated"
+    },
+    {
+      "server": "io.github.syncky/syncky-health",
+      "version": "0.1.4",
+      "from": "active",
+      "to": "deprecated"
+    }
+  ],
+  "new_version_records": 2978,
+  "vanished_version_records": 0
+}
